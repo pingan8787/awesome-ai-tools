@@ -1298,3 +1298,57 @@ Some of its built-in features:
 102. [WidgetsAI](https://widgetsai.com/)  👉  WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots. Our platform offers configurable API, giving you the flexibility to tailor the AI widgets to your specific needs. You can easily integrate these widgets with your own API keys or use shared keys for added convenience. Additionally, our direct payment system via Stripe allows you to monetize your AI widgets and earn money from sharing them with your audience.
 
 103. [Xokind](https://www.xokind.com/)  👉  AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
+
+## 4. 👔 Business
+
+## 5. 🎥 Video
+
+## 6. 🎨 Design
+
+## 7. 📷 Image Editing
+
+## 8. 🗣️ Text & Speech
+
+## 9. 💬 Chatbots
+
+## 10. 📚 Research & Education
+
+## 11. 🧑 Avatars & Profile Pics
+
+## 12. 🎙 Audio & Voice
+
+## 13. 🤝 Team & Work
+
+## 14. 📱 Social Media
+
+## 15. 🤹‍♀️ Fun, Gifts & Cards
+
+## 16. 🔎 SEO & Searching
+
+## 17. 🧑‍💼 Job & Career
+
+## 18. 🎓 Notes & Studying
+
+## 19. 🎹 Music & Lyrics
+
+## 20. 📥 Emails
+
+## 21. ❓ Q & A
+
+## 22. 🧚 Stories & Kids
+
+## 23. 💡 Idea Generation
+
+## 24. 🛍️ eCommerce
+
+## 25. 🕹 Gaming
+
+## 26. 🏠 Home & Architecture
+
+## 27. ✏️ Drawing & Cartoons
+
+## 28. 💳 Finance
+
+## 29. 👜 Fashion & Style
+
+## 30. 💌 Dating & Relationships
