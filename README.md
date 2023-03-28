@@ -1,46 +1,35 @@
-# awesome-ai-tools
-
 > Finding the AI tools you need!
 
-<!-- vscode-markdown-toc -->
-
-- [awesome-ai-tools](#awesome-ai-tools)
-  - [1. 📷 Image \& Art Generation](#1--image--art-generation)
-  - [2. ✍️ Writing](#2-️-writing)
-  - [3. 💻 Dev](#3--dev)
-  - [4. 4. 👔 Business](#4-4--business)
-  - [5. 5. 🎥 Video](#5-5--video)
-  - [6. 6. 🎨 Design](#6-6--design)
-  - [7. 7. 📷 Image Editing](#7-7--image-editing)
-  - [8. 8. 🗣️ Text \& Speech](#8-8-️-text--speech)
-  - [9. 9. 💬 Chatbots](#9-9--chatbots)
-  - [10. 10. 📚 Research \& Education](#10-10--research--education)
-  - [11. 11. 🧑 Avatars \& Profile Pics](#11-11--avatars--profile-pics)
-  - [12. 12. 🎙 Audio \& Voice](#12-12--audio--voice)
-  - [13. 13. 🤝 Team \& Work](#13-13--team--work)
-  - [14. 14. 📱 Social Media](#14-14--social-media)
-  - [15. 15. 🤹‍♀️ Fun, Gifts \& Cards](#15-15-️-fun-gifts--cards)
-  - [16. 16. 🔎 SEO \& Searching](#16-16--seo--searching)
-  - [17. 17. 🧑‍💼 Job \& Career](#17-17--job--career)
-  - [18. 18. 🎓 Notes \& Studying](#18-18--notes--studying)
-  - [19. 19. 🎹 Music \& Lyrics](#19-19--music--lyrics)
-  - [20. 20. 📥 Emails](#20-20--emails)
-  - [21. 21. ❓ Q \& A](#21-21--q--a)
-  - [22. 22. 🧚 Stories \& Kids](#22-22--stories--kids)
-  - [23. 23. 💡 Idea Generation](#23-23--idea-generation)
-  - [24. 24. 🛍️ eCommerce](#24-24-️-ecommerce)
-  - [25. 25. 🕹 Gaming](#25-25--gaming)
-  - [26. 26. 🏠 Home \& Architecture](#26-26--home--architecture)
-  - [27. 27. ✏️ Drawing \& Cartoons](#27-27-️-drawing--cartoons)
-  - [28. 28. 💳 Finance](#28-28--finance)
-  - [29. 29. 👜 Fashion \& Style](#29-29--fashion--style)
-  - [30. 30. 💌 Dating \& Relationships](#30-30--dating--relationships)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+- [1. 📷 Image \& Art Generation](#1--image--art-generation)
+- [2. ✍️ Writing](#2-️-writing)
+- [3. 💻 Dev](#3--dev)
+- [4. 👔 Business](#4--business)
+- [5. 🎥 Video](#5--video)
+- [6. 🎨 Design](#6--design)
+- [7. 📷 Image Editing](#7--image-editing)
+- [8. 🗣️ Text \& Speech](#8-️-text--speech)
+- [9. 💬 Chatbots](#9--chatbots)
+- [10. 📚 Research \& Education](#10--research--education)
+- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics)
+- [12. 🎙 Audio \& Voice](#12--audio--voice)
+- [13. 🤝 Team \& Work](#13--team--work)
+- [14. 📱 Social Media](#14--social-media)
+- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards)
+- [16. 🔎 SEO \& Searching](#16--seo--searching)
+- [17. 🧑‍💼 Job \& Career](#17--job--career)
+- [18. 🎓 Notes \& Studying](#18--notes--studying)
+- [19. 🎹 Music \& Lyrics](#19--music--lyrics)
+- [20. 📥 Emails](#20--emails)
+- [21. ❓ Q \& A](#21--q--a)
+- [22. 🧚 Stories \& Kids](#22--stories--kids)
+- [23. 💡 Idea Generation](#23--idea-generation)
+- [24. 🛍️ eCommerce](#24-️-ecommerce)
+- [25. 🕹 Gaming](#25--gaming)
+- [26. 🏠 Home \& Architecture](#26--home--architecture)
+- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons)
+- [28. 💳 Finance](#28--finance)
+- [29. 👜 Fashion \& Style](#29--fashion--style)
+- [30. 💌 Dating \& Relationships](#30--dating--relationships)
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
@@ -1320,7 +1309,7 @@ Some of its built-in features:
 
 103.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
-## 4. <a name='Business'></a>4. 👔 Business
+## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
 
@@ -1548,7 +1537,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
-## 5. <a name='Video'></a>5. 🎥 Video
+## 5. <a name='Video'></a>🎥 Video
 
 1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
 
@@ -1750,52 +1739,52 @@ Join 2700+ creators to reach billions of people globally
 
 92. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
 
-## 6. <a name='Design'></a>6. 🎨 Design
+## 6. <a name='Design'></a>🎨 Design
 
-## 7. <a name='ImageEditing'></a>7. 📷 Image Editing
+## 7. <a name='ImageEditing'></a>📷 Image Editing
 
-## 8. <a name='TextSpeech'></a>8. 🗣️ Text & Speech
+## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
-## 9. <a name='Chatbots'></a>9. 💬 Chatbots
+## 9. <a name='Chatbots'></a>💬 Chatbots
 
-## 10. <a name='ResearchEducation'></a>10. 📚 Research & Education
+## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
-## 11. <a name='AvatarsProfilePics'></a>11. 🧑 Avatars & Profile Pics
+## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
-## 12. <a name='AudioVoice'></a>12. 🎙 Audio & Voice
+## 12. <a name='AudioVoice'></a>🎙 Audio & Voice
 
-## 13. <a name='TeamWork'></a>13. 🤝 Team & Work
+## 13. <a name='TeamWork'></a>🤝 Team & Work
 
-## 14. <a name='SocialMedia'></a>14. 📱 Social Media
+## 14. <a name='SocialMedia'></a>📱 Social Media
 
-## 15. <a name='FunGiftsCards'></a>15. 🤹‍♀️ Fun, Gifts & Cards
+## 15. <a name='FunGiftsCards'></a>🤹‍♀️ Fun, Gifts & Cards
 
-## 16. <a name='SEOSearching'></a>16. 🔎 SEO & Searching
+## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
 
-## 17. <a name='JobCareer'></a>17. 🧑‍💼 Job & Career
+## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
-## 18. <a name='NotesStudying'></a>18. 🎓 Notes & Studying
+## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
-## 19. <a name='MusicLyrics'></a>19. 🎹 Music & Lyrics
+## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
-## 20. <a name='Emails'></a>20. 📥 Emails
+## 20. <a name='Emails'></a>📥 Emails
 
-## 21. <a name='QA'></a>21. ❓ Q & A
+## 21. <a name='QA'></a>❓ Q & A
 
-## 22. <a name='StoriesKids'></a>22. 🧚 Stories & Kids
+## 22. <a name='StoriesKids'></a>🧚 Stories & Kids
 
-## 23. <a name='IdeaGeneration'></a>23. 💡 Idea Generation
+## 23. <a name='IdeaGeneration'></a>💡 Idea Generation
 
-## 24. <a name='eCommerce'></a>24. 🛍️ eCommerce
+## 24. <a name='eCommerce'></a>🛍️ eCommerce
 
-## 25. <a name='Gaming'></a>25. 🕹 Gaming
+## 25. <a name='Gaming'></a>🕹 Gaming
 
-## 26. <a name='HomeArchitecture'></a>26. 🏠 Home & Architecture
+## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
-## 27. <a name='DrawingCartoons'></a>27. ✏️ Drawing & Cartoons
+## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
-## 28. <a name='Finance'></a>28. 💳 Finance
+## 28. <a name='Finance'></a>💳 Finance
 
-## 29. <a name='FashionStyle'></a>29. 👜 Fashion & Style
+## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
-## 30. <a name='DatingRelationships'></a>30. 💌 Dating & Relationships
+## 30. <a name='DatingRelationships'></a>💌 Dating & Relationships
