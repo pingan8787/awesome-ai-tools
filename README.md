@@ -2,11 +2,12 @@
 
 > Finding the AI tools you need!
 
-1. [📷 Image & Art Generation](📷 Image & Art Generation)
-2. [✍️ Writing](✍️ Writing)
-3. [💻 Dev](💻 Dev)
+1. [📷 Image & Art Generation](#ImageArtGeneration)
+2. [✍️ Writing](#Writing)
+3. [💻 Dev](#Dev)
 
-## 1. 📷 Image & Art Generation
+## 1. <a name='ImageArtGeneration'>📷 Image & Art Generation</a>
+
 
 1. [4AiPaw](https://play.google.com/store/apps/details)  👉  AI art generator to create stunning artworks in seconds
 
@@ -557,7 +558,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 272. [Zazow](https://www.zazow.com/)  👉  Create your own artwork by using computer generated algorithms. Learn about generative or algorithmic art.
 
 
-## 2. ✍️ Writing
+## 2. <a name='Writing'>✍️ Writing</a>
 
 1. [AI Cowriter](https://ai-cowriter.com/)  👉  Write 10x faster with AI-generated autocomplete text suggestions
 
@@ -1068,7 +1069,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 246. [Zite](https://www.zite.ai/)  👉  Revolutionize your ads, emails, and outreach with unlimited high-end copy variations, generated in seconds.
 
 
-## 3. 💻 Dev
+## 3. <a name='Dev'>💻 Dev</a>
 
 1. [Adept](https://www.adept.ai/)  👉  ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
 
