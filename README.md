@@ -2333,6 +2333,122 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
+1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
+
+2. [Andi](https://andisearch.com/) 👉 Instead of just links, Andi gives you answers - like talking with a smart friend.
+
+3. [BlockSurvey](https://blocksurvey.io/ai-surveys/) 👉 Create surveys using AI in seconds.
+
+4. [BlockSurvey](https://blocksurvey.io/ai-surveys/) 👉 Create surveys in seconds using AI
+
+5. [Bookclub](https://www.bookclub.ai/) 👉 Bookclub.ai | Meet your next book
+
+6. [BusterAI](https://busterai.com/) 👉 Detect whether text was written by a human or AI.
+
+7. [ChatMind](https://www.chatmind.tech/) 👉 Generating and Modifying Mind Maps through AI Dialogue
+
+8. [Checklist.gg](https://checklist.gg/) 👉 Create checklists using AI in seconds.
+
+9. [Compar](https://compar.ai/) 👉 AI Powered Content Analyses.
+
+10. [Consensus](https://consensus.app/) 👉 A search engine that uses AI to instantly extract, aggregate, and distill findings directly from scientific research.
+
+11. [Edaly](https://edaly.co/) 👉 Edaly - Revolutionizing Remote Education Using AI
+
+12. [Elicit](https://elicit.org/) 👉 Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more.
+
+13. [ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993) 👉 ‎ExamCram is an innovative app that uses artificial intelligence to help students study more efficiently. With ExamCram, students can convert any type of media, such as lectures or textbook passages, into personalized study materials, including flashcards and practice tests.  The app's AI algorithms…
+
+14. [Explain Like I'm Five](https://explainlikeimfive.io/) 👉 Ready to make sense of the world? ELI5 can help explain tough concepts in an easy-to-understand way.
+
+15. [Explainpaper](https://www.explainpaper.com/) 👉 A better way to read academic papers.
+
+16. [ExplainThis](https://explainthis.ai/) 👉 ExplainThis.AI
+
+17. [Galactica](https://galactica.org/) 👉 AI trained on humanity's scientific knowledge.
+
+18. [GapScout](https://gapscout.com/) 👉 Analyze every review written about your business (and your competitors), and find the most profitable gaps in the market.
+
+19. [Genei](https://www.genei.io/) 👉 Automatically summarise background reading and produce blogs, articles, and reports faster.
+
+20. [Glean](https://www.glean.com/) 👉 Search across all your company's apps to help you find exactly what you need and discover the things you should know.
+
+21. [Goodlookup](https://www.goodlookup.com/) 👉 Smart function for spreadsheet users. It delivers the benefits of AI language models to regular people.
+
+22. [GPT-Prompter](https://gptprompter.com/) 👉 Chrome extension to get fast explanation of the selected text.
+
+23. [Heyday](https://heyday.xyz/) 👉 Heyday resurfaces content you forgot about with enhanced search results, article overlays, and a knowledge base that fills itself.
+
+24. [jotted](https://jotted.page/public/) 👉 AI study tool that generates flashcards for a given passage of text.
+
+25. [Langotalk](https://www.langotalk.org/) 👉 Have confident conversations in weeks instead of years.
+
+26. [LanguagePro](https://bot.petit.today/) 👉 Your AI Language Assistant
+
+27. [Legalese Decoder](https://legalesedecoder.com/) 👉 Simplify Everyday Jargons & Legalese Instantly
+
+28. [Lingobo](https://lingobo.com/) 👉 Practice English, French, Spanish, Portuguese, Japanese, Chinese, Korean, Hindi, Indonesian, Polish, German, and many other languages.
+
+29. [Lookup](https://www.uselookup.com/) 👉 Import your data, ask questions in plain english, and get answers instantly with the power of AI.
+
+30. [Lorro](https://lorro.io/) 👉 Practice speaking English with our GPT-powerd AI bot
+
+31. [Maya AI](https://meetmaya.world/) 👉 Meet Maya, an AI human that helps to find answers within data faster, better, and more accurately.
+
+32. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
+
+33. [MindSmith](https://www.mindsmith.ai/) 👉 Experience the future of learning with our generative AI microlearning tool. Our cutting-edge technology creates beautiful lessons to help you train and teach more efficiently. Try it now and see the difference.
+
+34. [Paperade Startup Idea Generator](https://www.paperade.co/) 👉 Insights on academic papers to help you find your next big idea.
+
+35. [PersonaCardAI](https://www.personacardai.com/) 👉 Our AI reveals your top 3 personas profiles within your CRM with 20+ attributes.
+
+36. [PrepAI](https://www.prepai.in/us/) 👉 PrepAI is a one stop solution for all your assessment needs and question papers with it’s most advanced AI capabilities.
+
+37. [Revive](https://letsrevive.app/) 👉 Generate & visualise your business ideas with the power of AI.
+
+38. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+39. [Scholarcy](https://www.scholarcy.com/) 👉 Scholarcy™ is an online summarizing tool that generates and converts long articles into summary flashcards. Sign up free & start summarizing
+
+40. [Scispace](https://typeset.io/) 👉 Your platform to explore and explain papers. Search for 270M+ papers, understand them in simple language, and find connected papers, authors, topics.
+
+41. [Seek](https://www.seek.ai/) 👉 The intelligent data layer. Ask your data anything and get answers, instantly
+
+42. [Socratic](https://socratic.org/) 👉 Take a photo of your homework question and get answers, math solvers, explanations, and videos. Works for Math, Science, History, English, and more.
+
+43. [Sona](https://www.readthistwice.com/sona) 👉 Hey there! I'm Sona, your book-loving AI assistant. I'm here to help you find your next literary adventure. Just tell me what you're in the mood for, and I'll use my book smarts to recommend the perfect read for you.
+
+44. [StudyWand](https://saasaitools.com/StudyWand.com) 👉 Turn youtube videos into educational quizzes
+
+45. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
+
+46. [SummerEyes](https://summereyes.ai/) 👉 Summarize any text on the internet in one click. Get to the point in a fraction of the time.
+
+47. [Teach anything](https://www.teach-anything.com/) 👉 Teach you anything in seconds
+
+48. [Teacherbot](https://teacherbot.io/) 👉 We have developed the most powerful tool a teacher can have access to. You can create tasks and activities for all levels as well as topic plans, forward plans, lesson plans and much more.
+
+49. [Titan](https://www.compliancequarter.com.au/titan) 👉 Word Titan: a GPT-3 Word Add In The GPT-3 add-in for Microsoft Word allows you to use the power of GPT-3 to transform your writing with just a few clicks. Access the power of GPT-3 from Word.
+
+50. [To Teach](https://to-teach.ai/) 👉 Unlock the power of AI in your classroom. Get access to AI-generated, personalized teaching materials tailored to your students' interests and needs.
+
+51. [To Teach AI](https://www.to-teach.ai/) 👉 Unlock the power of AI in your classroom with to-teach.ai. Get access to free, personalized teaching materials tailored to your students' interests and needs.
+
+52. [tute.ai](https://www.tute.ai/) 👉 Say goodbye to bad grades; learn anything, anywhere, 24/7.
+
+53. [TutorAI](https://www.tutorai.me/) 👉 Learn about anything, instantly
+
+54. [Tutorly](https://tutorly.ai/) 👉 Homework? We've got this.
+
+55. [Unschool AI](https://unschoolai.com/) 👉 AI assisted inspiration for interest-based learning for homeschooling
+
+56. [VEG3](https://veg3.ai/) 👉 Join the beta test for the world's first vegan artificial intelligence marketing assistant.
+
+57. [YouTube Summary with ChatGPT](https://glasp.co/youtube-summary) 👉 Social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
+
+58. [‎ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/) 👉 Study with AI to convert media into study material
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 ## 12. <a name='AudioVoice'></a>🎙 Audio & Voice
