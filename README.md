@@ -1915,6 +1915,154 @@ Some of its built-in features:
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
+1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
+
+2. [AI Designer](https://imgcreator.zmo.ai/editor) 👉 Create art and images with AI for free. ImgCreator.ai can generate images, art, illustrations, anime, logos, designs from text and images. Our proprietary technology will bring your imagination to life.
+
+3. [AI Image Enlarger](https://imglarger.com/) 👉 imglarger.com
+
+4. [AI Image Upscaler](https://www.upscale.media/) 👉 Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images.
+
+5. [AILab Tools](https://www.ailabtools.com/) 👉 AILabtools artificial intelligence platform, provides powerful online image editing tools to help you easily process photos, providing black and white image colouring, sharpness enhancement, contrast enhancement, image lossless enlargement, portrait animation, photo age change, photo gender change, image style change and many other practical and powerful functions, and provides the corresponding API interface, use AILabtools online image processing, easy and efficient online P-map, you can also use the API to develop your own image processing tools.
+
+6. [Alto AI](https://apps.apple.com/us/app/alto-ai-photo-enhancer/id1634488334) 👉 ‎Alto AI is the photo enhancement application to clear blurry pictures and enhance high resolution by using AI technology Turn your old, blurry photos into amazing, clear HD ones in just a SECOND! With Alto AI, you can give your low-resolution photos and they will look clear with high-resolution.…
+
+7. [Artbreeder](https://www.artbreeder.com/) 👉 Artbreeder
+
+8. [Astria.ai](https://www.astria.ai/) 👉 Create custom images using AI
+
+9. [Audo AI](https://audo.ai/) 👉 One click audio cleaning for YouTubers and Podcasters ️
+
+10. [AVC AI](https://avc.ai/) 👉 Online AI Image Enhancer that Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More
+
+11. [BigJpg](https://bigjpg.com/) 👉 Bigjpg - Image Super-Resolution for Anime-style artworks using the Deep Convolutional Neural Networks without quality loss. Photos are also supported.
+
+12. [Boolpic](https://boolv.tech/toolkit) 👉 Free & Lightspeed AI Image Editing Platform - Boolv.Toolkit | 123
+
+13. [Claid.ai](https://claid.ai/) 👉 AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically.
+
+14. [Clipdrop](https://clipdrop.co/) 👉 Create professional visuals without a photo studio
+
+15. [ClipDrop Replace Background](https://clipdrop.co/replace-background) 👉 Teleport anything, anywhere with AI
+
+16. [Colorize](https://colorize.cc/) 👉 Colorize photo online. Restore black and white photos.
+
+17. [Cutout Pro](https://www.cutout.pro/) 👉 All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.
+
+18. [D-ID](https://www.d-id.com/) 👉 Say goodbye to expensive traditional video creation! Create videos from plain text in minutes! Easy to use, cheap and scalable.
+
+19. [Designify](https://www.designify.com/) 👉 Create exceptional product photos and more: Pick any image to start the magic ✨
+
+20. [Ebsynth](https://ebsynth.com/) 👉 You paint one frame and EbSynth propagates it to the rest of the footage.
+
+21. [enhanceAI](https://apps.apple.com/us/app/id1524570112) 👉 ‎enhanceAI will vastly improve less-than-ideal images and add incredible detail with our optional Super Resolution. Automatically remove blur and noise, improve images and add up to 8x detail with enhanceAI. Don't worry about the details. Just give enhanceAI a less-than-perfect shot, and enhanceAI w…
+
+22. [Erase.bg](https://www.erase.bg/) 👉 Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed.
+
+23. [ExtendImage](https://www.extendimage.ai/) 👉 ExtendImageAI is a tool that allows you to extend your images with generative AI.
+
+24. [Gigapixel AI](https://www.topazlabs.com/) 👉 Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
+
+25. [Green Screen AI](https://greenscreenai.com/) 👉 Green Screen AI is a fun & easy way to transform your pics into generative AI art.
+
+26. [Hama](https://www.hama.app/) 👉 Amazing photo eraser
+
+27. [Holovolo](https://holovolo.tv/) 👉 holovolo - immersive volumetric VR180 videos and photos, and 3D stable diffusion, for Quest and WebVR
+
+28. [imglarger](https://imglarger.com/) 👉 Imglarger is a web app that increases image resolution and enhances visual effects using AI technology. It offers a lot of powerful tools to enhance pictures without losing quality. With imglarger, you can sharpen a blurry image, retouch a face portrait, reduce noises, remove unwanted elements, and resize images.
+
+To enhance and optimize image quality using this AI, follow these steps:
+
+Step 1: Choose a tool you need to apply to your image. You can select the tool you need from the navigation bar on the website's home page.
+
+Step 2: Upload the image you want to process. You can click the "Select Image" button to upload the image or drag the photos to the platform directly.
+
+Step 3: Click "Start" to enhance the image with your selected tool. The time may last 3-10 seconds before you can download the result.
+
+Image Enlarger is useful for photographers, graphic designers, and anyone who wants to improve image quality without losing detail or clarity. Try this AI image enhancer and get stunning photos right now.
+
+29. [Imgupscaler](https://imgupscaler.com/) 👉 Free image upscaler to upscale image by 400% and upto 16000\*16000. Upscale and enlarge images without losing quality. Support JPG/PNG/JPEG
+
+30. [jpghd](https://jpghd.com/) 👉 Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)
+
+31. [jpgRM](https://jpgrm.com/) 👉 Using 2022 cutting edged AI model to remove any unwanted bojects from your images, automatically fill the background
+
+32. [Kive](https://www.kive.ai/) 👉 Kive – all your inspiration in one place
+
+33. [Krisp](https://krisp.ai/) 👉 Krisp cancels background noise and reduces echo during your calls. Get started with Krisp today and enjoy effective online meetings.
+
+34. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 ‎Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background. PHOTO EDITOR • Use photo editor to apply different effects, filters and for best ba…
+
+35. [Letsenhance](https://letsenhance.io/) 👉 AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
+
+36. [Magic Eraser](https://magicstudio.com/magiceraser) 👉 Upload, mark the bit you need removed, download. Free to use. No signup required!
+
+37. [Magic Studio by PhotoRoom](https://apps.apple.com/us/app/photoroom-studio-photo-editor/id1455009060) 👉 Effortlessly create, edit, and organize perfect product shots with just a few taps. It’s why thousands of creators and online sellers choose PhotoRoom to get their listings live 3x faster and make more sales.
+
+38. [Nero Image Upscaler](https://ai.nero.com/image-upscaler) 👉 Simple image upscaler for resizing photos in higher resolution. #AI upscaling #AI denoising #AI optimising. Image magnified 400%.
+
+39. [Nostalgia Photo](https://www.nostalgia.photo/) 👉 Restore treasured memories at maximum resolution in a few clicks and a few cents. Our advanced AI can remove blemishes and imperfections, while preserving the original details of your photos.
+
+40. [Palette](https://palette.fm/) 👉 A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
+
+41. [Pattern Maker AI](https://patternmakerai.com/) 👉 Generate seamless vector patterns using artificial intelligence
+
+42. [Phosus](https://phosus.com/) 👉 Discover our AI-powered creative tools and API solutions for photos and images. One-click AI tools inpainting, background removal, auto fix and more. Try it now!
+
+43. [PhotoFix](https://photofix.io/) 👉 PhotoFix - Magically Edit Photos with AI - Remove unwanted people, animals or things from photos
+
+44. [Photor AI](https://photor.io/) 👉 Photor AI is a tool that uses advanced image recognition and machine learning technology to analyze and select the best images for professional or personal use
+
+45. [Photor AI](https://photor.io/photo-rater-ai) 👉 Photo Rater AI is a tool designed to help photographers evaluate their photos quickly and accurately. This tool allows users to upload their images and receive an objective analysis of various technical aspects such as composition, color, exposure, and other technical details.
+
+46. [Photorestoration](https://photorestoration.ai/) 👉 photorestoration.ai allows you to repair old damaged photos online for free with deep learning.
+
+47. [Photospells](https://photospells.com/) 👉 Professional Photo Edition with AI.
+
+48. [PixAI](https://apps.apple.com/cn/app/pixai/id6443815029) 👉 AI Image Super-resolution for iOS
+
+49. [Pixian](https://pixian.ai/) 👉 Remove Image Backgrounds, Free HD, No Signup - Pixian.AI
+
+50. [Reface](https://hey.reface.ai/) 👉 Create realistic face swap videos, GIFs and memes with just one selfie
+
+51. [ReImage AI](https://apps.apple.com/app/apple-store/id1641365018) 👉 ‎ReImage AI edits and generates images using state of the art artificial intelligence (AI). Cloud based AI servers provide access to the latest AI models, but from the ease of a phone. Edit your own photos using natural language. Create photos and artwork from natural language. See pictures of yourse…
+
+52. [Removal.ai](https://removal.ai/) 👉 Remove background online from image using background remover. Create transparent background | Download high-resolution instantly & free.
+
+53. [Remove.bg](https://www.remove.bg/) 👉 Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.
+
+54. [Remover.app](https://remover.zmo.ai/) 👉 Remover
+
+55. [Rentoor](https://rentoor.vercel.app/) 👉 Enhance Your Photos face photos and keep the memories alive.
+
+56. [RestorePhotos](https://www.restorephotos.io/) 👉 Restore your old face photos and keep the memories alive.
+
+57. [SceneryAI](https://sceneryai.com/) 👉 Generate or update existing images with our AI image editing tool.
+
+58. [Slazzer 3.0](https://www.slazzer.com/) 👉 Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout.
+
+59. [Stillgram](https://stillgram.io/) 👉 Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. FREE & PRO versions. GET IT NOW!!
+
+60. [Synthesys](https://synthesys.io/x/) 👉 Start Turning Your Online Inspiration Into Your Own Unique Creations!
+
+61. [Text to Image by Photoleap](https://www.photoleapapp.com/) 👉 Use all-in-one photo editor Photoleap for amazing creations on your iPhone: Change backgrounds, remove objects, create collages, apply filters & effects. Try a 7 day free trial now.
+
+62. [Tokkingheads](https://www.tokkingheads.com/) 👉 Animate your photos in seconds with TokkingHeads. Try it now!
+
+63. [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 👉 Get the best version of your photo with noise reduction, sharpening, upscaling, and face recovery powered by deep learning.
+
+64. [Unfake](https://unfakepng.com/) 👉 Don’t you hate it when you find that perfect, supposedly background-less PNG, download it but when you go to use it, the dreaded checkerboard appears? Our AI tool can turn those annoying fake.png  into true, unfake.png.
+
+65. [Unpromptedgame](https://www.unpromptedgame.com/) 👉 Guess the words used to create A.I. images.
+
+66. [VanceAI Image Upscaler](https://vanceai.com/image-enlarger/) 👉 VanceAI Image Upscaler helps upscale images to 800% and make 4K images in one click. Feel free to try image upscaler online or download image enlarger software!
+
+67. [Waifu XL](https://waifuxl.com/) 👉 High quality image upsampling for anime-style art using state-of-the-art neural networks, directly in your browser. Supports both images and gifs.
+
+68. [Watermark Remover](https://www.watermarkremover.io/) 👉 Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.
+
+69. [Zoomscape](https://zoomscape.ai/) 👉 Create stunning Zoom backgrounds with AI
+
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 ## 9. <a name='Chatbots'></a>💬 Chatbots
