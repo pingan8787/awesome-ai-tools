@@ -1741,6 +1741,178 @@ Join 2700+ creators to reach billions of people globally
 
 ## 6. <a name='Design'></a>🎨 Design
 
+1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
+
+2. [AI Reality](https://aireality.tech/) 👉 Create augmented reality prototypes through text from AI. Learn by doing and discover how to empower your AR projects with this technology.
+
+3. [AI Room Planner](https://airoomplanner.com/) 👉 Get hundreds of interior design ideas for your room - free with no limit.
+
+4. [Aida](https://www.bookmark.com/ai-website-builder) 👉 Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
+
+5. [Aipicasso](https://aipicasso.studio.site/) 👉 Create Art with Powerful AI
+
+6. [AIVatar](https://aivatarapp.com/) 👉 Generate magic avatar art from your photos.
+
+7. [Archistar](https://www.archistar.ai/for-architects) 👉 Design with precision, iterate with AI
+
+8. [Artistator](https://artistator.com/) 👉 Generate artist names of your favourite music genres.
+
+9. [Artreviewgenerator](http://artreviewgenerator.com/) 👉 A tool to generate and analyze language used to describe fine art.
+
+10. [ArtroomAI](https://artroom.ai/download-app/) 👉 Make beautiful AI generated art without touching a single line of code.
+
+11. [Aspen](https://www.getaspenai.com/) 👉 Aspen
+
+12. [AutoDraw](https://experiments.withgoogle.com/autodraw) 👉 Fast drawing for everyone.
+
+13. [Autoname](https://www.autoname.org/) 👉 Rename Figma frames in one click, that's pretty much it.
+
+14. [B12.io](https://www.b12.io/) 👉 B12’s website builder is the all-in-one platform for professional services. Attract leads, win business, & serve clients online. Build your free site today.
+
+15. [Brandmark](https://brandmark.io/tools/) 👉 Create a unique, professional logo for your business.
+
+16. [Cala](https://ca.la/) 👉 Design, produce, and deliver your own fully-custom fashion products.
+
+17. [CoolAIid](https://coolaiid.com/) 👉 Generate interior design ideas, virtual staging, and let you decorate your home.
+
+18. [Debuild](https://debuild.app/) 👉 Build web apps lightning fast.
+
+19. [Deflamel](https://deflamel.com/) 👉 Simplifying design process with creative artificial intelligence tools
+
+20. [Designify](https://www.designify.com/) 👉 Create automatic designs using your favorite photos.
+
+21. [Designs.ai](https://designs.ai/en) 👉 Create logos, videos, banners, mockups with A.I. in 2 minutes
+
+22. [Doodlocracy](https://doodlocracy.com/) 👉 The generative ai drawing game
+
+23. [Dream Up (By Deviant Art)](https://www.dreamup.com/) 👉 The DeviantArt DreamUp™ AI-art generator lets you create AI-art safely and fairly.
+
+24. [Dreamlike.art](https://dreamlike.art/) 👉 Create stunning original art in seconds with the power of AI.
+
+25. [Durable AI Site Builder](https://durable.co/) 👉 Generate a website in 30 seconds
+
+26. [Durable AI Site Builder](https://durable.co/ai-website-builder) 👉 Sign up for Durable and start building your website with artificial intelligence in just 30 seconds. Try Durable free for 7 days.
+
+27. [Fontis.ai](https://fontis.ai/) 👉 Create unique AI Arts printed on high-quality canvas/poster. Easy purchasing and Fast delivery. Start creating today!
+
+28. [FontJoy](https://fontjoy.com/) 👉 Generate font combinations with deep learning.
+
+29. [Fronty](https://fronty.com/) 👉 Get the HTML CSS code of your project in no time! AI-Powered tool to create a website in few minutes.
+
+30. [getimg.ai](https://getimg.ai/) 👉 Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, and more.
+
+31. [GetResponse](https://www.getresponse.com/features/website-builder) 👉 With GetResponse's simple free website builder, you can design a professional website without any previous experience using free website builder templates.
+
+32. [HeroPack](https://www.heropack.me/) 👉 Become a Hero with AI generated avatars inspired by your favorite video games.
+
+33. [Hotpot.ai](https://hotpot.ai/) 👉 Turn imagination into art.
+
+34. [Hotpot.ai](https://hotpot.ai/) 👉 Create professional graphics and pictures. AI tools allow experts and consumers to spark creativity and automate drudgery.
+
+35. [InstantArt.io](https://instantart.io/) 👉 Unlock the full potential of AI-generated art with InstantArt! With over 25 fine-tuned models and unlimited image generation, our platform is the ultimate tool for artists, designers, and creators. Easily search and browse through a massive database of AI-generated images and their accompanying text prompts, and use them as inspiration for your own creations. With our easy-to-use interface and personal galleries, you'll never run out of inspiration. Join the revolution in AI-generated art and sign up for InstantArt today!
+
+36. [InteriorAI](https://interiorai.com/) 👉 Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
+
+37. [Khroma](http://khroma.co/) 👉 The AI color tool for designers
+
+38. [Let’s Enhance](https://letsenhance.io/) 👉 Automatic AI editor to increase image resolution without losing quality.
+
+39. [Lexica](https://lexica.art/) 👉 The Stable Diffusion search engine.
+
+40. [Lunacy](https://icons8.com/lunacy) 👉 Free design software that keeps your flow with AI tools and built-in graphics
+
+41. [Magic AI Avatars](https://magicaiavatars.com/) 👉 Get 200+ custom avatars made by artificial intelligence.
+
+42. [Make3D](https://make3d.app/) 👉 Makes 3D image embeds and links from regular 2D images.
+
+43. [Maket](https://www.maket.ai/) 👉 Quickly generate thousands of architectural plans instantly.
+
+44. [MarbleFlows](https://app.marbleflows.com/ai-generator) 👉 MarbleFlows
+
+45. [Mirageml](https://www.mirageml.com/) 👉 Generate 3D Design, Fast. Simply use text to describe what you want and Mirage's AI powered platform generates 3D meshes and textures.
+
+46. [My AI Painting](https://myaipainting.com/) 👉 Write what you want, choose a style, and we'll turn it into a painting & deliver it to you.
+
+47. [NeuralStudio](https://neural.cam/studio/) 👉 All in one Photo & Art Studio, powered by the latest AI technologies, that empowers creators to reach their creative goals easily.
+
+48. [NocodeBooth](https://nocodebooth.com/) 👉 NocodeBooth is a Nocode web app template which allows you allows you to launch your own AI Image Generation application with payments and fully responsive design.
+
+Some of its built-in features:
+
+- Landing Page
+
+- User Dashboard
+
+- Referral System
+
+- Payment Integration
+
+- Responsive Design
+
+- Admin Dashboard
+
+- Email Notifications
+
+49. [Openart](https://openart.ai/) 👉 Search 10M+ of AI art and prompts generated by DALL·E 2, Midjourney, Stable Diffusion
+
+50. [Photosonic](https://photosonic.writesonic.com/) 👉 The AI that paints your dreams with pixels
+
+51. [PicSo](https://picso.ai/) 👉 Text-to-image Al art generator
+
+52. [Pictorial](https://www.pictorial.ai/) 👉 Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
+
+53. [Piggy Magic](https://piggy.to/magic) 👉 Create an engaging and shareable webpage in seconds. By entering a prompt, the tool generates 7-10 slides in a mobile-friendly format, saving time and ensuring visually appealing content. Ideal for businesses and individuals, Piggy Magic offers a user-friendly, time-saving solution for creating impactful content.
+
+54. [Playground AI](https://playgroundai.com/) 👉 Ceate art, social media posts, presentations, posters, videos, logos and more.
+
+55. [PromptExtend](https://www.promptextend.com/) 👉 Create multiple enhanced art prompts from a seed prompt. Also generates random prompt.
+
+56. [Quasi](https://quasi.market/) 👉 Use AI To Create Art, Code, Music etc.
+
+57. [Rayst Gradients](https://gradients.ray.st/) 👉 A collection of beautiful gradients generated by AI
+
+58. [Remove.bg](https://www.remove.bg/) 👉 Remove Image Background Automatically
+
+59. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+60. [Sitekick](https://www.sitekick.ai/) 👉 Sitekick allows you to create beautiful landing pages. Without the need for coding, design or copywriting skills.
+
+61. [Sitekick.ai](https://www.sitekick.ai/) 👉 AI landing page generator. Create beautiful landing pages without the need for coding, design, or copywriting skills.
+
+62. [Sketch2code](https://sketch2code.azurewebsites.net/) 👉 Transform any hand-drawn design into a HTML code with AI.
+
+63. [Sprinkle](https://getsprinkle.ch/) 👉 Say goodbye to generic stories, and hello to a new world of personalized adventure with our AI-powered storybooks - where your child becomes the star of their own unique tale!
+
+64. [Starryai](https://www.starryai.com/) 👉 Create Art with AI
+
+65. [STUDIO](https://studio.design/) 👉 Design websites with powerful AI tools, then publish with no coding required.
+
+66. [Studio Design](https://studio.design/) 👉 Ship your website with magical AI tools.
+
+67. [Superflow Rewrite](https://www.usesuperflow.com/rewrite-chatgpt) 👉 Transform your website copy with Superflow Rewrite. Rewrite is an easy-to-use tool that allows you to create compelling headlines and product descriptions with just a few clicks. Say goodbye to the struggle of iterating on copy and hello to effortless, high-quality content.
+
+68. [Tailor Brands](https://www.tailorbrands.com/logo-maker) 👉 The easy way to a unique logo design.
+
+69. [Tattoos AI](https://www.tattoosai.com/) 👉 Create the perfect tattoo design with your personal AI-powered tattoo artist.
+
+70. [TeleportHQ](https://teleporthq.io/ai-website-builder) 👉 AI-Powered website and UI Builder with Vision API
+
+71. [Textomap](https://www.textomap.com/) 👉 Turn text into maps in seconds
+
+72. [Uizard](https://uizard.io/) 👉 Design mobile apps, websites, and UIs in minutes with Uizard, the world's first AI-powered UX/UI design tool! Sign up today.
+
+73. [Visily AI](https://www.visily.ai/) 👉 Quickest way for non-designers to create app wireframes and prototypes. Powered by AI
+
+74. [VisualEyes](https://www.visualeyes.design/) 👉 User Testing insights, with the power of AI
+
+75. [Vizcom](https://www.vizcom.ai/) 👉 See your drawings come to life in seconds, not hours.
+
+76. [Webullar](https://webullar.com/) 👉 Generate a website in 30 seconds using our AI generator
+
+77. [Wombo](https://www.wombo.art/) 👉 Create beautiful artwork using the power of AI.
+
+78. [‎Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055/) 👉 Create stunning AI-generated art - with no ads ever.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
