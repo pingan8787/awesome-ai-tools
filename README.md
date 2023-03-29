@@ -1,3 +1,5 @@
+<img src="" />
+
 > Finding the AI tools you need!
 
 - [1. 📷 Image \& Art Generation](#1--image--art-generation)
@@ -2065,7 +2067,269 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
+1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
+
+2. [Analogenie](https://analogenie.com/) 👉 Power up your writing with AI-generated analogies. analogenie is your one-click assistant to generate contextual analogies for your content
+
+3. [Article Rewriter](https://aiseo.ai/tools/article-rewriter.html) 👉 This free article Rewriter tool will rewrite a complete article for you using advanced AI engines. In this way, you will get an original and well-written articles in no time.
+
+4. [Article.Audio](https://article.audio/) 👉 Instantly convert your articles into high-quality audio. You can choose from over 140 languages and natural-sounding human voices.
+
+5. [Assemblyai](https://www.assemblyai.com/) 👉 AssemblyAI is the fastest way to build with AI for audio. With a simple API, get access to production-ready AI models to transcribe and understand speech.
+
+6. [Augie](https://www.augxlabs.com/) 👉 Augie transforms words into videos. Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!
+
+7. [Big Speak](https://bigspeak.ai/) 👉 Transform text to voice & speech with our free AI software. Add your text and generate audio voices in multiple languages.
+
+8. [Calligrapher](https://www.calligrapher.ai/) 👉 Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.
+
+9. [Createaivoiceovers](https://createaivoiceovers.com/) 👉 Create AI Voiceovers is online audio conversion text to speech tool that harnesses synthetic speech technology to create quality AI voice that more accurately mimics the pitch, tone, and pace of a real human voice.
+
+10. [DeepZen](https://deepzen.io/) 👉 DeepZen
+
+11. [Descript](https://www.descript.com/transcription) 👉 AI and human transcription with industry-leading accuracy, live collaboration, search, and speaker identification. Turn speech to text for free with Descript.
+
+12. [EasySub - Auto Subtitle Generator](https://easyssub.com/) 👉 Simply upload videos and automatically get the most accurate transcription subtitles and support 150+ free language translations. Easy Video Editing Online.Free video clips, add watermark, modify background color, resolution, video export and download.
+
+13. [Eleven Labs](https://www.elevenlabs.io/) 👉 ElevenLabs || Prime Voice AI
+
+14. [ElfMessages](https://elfmessages.com/) 👉 Bring your Christmas Elf to life with a personalised audio message recorded at the North Pole.
+
+15. [ELIV](https://chrome.google.com/webstore/detail/eliv-explain-like-im-5/cnpglhcliocjaipbapalbdlbfepmamlc) 👉 AI powered assistant to explain. Highlight text; get a simple explanation.
+
+16. [ELSA SPEECH ANALYZER](https://speechanalyzer.elsaspeak.com/) 👉 Our speech recognition app is designed to evaluate and give feedback on your English pronunciation and fluency. With ELSA you can speak English like a natural.
+
+17. [FakeYou](https://fakeyou.com/) 👉 FakeYou. You can make deep fake text to speech audio and lip synced video.
+
+18. [Fliki](https://fliki.ai/) 👉 Create text to video and text to speech content with ai powered voices in minutes. Get started today and create videos and voiceovers with life-like AI voices!
+
+19. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
+
+20. [Free Text-To-Speech](https://www.text-to-speech.online/) 👉 We developed an online text-to-speech synthesis tool, which converts text into natural and smooth human voice, provides 100+ speakers for you to choose, supports multi-language, multi-dialect and Chinese-English mixing, and can configure audio flexibly parameter. It is widely used in news reading, travel navigation, intelligent hardware and notification broadcasting. And can convert the text content into MP3 files to download and save.
+
+21. [Gen Z Translator](https://genztranslator.net/) 👉 M64 is home to independent artists, strategists, and tinkerers. We make micro products, produce music, and help companies ship creative ideas that stand out in a crowded online world.
+
+22. [Inksprout Video](https://inksprout.co/) 👉 Make engaging, bite-size, social videos in seconds from your blog with AI-powered captions.
+
+23. [isLucid](https://islucid.com/) 👉 Platform with inbuilt AI assistant to manage all information that derives from meetings. Accurately transcribe meetings and maintain a detailed history. Create summaries, tasks and integrate with your business app of choice (we integrate with thousands). Manage access to meeting information and keep your teams aligned.
+
+24. [Jenni](https://jenni.ai/) 👉 Jenni is the AI assistant that keeps you in the driver's seat. Jenni works with you as you write, and once you write with Jenni you can never go back.
+
+25. [Lingostar](https://www.lingostar.ai/) 👉 Lingostar is the AI who language learners can speak to in English, Spanish, or French. Reach fluency with REAL spoken conversations for free. No more tutors - chat with the Lingostar A.I. to improve your pronunciation, vocabulary, and comprehension. Lingostar can speak about any topic you want, is always available, and will build you a personalized study plan so you can learn from your mistakes.
+
+26. [Listnr 2.0](https://www.listnr.tech/) 👉 AI Voice Generator with over 900+ voiceovers in 142+ languages, create realistic AI Voice overs. Export in MP3 or WAV format. Get started for Free!
+
+27. [Lovo](https://www.lovo.ai/) 👉 Transform your content with high-quality, AI generated voiceovers. Our AI text-to-speech solution offers natural, professional voices in 100 languages. Boost your brand with engaging audio today!
+
+28. [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) 👉 Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text.FeaturesEasily record and transcribe audio filesJust drag and drop audio files to get a transcriptionAll transcription is done on your device, no data leaves your machine.srt & .vtt subtitles export, csv exportGet accurate text transcriptions in seconds (up to ~15x realtime)Search the entire transcript and highlight wordsAudio playback and syncing to transcriptsSupports 100 different languagesCopy the entire transcript or individual sectionsReader ModeEdit and delete segments from the transcriptSelect transcription language (or use auto detect)Supported formats: mp3, wav, m4a and mp4 videos.Supports Tiny and Base modelsMacWhisper ProSupports Tiny (English Only), Tiny, Base, Medium and Large modelsTranslate audio file into another language (use the Medium or Large models)One time payment, no subscription. Pay once and use forever.Which version do you need?You can download MacWhisper or MacWhisper Pro. MacWhisper is free and lets you transcribe audio with the Tiny and Base models. They're fast and very accurate, but for the best results you should consider MacWhisper Pro. MacWhisper Pro comes with the Tiny (English), Medium and Large models, for industry leading transcription quality. Depending on your usecase you might want to use the Large version. You can always upgrade to the Pro version later.Currently in Development:Combine Segments into sentencesLive transcribe Macbook audio (meetings etc)Automatically remove ums, uhhs and other similar filler wordsAuto UpdaterAdding your own models (MacWhisper Pro only)Save files to come back to them laterImproved reader mode and export optionsTranscribe podcasts by combining single track audio for each host (MacWhisper Pro only)And plenty more.. https://twitter.com/jordibruin/status/1623355529572634632You can download MacWhisper for free or you can support my work by getting MacWhisper Pro ???? Please let me know if you run into anything.100 Supported LanguagesMacWhisper can transcribe audio in the following languages:English, Chinese, German, Spanish, Russian, Korean, French, Japanese, Portuguese, Turkish, Polish, Catalan, Dutch, Arabic, Swedish, Italian, Indonesian, Hindi, Finnish, Vietnamese, Hebrew, Ukrainian, Greek, Malay, Czech, Romanian, Danish, Hungarian, Tamil, Norwegian, Thai, Urdu, Croatian, Bulgarian, Lithuanian, Latin, Maori, Malayalam, Welsh, Slovak, Telugu, Persian, Latvian, Bengali, Serbian, Azerbaijani, Slovenian, Kannada, Estonian, Macedonian, Breton, Basque, Icelandic, Armenian, Nepali, Mongolian, Bosnian, Kazakh, Albanian, Swahili, Galician, Marathi, Punjabi, Sinhala, Khmer, Shona, Yoruba, Somali, Afrikaans, Occitan, Georgian, Belarusian, Tajik, Sindhi, Gujarati, Amharic, Yiddish, Lao, Uzbek, Faroese, Haitian Creole, Pashto, Turkmen, Nynorsk, Maltese, Sanskrit, Luxembourgish, Myanmar, Tibetan, Tagalog, Malagasy, Assamese, Tatar, Hawaiian, Lingala, Hausa, Bashkir, Javanese, Sundanese.System RequirementsMacWhisper requires a lot of computer memory to work well. To use the Medium and Large models your Mac should have more than 8GB of RAM. Performance on older Intel based Macs can also be bad but I have not been able to test this properly.????‍???? Check out my other macOS utilities:MacGPT - Use ChatGPT on your Mac and from your menubarTest Assistant - Generate useful text and manage your prompts with GPT and your own OpenAPI keyVivid - Double the brightness of your MacBook Pro by always using HDR modeForehead - Hide the Notch and round your MacBook cornersCooldown - Quickly toggle Low Power Mode from your menubarSpeedy - Fast Speedtest in your menubarPippo - Improve the Picture-in-Picture video player with seek controlsWhisper was made by building on top of all the hard work from Georgi Gerganov, check out his Whisper implementation here: https://github.com/ggerganov/whisper.cpp
+
+29. [Mount2 Speak](https://mount2speak.com/) 👉 Level up your speaking skills with an AI speaking mentor.
+
+30. [Murf.ai](https://murf.ai/) 👉 AI Voice Generator in 20 languages. 120+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
+
+31. [NaturalReader](https://www.naturalreaders.com/) 👉 NaturalReader: Free Text to Speech for Online, Mobile App, Commercial license and Education with AI voices.
+
+32. [Paraphraser](https://paraphrasetool.com/) 👉 Paraphrase Tool with 15 FREE Modes for 100+ Languages - Rephrases Sentences, Rewords Paragraphs, Rewrites Essays, Checks Grammar and Eliminates Plagiarism
+
+33. [Pictory](https://pictory.ai/) 👉 Pictory's powerful AI enables you to create and edit professional quality videos using text, no technical skills required or software to download.
+
+34. [Play.ht](https://play.ht/) 👉 AI Voice Generator with 600+ AI voices. Generate realistic Text to Speech voice over online with AI. Convert text to audio and download as MP3 & WAV files.
+
+35. [Poised 2.0](https://www.poised.com/) 👉 Personalized feedback in your online meetings. An essential tool for digital first workplaces.
+
+36. [Quickie](https://quickie.ai/) 👉 A.I. multitool that helps users get more done faster together with a.i. shortcuts and collaborative prompting.
+
+37. [Quillbot Paraphraser](https://quillbot.com/) 👉 QuillBot's AI-powered paraphrasing tool helps students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension.
+
+38. [Resemble.ai](https://www.resemble.ai/) 👉 AI voice generator with voice cloning for text to speech.
+
+39. [Rythmex](https://rythmex.com/) 👉 Convert Audio to Text with Rythmex Converter Online
+
+40. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+41. [Scribe](https://vienna.earth/meta/scribe) 👉 Vienna Scribe is a next generation transcription app. It delivers accurate transcripts to your phone in seconds.
+
+42. [Scribebuddy](https://secure.scribebuddy.com/) 👉 Convert Any Audio, Video, Live Speech into Text, Subtitles, Articles, Blog Posts & More
+
+43. [ScribeBuddy](https://scribebuddy.com/) 👉 Automatically Transcribe Any Audio, Video, Zoom Call, Google Meet, Podcast, Live Speech & More in Minutes using A.I.
+
+44. [Speech Studio](https://speech.microsoft.com/portal) 👉 Speech Studio — Microsoft Azure
+
+45. [Speech-to-Speech](https://www.resemble.ai/speech-to-speech/) 👉 Resemble AI - AI voice generator for real-time speech-to-speech voice conversion. Transform your voice into another within seconds.
+
+46. [SpeechEasy](https://www.speecheasyapp.com/) 👉 High quality voices for easy listening. Harnessing the power of AI and Machine learning we have created a simple and easy to use solution to convert text into audio. SpeechEasy™ lets you generate studio grade synthetic voices that make listening easy to understand and consume for on the go, at home or office.
+
+47. [Speechelo](https://speechelo.com/text-to-speech/) 👉 Transform Any Text to speech that sounds 100% real!
+
+48. [SpeechGen](https://speechgen.io/) 👉 Generate realistic Voiceovers online! Insert text to generate speech and download audio mp3/wav. Speak a text with AI-powered voices.
+
+49. [Speechify](https://speechify.com/) 👉 The leading text to speech app with millions of downloads on Chrome, iOS, & Android. Hear the Internet on any device. Try Speechify for free today.
+
+50. [SuenaGringo AI](https://suenagringo.com/) 👉 Esribe contenido en ingles para las redes sociales, articulos, eslogans, esquemas, textos, emails, poemas, publicidad, y mucho mas! Nuestro servicio utiliza inteligencia artificial de ultimo modelo para generar traducciones naturales, con diferentes formatos y tonos.
+
+51. [TextStyler](https://www.textstyler.org/) 👉 textStyler
+
+52. [TextSynth](https://textsynth.com/playground.html) 👉 Playground
+
+53. [TTSLabs](https://ttslabs.ai/home) 👉 Custom Text to Speech service for streamers!
+
+54. [TTSMaker](https://ttsmaker.com/) 👉 TTSMaker is a completely free online text-to-speech tool that supports unlimited usage, including commercial use. With over 200 AI voices and support for multiple languages including English, French, German, Spanish, Arabic, Chinese, Japanese, Korean, Vietnamese, and more, you can choose from a variety of voice styles to read your text and e-books aloud. You can also download the synthesized audio files. No registration or payment is required, you can use it directly online for free forever.
+
+55. [Uberduck](https://uberduck.ai/) 👉 Voice automation, text-to-speech, synthetic media.
+
+56. [VERBATIK](https://verbatik.com/) 👉 AI Voice Generator with 300+ AI voices. Generate realistic Text to Speech voice over online with AI. Convert text to audio ad background sound and download as MP3 & WAV files.
+
+57. [Voicemaker](https://voicemaker.in/) 👉 Voicemaker® - Text to Speech Converter
+
+58. [Voicera](https://www.voicera.co/) 👉 Voicera | Give voice to your articles and blogs
+
+59. [Voicetapp](https://voicetapp.com/) 👉 Voicetapp | Speech to Text Transcription
+
+60. [WeelSaid Labs](https://wellsaidlabs.com/) 👉 Beautiful voices at your fingertips with text-to-speech that captivates. Reduce costs and streamline the voice production process.
+
+61. [Whisper](https://huggingface.co/spaces/openai/whisper) 👉 Discover amazing ML apps made by the community
+
+62. [Whisper Memos](https://whispermemos.com/) 👉 Whisper Memos is an app that records your voice and sends you an email with the transcription a few minutes later. It is based on OpenAI's new Whisper technology. The outcome is simply very accurate.
+
+63. [WhisperAPI](https://whisperapi.com/) 👉 Whisper API is a Transcription API Powered By OpenAI Whisper's Base Model priced at $0.15/hr of audio!
+
+64. [Word Spinner](https://word-spinner.com/) 👉 Word Spinner is the most advanced ai-based Article Rewriter and Paraphrase Tool online, capable of rewriting any words, phrases and sentences!
+
+65. [WordAI](https://wordai.com/) 👉 AI Text Rewriter | WordAi
+
+66. [Wordtune](https://www.wordtune.com/) 👉 Wordtune is the ultimate AI writing tool that rewrites and rephrases your writing! Get AI-powered suggestions to instantly improve everything you write.
+
+67. [Writefull Academizer](https://x.writefull.com/academizer) 👉 Change your text from informal to formal and academic with Writefull's Academizer. Enter informal text and Writefull's AI makes it academic.
+
 ## 9. <a name='Chatbots'></a>💬 Chatbots
+
+1. [AI Answers by Cohere](https://cohere.io/) 👉 AI-powered support assistance that finds answers from previous tickets
+
+2. [AI ChatLab](https://play.google.com/store/apps/details) 👉 Unleash the power of AI with AI ChatLab — your comprehensive AI chat toolbox
+
+3. [AIduh](https://aiduh.com/) 👉 Chrome extension that cuts your writing time by 98% with AI-powered responses. Built by Hosts for Hosts.
+
+4. [Albert Einstein](https://www.messengerx.io/albert-einstein) 👉 Hallo! I am Albert Einstein a German Born Physicist. I am known for my warm smile & hearty handshake
+
+5. [Android AI Assistant Widget](https://play.google.com/store/apps/details) 👉 AI Chatbot Widget with OpenAI ChatGPT (got, GUID, GPT-3, GPT-4 technology)
+
+6. [Ansy](https://ansy.ai/) 👉 Automate your community FAQs under 5 mins with Ansy, a GPT3 powered AI discord bot that answers community's questions based on chat history. Try Ansy for free!
+
+7. [Anya by Astria](https://anya.withastria.com/) 👉 Get Ayna - the ultimate personal assistant for busy professionals. Available 24/7 and more affordable than ever. Try it out now and experience the power of advanced AI technology!
+
+8. [Ask Poppy](https://www.poppylist.com/askpoppy) 👉 If Google search & your OB-GYN had a baby, you’d get me! Ask me anything — I always text back!
+
+9. [Ask RBG](https://ask-rbg.ai/) 👉 An AI experiment: Ask Justice Ruth Bader Ginsburg to make a decision about any question your heart desires. The first AI Drop from AI21 Labs.
+
+10. [Askrobi](https://www.askrobi.com/) 👉 Robi is a powerful AI companion that lives in your contact list and can be talked to through WhatsApp, he can help you write an essay or generate original images!
+
+11. [Bahasa](https://www.bahasa.ai/) 👉 Automation that helps your business serves millions of happy customers fastly—powered by AI specially built for Bahasa Indonesia.
+
+12. [BFF](https://www.bffapp.me/) 👉 AI friend that's always there for you in your iMessages
+
+13. [BLOONY](https://bloony.ai/) 👉 Hop on ChatTrip!
+
+14. [Botify](https://botif.ai/) 👉 Fun chat with your favorite characters
+
+15. [Chai](https://chai.ml/) 👉 Chai is a THE destination for compelling conversations with AI. On Chai, you can build and deploy AI chatbots to thousands of users.
+
+16. [CharacterAI](https://beta.character.ai/) 👉 Where intelligent agents live!
+
+17. [ChatBCG](https://www.chatbcg.com/) 👉 Instantly create slide decks using ChatBA
+
+18. [ChatFAI](https://chatfai.com/) 👉 An AI powered experience that allows you to chat with your favorite characters from movies, TV shows, books, history, and more.
+
+19. [ChatGPT](https://chat.openai.com/chat) 👉 Please turn JavaScript on and reload the page.
+
+20. [ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-chrome-extension/cdjifpfganmhoojfclednjdnnpooaojb) 👉 Use ChatGPT via Chrome Extension
+
+21. [ChatGPT for Google](https://chatgpt4google.com/) 👉 A browser extension to display ChatGPT response alongside search engine results
+
+22. [Chatty Cat](https://chattycat.ju.mp/) 👉 Ask any questions, chat with voice messages or request images. Go crazy with your virtual kitten!
+
+23. [ChatWithGPt](https://www.buymeacoffee.com/chatswithcs/e/112532) 👉 Talk to GPT3 directly from your Iphone, Ipad, Mac or Other apple device
+
+24. [Cmd J – ChatGPT for Chrome](https://install.cmdj.app/) 👉 Use ChatGPT on any tab without the hassle of copy-pasting. It's like Notion AI, but for any product.
+
+25. [ConversAI](https://conversai.co/) 👉 The personal AI chat assistant that helps you respond to anything with just one click.
+
+26. [Dewey](https://www.withdewey.com/) 👉 Dewey: Your new accountability buddy
+
+27. [Diffusion.chat](https://diffusion.chat/) 👉 Diffusion Chat
+
+28. [Gandhiji](https://www.messengerx.io/gandhiji) 👉 Chat with AI Gandhiji
+
+29. [Goatchat](https://goatchat.ai/chat/elmo) 👉 Elon Mars. How are we going to colonize Mars?
+
+30. [God In A Box](https://godinabox.co/) 👉 Use ChatGPT/GPT-3 on Whatsapp with our friendly bot. Always updated to the latest model and priced affordably. We are the first ever paid ChatGPT on Whatsapp service.
+
+31. [GPT ChatBot](https://chatbotgpt3.bubbleapps.io/version-test) 👉 Build stuff without code and launch a startup without a tech-cofounder! Bubble is a visual programing language. Instead of typing code, use a visual editor to build applications.
+
+32. [GPT Hotline](https://www.gpthotline.com/) 👉 Connect with the world's smartest AI on WhatsApp.
+
+33. [Hello History](https://www.hellohistory.ai/) 👉 With the help of modern AI & machine learning, we’ve brought historical figures back to life. Now is your chance to ask the questions you’ve always wanted to ask.
+
+34. [Historical Figures Chat (iOS)](https://apps.apple.com/us/app/historical-figures-chat/id6444197650) 👉 ‎Our app, "Historical Figures," uses advanced A.I. technology to allow users to have conversations with over 20,000 historical figures from the past. With this app, you can chat with deceased individuals who have made a significant impact on history from ancient rulers and philosophers, to modern da…
+
+35. [Infiniteconversation](https://infiniteconversation.com/) 👉 An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek.
+
+36. [Justlearn](https://www.justlearn.com/) 👉 Chat with AI friends. Talk about your life with chatbots.
+
+37. [Kanye Tweet Generator](https://www.kanyegenerator.com/) 👉 Generate Kanye Tweets using AI. Built by Ryan Doyle.
+
+38. [Magic Mate](https://www.getmagicmate.com/) 👉 Smart AI assistant for WhatsApp - Chat GPT, Dalle, Instruct Pix2Pix and more
+
+39. [MightyGPT](https://www.mightygpt.com/) 👉 Now enjoy the Most Powerful chatbot directly on WhatsApp
+
+40. [MyAnima AI Companion](https://myanima.ai/) 👉 AI companion that cares. Have a friendly chat, roleplay, grow your communication and relationship skills.
+
+41. [NOLU](https://noluai.com/) 👉 A simple interface for interacting with the GPT-3 AI.
+
+42. [Onesta](https://www.onestafinance.com/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
+
+43. [Oracle](https://askoracle.app/) 👉 Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity.
+
+44. [Paralegal AI](https://www.legalquestions.help/) 👉 Paralegal AI
+
+45. [PeopleAI](https://chatbotkit.com/apps/peopleai) 👉 Boost your personal brand with your very own digital twin. Engage with your audience like never before through personalized conversations. Enhance your online presence and create an unforgettable experience for your followers with the power of DigitalTwin technology.
+
+46. [Pheon](https://apps.apple.com/app/pheon-digital-twins/id1630784346) 👉 ‎Pheon is an app where you can chat with digital twins of real people — their smart realistic digital avatars. Behind every digital twin there is someone who created it. A real human with whom they share the look, the voice and the personality. A robust AI-solution powering a digital twin creates…
+
+47. [Philosophy](https://philosophy.fyi/) 👉 Ask a Philosopher
+
+48. [Prodigy AI](https://ai.prodi.gg/) 👉 Prodigy Menu Hire a Prodigy Join Waitlist Using AI to improve the Careers of Software Engineers We’re on a mission to use the latest AI to build tools that help software engineers build better careers. Our AI tools are 100% free. CAREER COACH AI Career Coach is a fun ChatGPT-enabled coach that acts as an […]
+
+49. [Promptheus](https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki) 👉 Use your voice to talk to ChatGPT with the spacebar! ????
+
+50. [PromptPal](https://promptpal.net/) 👉 Share and discover the best AI prompts for ChatGPT and other AI tools
+
+51. [Replika](https://replika.com/) 👉 Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+
+52. [RTutor](http://rtutor.ai/) 👉 RTutor
+
+53. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+54. [Speakingclubai](https://speakingclubai.com/) 👉 Improve your language speaking skills by talking to an AI language companion
+
+55. [Stars App](https://apps.apple.com/us/app/hello-text-someone-you-miss/id6444165923) 👉 ‎Star allows you to create a chat with someone you miss. First, upload a photo and then start chatting with them. LICENSED APPLICATION END USER LICENSE AGREEMENT: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+56. [Talk to AI Human](https://www.talktoaihuman.com/) 👉 Web site created using create-react-app
+
+57. [Text GPT](https://textgpt.net/) 👉 Tap into the power of OpenAI's GPT and Dall-E through text messages
+
+58. [Texti](https://texti.app/) 👉 An AI copyright helper, in your browser. Always by your side! Helps your content strategy to grow for you! Just makes it for you!
+
+59. [Think like James Altucher](https://notepd.com/write_with_james) 👉 Unleash your inner creativity with our AI-powered idea generator trained on James Altucher's extensive idea lists. Simply add a title and details, and let AI generate unique and innovative ideas for you. Think like James Altucher and bring your ideas to life. Try it now!
+
+60. [Uminal](https://www.uminal.com/) 👉 An AI assistant that can surf the web and be extended to use other apps without code.
+
+61. [Unschooler](https://unschooler.me/) 👉 Save hours searching for an answer, watching videos, and long reads. An AI-mentor will help you learn everything you are interested in minutes 24/7, find your interests on Youtube, suggest the best possible career paths, and help close blind spots in your skills.
+
+62. [Vee](https://vee.ai/en/) 👉 Vee – Smart consultant you enjoy talking to
+
+63. [Webapi.ai 2.0](https://webapi.ai/) 👉 WebApi.ai - Next-Generation Chatbot builder
+
+64. [Zenen AI](https://zenen.ai/) 👉 Zenen is a creative AI that you can have a meaningful conversation with like you would with a friend. It uses human-like interactions through voice control. It can help you write stories, brainstorm ideas, come up with marketing plans, play games or entertain you with jokes.
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
