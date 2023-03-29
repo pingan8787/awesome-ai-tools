@@ -1,6 +1,10 @@
-<img src="" />
+<div style="text-align: center;">
+    <img src="./images/logo.jpg" width="60px" height="60px" />
+    <h2>Awesome AI Tools</h2>
+    <div>🤖 Finding the AI tools you need!</div>
+</div>
 
-> Finding the AI tools you need!
+<hr />
 
 - [1. 📷 Image \& Art Generation](#1--image--art-generation)
 - [2. ✍️ Writing](#2-️-writing)
