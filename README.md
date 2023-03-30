@@ -15,7 +15,7 @@
 - [7. 📷 Image Editing](#7--image-editing)
 - [8. 🗣️ Text \& Speech](#8-️-text--speech)
 - [9. 💬 Chatbots](#9--chatbots)
-- [10. 📚 Research \& Education](#10--research--education) [TODO]
+- [10. 📚 Research \& Education](#10--research--education)
 - [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics) [TODO]
 - [12. 🎙 Audio \& Voice](#12--audio--voice) [TODO]
 - [13. 🤝 Team \& Work](#13--team--work) [TODO]
