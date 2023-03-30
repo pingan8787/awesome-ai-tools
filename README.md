@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <img src="./images/logo.jpg" width="60px" height="60px" />
-    <h2>Awesome AI Tools</h2>
+    <h2 style="margin-top: 0">Awesome AI Tools</h2>
     <div>🤖 Finding the AI tools you need!</div>
 </div>
 
@@ -15,27 +15,27 @@
 - [7. 📷 Image Editing](#7--image-editing)
 - [8. 🗣️ Text \& Speech](#8-️-text--speech)
 - [9. 💬 Chatbots](#9--chatbots)
-- [10. 📚 Research \& Education](#10--research--education)
-- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics)
-- [12. 🎙 Audio \& Voice](#12--audio--voice)
-- [13. 🤝 Team \& Work](#13--team--work)
-- [14. 📱 Social Media](#14--social-media)
-- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards)
-- [16. 🔎 SEO \& Searching](#16--seo--searching)
-- [17. 🧑‍💼 Job \& Career](#17--job--career)
-- [18. 🎓 Notes \& Studying](#18--notes--studying)
-- [19. 🎹 Music \& Lyrics](#19--music--lyrics)
-- [20. 📥 Emails](#20--emails)
-- [21. ❓ Q \& A](#21--q--a)
-- [22. 🧚 Stories \& Kids](#22--stories--kids)
-- [23. 💡 Idea Generation](#23--idea-generation)
-- [24. 🛍️ eCommerce](#24-️-ecommerce)
-- [25. 🕹 Gaming](#25--gaming)
-- [26. 🏠 Home \& Architecture](#26--home--architecture)
-- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons)
-- [28. 💳 Finance](#28--finance)
-- [29. 👜 Fashion \& Style](#29--fashion--style)
-- [30. 💌 Dating \& Relationships](#30--dating--relationships)
+- [10. 📚 Research \& Education](#10--research--education) [TODO]
+- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics) [TODO]
+- [12. 🎙 Audio \& Voice](#12--audio--voice) [TODO]
+- [13. 🤝 Team \& Work](#13--team--work) [TODO]
+- [14. 📱 Social Media](#14--social-media) [TODO]
+- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards) [TODO]
+- [16. 🔎 SEO \& Searching](#16--seo--searching) [TODO]
+- [17. 🧑‍💼 Job \& Career](#17--job--career) [TODO]
+- [18. 🎓 Notes \& Studying](#18--notes--studying) [TODO]
+- [19. 🎹 Music \& Lyrics](#19--music--lyrics) [TODO]
+- [20. 📥 Emails](#20--emails) [TODO]
+- [21. ❓ Q \& A](#21--q--a) [TODO]
+- [22. 🧚 Stories \& Kids](#22--stories--kids) [TODO]
+- [23. 💡 Idea Generation](#23--idea-generation) [TODO]
+- [24. 🛍️ eCommerce](#24-️-ecommerce) [TODO]
+- [25. 🕹 Gaming](#25--gaming) [TODO]
+- [26. 🏠 Home \& Architecture](#26--home--architecture) [TODO]
+- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons) [TODO]
+- [28. 💳 Finance](#28--finance) [TODO]
+- [29. 👜 Fashion \& Style](#29--fashion--style) [TODO]
+- [30. 💌 Dating \& Relationships](#30--dating--relationships) [TODO]
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
