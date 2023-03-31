@@ -3079,7 +3079,155 @@ You can then use our AI engine to generate questions, topics and blog post outli
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
+1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
+
+2. [AI Rental Cover Letter](https://sharehouse.app/ai) 👉 Stand out from the crowd with an AI-Powered Rental Cover Letter. With an AI-Powered Rental Reference, renters can quickly and easily generate cover letters that are tailored to their specific needs and situations, giving them a better chance of securing a rental property.
+
+3. [AI Resume Editor](https://www.rezi.ai/ai-resume-editor) 👉 1-click perfect your resume content by instantly re-writing your bullet points following the best practices in the industry with ATS-friendly ai resume builder.
+
+4. [ApplicantAI](https://www.applicantai.com/welcome) 👉 Generate Resumes and Cover Letters throught the power of AI
+
+5. [Campbell](https://review.gobudapest.io/) 👉 Writing the effective performance review with AI
+
+6. [Cover Letter AI](https://coverletter-ai.com/) 👉 The ultimate tool for crafting the perfect cover letter
+
+7. [Coverler](https://coverler.com/) 👉 Coverler creates cover letters for job applications in seconds. The letters are based on applicant resume and vacancy details so are unique and save hours on manual writing.
+
+8. [coverletter.app](https://coverletter.app/) 👉 Our AI-generated cover letters offer a range of features to help you stand out from the competition and increase your chances of getting hired.
+
+9. [Coverletterwrite](https://coverletterwrite.com/) 👉 Ask AI to write a personalized cover letter.
+
+10. [Coverquick](https://www.coverquick.co/) 👉 Apply with confidence.
+
+11. [Excuses AI](https://excuses.ai/) 👉 Generate excuses with AI for when you mess up
+
+12. [Explain An Error](https://explain.whybug.com/) 👉 Explain by Whybug
+
+13. [Geniusreview](https://geniusreview.xyz/) 👉 Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.
+
+14. [Hire Hoc](https://hirehoc.com/) 👉 Hire Hoc | The AI Powered Hiring Tool
+
+15. [Hirex.ai](https://www.hirex.ai/) 👉 Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. Conduct more than 10,000 interviews in a day using voice-based bots without human intervention at scale.
+
+16. [HireYaY](https://hireyay.com/) 👉 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again.
+
+17. [JD Generator](https://hirequotient.com/free-jd-generator) 👉 Make a stellar Job Description in minutes and make better hires with HireQuotient’s online JD Generator. Get Started for Free!
+
+18. [JobtitlesAI](https://jobtitlesai.com/) 👉 Categorize job titles by field (sales, finance, I.T...) and position (executive, management, assistant...) so you can automate your lead qualification. Clean your CRM, prioritize LinkedIn profiles, organize job offers, and more
+
+19. [Kickresume](https://www.kickresume.com/en/) 👉 Create your best resume yet. Online resume and cover letter builder used by 2,000,000+ job seekers worldwide. Professional templates approved by recruiters.
+
+20. [LazyApply](https://lazyapply.com/cover-letter-generator) 👉 Generate catchy and convincing cover letter using LazyApply AI cover letter generator tool.
+
+21. [MajorGen](https://www.majorgen.com/) 👉 MajorGen helps you create professional resumes and cover letters in just seconds with the power of AI.
+
+22. [Moly](https://moly.ai/) 👉 The AI Assistant for Recruiters
+
+23. [NetworkAI](https://www.wonsulting.com/networkai) 👉 NetworkAI shows you who to connect with and what to say. Grow your LinkedIn network with speed, quality, and ease. ????
+
+24. [Paralegal AI](https://www.legalquestions.help/) 👉 AI Powered Legal Research and Summaries.
+
+25. [Proposal Genie](https://chrome.google.com/webstore/detail/proposal-genie/fogoljmljcflnonheindbcbgdkijiahn) 👉 An AI-based Tool that helps freelancers to generate a proposal for a job in Upwork using minimal inputs form user.
+
+26. [Proposalgenie](https://www.proposalgenie.ai/) 👉 Write the Perfect Freelancing proposal in seconds
+
+27. [Recommendme](https://www.recommendme.to/) 👉 AI powered recommendation, reference and cover letter writer.
+
+28. [Resign](https://www.resign.ai/) 👉 When it comes to quitting a job, the most important thing you can do is give your employer enough notice so they have time to find a replacement. One way of
+
+29. [ResumAI](https://www.wonsulting.com/resumai) 👉 Stop wasting time on resumes. Automatically create the perfect resume for free with ResumAI, your AI powered resume creator. Backed by career and job finding experts. ????
+
+30. [Resume Check](https://resumecheck.net/) 👉 Correct your Resume with GPT3 🤖 Use AI to make your Resume stand out and be without grammar mistakes.
+
+31. [Resume Studio](https://resumestudio.careers/) 👉 Looking for a resume builder? Check out Resume studio - it's simple and easy to use! With our AI-powered functionalities, you can create a resume in minutes !
+
+32. [Resume Worded](https://resumeworded.com/index.php) 👉 Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.
+
+33. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+34. [SheetAI App](https://www.sheetai.app/) 👉 Unlock the Power of AI in your Spreadsheets
+
+35. [Spellbook](https://www.spellbook.legal/) 👉 Draft contracts 3x faster with AI.
+
+36. [Upcat](https://upcat.app/) 👉 Use A.I. to enhance your job search on Upwork with personalized proposals and real-time alerts.
+
+37. [Writemeacoverletter](https://writemeacoverletter.com/) 👉 Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.
+
+38. [Your Cover Letter](https://yourcoverletter.com/) 👉 Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.
+
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
+
+1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
+
+2. [AI Paraphrasing Tool](https://contentbot.ai/paraphrasing-tool) 👉 Use the world's most advanced artificial intelligence to paraphrase content on the fly. From full articles to product descriptions, our paraphrasing tool will rewrite any content you like with AI!
+
+3. [Askmybook](https://askmybook.com/) 👉 Ask My Book: The Minimalist Entrepreneur
+
+4. [chatGPT save history to Notion](https://chrome.google.com/webstore/detail/chatgpt-save-history-to-n/ddjioimofpjakfcpimdlbicbljlmfbac) 👉 A chrome extension that saves chatGPT conversation to notion by converting html to markdown and then markdown to notion blocks.
+
+5. [ChatMind](https://www.chatmind.tech/) 👉 Generating and Modifying Mind Maps through AI Dialogue
+
+6. [DetangleAI](https://detangle.ai/) 👉 Summarize any video, audio or text using AI
+
+7. [Gimme Summary AI](https://gimmesummary.ai/) 👉 Free chrome extension to summarize articles on the web using ChatGPT AI
+
+8. [Glasp](https://glasp.co/ai-writing) 👉 Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
+
+9. [Headline-ai](https://headline-ai.com/) 👉 Using advanced AI to quickly and accurately summarize news content, academic articles and more
+
+10. [HookShot](https://hookshot.ironwill.ai/) 👉 Ironwill
+
+11. [Intelligent paraphraser](https://aiseo.ai/tools/paraphrasing-tool.html) 👉 AISEO Free paraphrasing tool. It allows you to paraphrase and change tone of your content with as high as 70-100% uniqueness with one click.
+
+12. [MagicSlides](https://www.magicslides.app/) 👉 MagicSlides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
+
+13. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI
+
+Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
+
+🔥 Unlock 50+ Mental Models
+
+Created by @sameedahmad
+
+14. [Motionit](https://www.motionit.ai/) 👉 MotionIt.ai is a cutting-edge platform that uses artificial intelligence to generate stunning slides and videos for a wide range of purposes, including startup pitch decks, conference presentations, and more. With MotionIt.ai, it's easy to create professional-quality content in just a few simple steps. Plus, you can export your slides to Google Slides or download them as a PowerPoint (PPTX) or PDF file, giving you complete flexibility and control over your presentations.
+
+15. [Notion AI](https://www.notion.so/product/ai) 👉 Leverage the power of AI in any Notion page. Now in private alpha.
+
+16. [Paraphraser AI](https://app.yaara.ai/paraphraser) 👉 With a total of 49 different tools and categories to choose from, you can easily customize your writing to fit any style or tone
+
+17. [PowerPen](https://play.google.com/store/apps/details) 👉 Grammar checker/spelling checker, paraphrasing tool, summarizer.
+
+18. [Prezo](https://www.prezo.ai/) 👉 Prezo
+
+19. [Reflect AI](https://reflect.app/) 👉 Reflect keeps track of your thoughts, books, and meetings.
+
+20. [Rephrasely](https://rephrasely.com/) 👉 Rephrasely Offers 12 FREE Modes that Will Paraphrase, Rewrite, And Change The Content Of Your Text While Retaining The Meaning.
+
+21. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+22. [Scott AI](https://getscott.io/) 👉 AI generated conversation summaries & replies
+
+23. [SkimIt](https://www.skimit.ai/) 👉 Email your article to our SkimIt.ai app, and we'll send you back an ai-generated summary of your article.
+
+24. [Slidesai](https://www.slidesai.io/) 👉 SlidesAI is an AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
+
+25. [Squish](https://chrome.google.com/webstore/detail/squish/iinmigjlcpeckfihbbfajpkiilfmakff) 👉 Summarize any article in just five seconds using AI
+
+26. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
+
+27. [Summate](https://summate.it/) 👉 Summarize web articles.
+
+28. [SummerEyes](https://summereyes.ai/) 👉 Summarise any text on the internet. Instantly.
+
+29. [Supernormal](https://supernormal.com/) 👉 Supernormal AI automatically transcribes and writes the meeting notes for Google Meet. Save five to ten minutes every meeting. Instantly shareable to Google Drive, Notion, Quip, Slack, Hubspot, Salesforce and more.
+
+30. [TLDR This](https://tldrthis.com/) 👉 TLDR This is a Free online text summarizing tool that automatically condenses long articles, documents, essays, or papers into key summary paragraphs using state-of-the-art AI.
+
+31. [Upword](https://www.upword.ai/) 👉 Capture the key takeaways with Upword’s AI, create personalized summary docs and manage your knowledge. Upword transforms content into knowledge.
+
+32. [Wordfixerbot](https://www.wordfixerbot.com/) 👉 WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!
+
+33. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
 
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
