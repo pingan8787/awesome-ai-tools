@@ -3231,6 +3231,72 @@ Created by @sameedahmad
 
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
+1. [BaruaAI](https://baruaai.com/) 👉 Save time and effort with AI email sequence generation
+
+2. [Begone, Spammer](https://begonespammer.com/) 👉 M64 is home to independent artists, strategists, and tinkerers. We make micro products, produce music, and help companies ship creative ideas that stand out in a crowded online world.
+
+3. [Bestregards](https://bestregards.app/) 👉 An AI that replies to your e-mail and messages.
+
+4. [ChatGPT Writer](https://chatgptwriter.ai/) 👉 Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.
+
+5. [DraftLab](https://draftlab.ai/) 👉 Fight writer's block and achieve inbox zero. DraftLab is an AI-powered Gmail copilot that generates high-quality email replies for you.
+
+6. [Effortless Email](https://effortless-email.com/) 👉 Effortless Email
+
+7. [Ellie](https://ellieai.com/) 👉 Ellie learns from your writing style and crafts replies as if they were written by you
+
+8. [emailIQ](https://www.emailiq.org/) 👉 EmailIQ
+
+9. [EmailTriager](https://emailtriager.com/) 👉 At EmailTriager, we build products that do work on your behalf.
+
+10. [Ghostwrite](https://chrome.google.com/webstore/detail/ghostwrite-chatgpt-email/fbjnnjochaopepfjpngghafgnafebkjh) 👉 A ChatGPT powered AI email writing assistant.
+
+11. [helper.email](https://helper.email/) 👉 Get GPT to write your emails, summarize long threads, and more — from any email client.
+
+12. [Hoppy Copy](https://www.hoppycopy.co/) 👉 Hoppy Copy: AI Email Marketing Copywriting Platform
+
+13. [Hoppy Copy](https://www.hoppycopy.co/) 👉 The only AI tool specializing in email marketing. Made by marketers, for marketers.
+
+14. [Hotreachai](https://hotreachai.com/) 👉 Hot Reach AI: Generate First Lines For Cold Outreach Using Artificial Intelligence
+
+15. [HowToReplyTo](https://howtoreplyto.com/) 👉 Finding a creative and unique replies to any messages | Type your message here and we will find the best replies for you
+
+16. [InboxPro](https://inboxpro.io/) 👉 InboxPro is a suite of tools for gmail: AI-powered email assistant, Calendar scheduling, Email Tracking, Templates, Auto-Followups, Email analytics.
+
+17. [Infomail.AI](https://www.infomail.ai/) 👉 Email marketing tool using AI to generate content for all types of use: newsletters, landing pages, blogs, social networks, summaries, reworkings, translations, etc.. Numerous available templates. Free trial.
+
+18. [Magicreach](https://www.magicreach.ai/) 👉 Reach is an outreach personalization and sales enablement tool that generates hyper personalized icebreakers for cold outreach. Faster email personalization that gets replies.
+
+19. [Octie.ai](https://octie.ai/) 👉 Write emails, product descriptions, and more, with A.I. Created by Octane AI.
+
+20. [Politepost](https://www.politepost.net/) 👉 Make sure your emails are professional and suitable for the workplace. Write your draft with all your slang and expletives, and our AI bot will rewrite and clean up the text. Professional emails in seconds.
+
+21. [Quicklines](https://www.quicklines.ai/) 👉 Quicklines is your new AI powered cold outreach assistant. We help you scale your cold email campaigns with our in-depth social scraping and natural language first-line writing platform.
+
+22. [Rapidreply](https://rapidreply.ai/) 👉 Save 30 minutes a day writing emails
+
+23. [Recruiting Emails AI by Dover](https://recruitingemails.ai/get-started) 👉 Dover - Generate Customized Recruiting Emails
+
+24. [Rephrasee](https://www.rephrasee.com/) 👉 This tool utilizes Artificial Intelligence to help you with rephrasing, translating, and proofreading. Get the highest quality help with your written content, quickly and accurately with AI-powered technology.
+
+25. [ReplAI](https://repl-ai.com/) 👉 Focus on your point. Let us take the sh\*t.
+
+26. [Reply](https://reply.io/) 👉 Reply is a multichannel sales engagement platform that automates email search, LinkedIn outreach, personal emails, SMS and WhatsApp messages, calls, and tasks, while Sales can focus on what really matters - closing deals.
+
+27. [Respondable](https://www.boomeranggmail.com/respondable/) 👉 Boomerang Respondable is an assistant that uses artificial intelligence to help you write more effective emails in real-time.
+
+28. [Robin](https://www.hellorobin.ai/) 👉 With Robin AI, you can easily and effectively reach out to leads, conduct research, and handle initial outreach - all without the need for a human sales associate.
+
+29. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+30. [Scribbly](https://www.scribbly.ai/) 👉 Scribbly is a free AI-powered email assistant for busy professionals. Write emails 10x faster with AI-powered content suggestions on Gmail that are context-specific, professionally written, and sound just like you. Try the free Scribbly Chrome Extension today!
+
+31. [Smartwriter](https://www.smartwriter.ai/) 👉 Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers. No experience needed. Find leads, create tailored personalised copy and make sales. AI Cold Emails
+
+32. [superReply](https://superreply.co/) 👉 The Email Response Hack You've Been Waiting For | Easily send effective replies with tailored responses without writing from scratch.
+
+33. [Warmer.Ai](https://warmer.ai/) 👉 Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization.
+
 ## 20. <a name='Emails'></a>📥 Emails
 
 ## 21. <a name='QA'></a>❓ Q & A
