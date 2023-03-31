@@ -16,26 +16,26 @@
 - [8. 🗣️ Text \& Speech](#8-️-text--speech)
 - [9. 💬 Chatbots](#9--chatbots)
 - [10. 📚 Research \& Education](#10--research--education)
-- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics) [TODO]
-- [12. 🎙 Audio \& Voice](#12--audio--voice) [TODO]
-- [13. 🤝 Team \& Work](#13--team--work) [TODO]
-- [14. 📱 Social Media](#14--social-media) [TODO]
-- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards) [TODO]
-- [16. 🔎 SEO \& Searching](#16--seo--searching) [TODO]
-- [17. 🧑‍💼 Job \& Career](#17--job--career) [TODO]
-- [18. 🎓 Notes \& Studying](#18--notes--studying) [TODO]
-- [19. 🎹 Music \& Lyrics](#19--music--lyrics) [TODO]
-- [20. 📥 Emails](#20--emails) [TODO]
-- [21. ❓ Q \& A](#21--q--a) [TODO]
-- [22. 🧚 Stories \& Kids](#22--stories--kids) [TODO]
-- [23. 💡 Idea Generation](#23--idea-generation) [TODO]
-- [24. 🛍️ eCommerce](#24-️-ecommerce) [TODO]
-- [25. 🕹 Gaming](#25--gaming) [TODO]
-- [26. 🏠 Home \& Architecture](#26--home--architecture) [TODO]
-- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons) [TODO]
-- [28. 💳 Finance](#28--finance) [TODO]
-- [29. 👜 Fashion \& Style](#29--fashion--style) [TODO]
-- [30. 💌 Dating \& Relationships](#30--dating--relationships) [TODO]
+- [11. 🧑 Avatars \& Profile Pics](#11--avatars--profile-pics)
+- [12. 🎙 Audio \& Voice](#12--audio--voice)
+- [13. 🤝 Team \& Work](#13--team--work)
+- [14. 📱 Social Media](#14--social-media)
+- [15. 🤹‍♀️ Fun, Gifts \& Cards](#15-️-fun-gifts--cards)
+- [16. 🔎 SEO \& Searching](#16--seo--searching)
+- [17. 🧑‍💼 Job \& Career](#17--job--career)
+- [18. 🎓 Notes \& Studying](#18--notes--studying)
+- [19. 🎹 Music \& Lyrics](#19--music--lyrics)
+- [20. 📥 Emails](#20--emails)
+- [21. ❓ Q \& A](#21--q--a)
+- [22. 🧚 Stories \& Kids](#22--stories--kids)
+- [23. 💡 Idea Generation](#23--idea-generation)
+- [24. 🛍️ eCommerce](#24-️-ecommerce)
+- [25. 🕹 Gaming](#25--gaming)
+- [26. 🏠 Home \& Architecture](#26--home--architecture)
+- [27. ✏️ Drawing \& Cartoons](#27-️-drawing--cartoons)
+- [28. 💳 Finance](#28--finance)
+- [29. 👜 Fashion \& Style](#29--fashion--style)
+- [30. 💌 Dating \& Relationships](#30--dating--relationships)
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
@@ -2455,15 +2455,627 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
+1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
+
+2. [AI Portrait Generator](https://portret.ai/) 👉 AI Portrait generator
+
+3. [AI Profile Pic - Avatar Maker](https://apps.apple.com/app/id6444115082) 👉 ‎Create stunning avatars completely made by A.I.; The results are guaranteed to blow your mind! Get 100+ avatars of you in different, stunning styles. HOW IT WORKS: - Upload photos of you in different poses. - Have our A.I. train its model based on your photos. - Receive 100+ avatars in different s…
+
+4. [AI Profile Pictures](https://www.aiprofilepictures.com/) 👉 AI-generated profile pictures
+
+5. [AI Time Machine](https://www.myheritage.ro/ai-time-machine) 👉 AI Time Machine™: creați avatare uimitoare generate de inteligența artificială, imaginându-vă în diferite epoci istorice cu această funcție fantastică de la MyHeritage. Încercați acum!
+
+6. [AiPetAvatar](https://aipetavatar.com/) 👉 Creating unique AI avatars of your pets is easy with AiPetAvatar.com. Use predefined or your own custom style to transform your pet today!
+
+7. [AIprofilepic](https://aiprofilepic.art/) 👉 An impressive and flawless site template that includes various UI elements and countless features, attractive ready-made blocks and rich pages, basically everything you need to create a unique and professional website.
+
+8. [AIVatar](https://aivatarapp.com/) 👉 Generate magic avatar art from your photos.
+
+9. [Alter Ego AI](https://alterego-ai.com/) 👉 Welcome - AlterEgo
+
+10. [Amazing.photos](https://amazing.photos/) 👉 Create realistic photos of yourself using the most powerful AI image technology in the world. Simply upload some photos and we'll use AI to generate amazing photos of you in 4K. Our photo quality is world-class.
+
+11. [AnimalAI](https://animalai.co/) 👉 Protect our planet's wildlife with custom AI-generated animal portraits of yourself
+
+12. [Anime AI](https://animeai.app/) 👉 Create your perfect anime picture with AI. Choose between One Piece, Naruto, Webtoon styles and others!
+
+13. [Aragon](https://www.aragon.ai/) 👉 Get hired faster with AI-generated professional headshots!
+
+14. [ARTI.PICS](https://www.arti.pics/) 👉 Arti.Pics allows you to upload a few photos of yourself and generates more than 200 cool-looking avatars in different styles.
+
+15. [Autoportrait](https://autoportrait.co/) 👉 Generate unique portraits of yourself using artificial intelligence. Browse millions of styles or create your own. Unlimited generations.
+
+16. [AvatarAI](https://avatarai.me/) 👉 Create AI Avatars, Magic Avatars, AI Profile Pictures (PFPs), AI Photography, Photorealistic AI, Pet Portraits, Dating Photos, Couples Photoshoot, LinkedIn Professional Profile Photos with Artificial Intelligence using Stable Diffusion and Dreambooth
+
+17. [Avatarify](https://avatarify.art/) 👉 Create awesome AI avatars
+
+18. [Avtrs](https://www.avtrs.ai/) 👉 Your AI avatars in 5 minutes for FREE! Share avtrs.ai with a friend and get your free avatars now and become the hero of your own epic story!
+
+19. [Beb AI](https://beb.ai/) 👉 The possibilities are limitless, beb
+
+20. [Character.io](https://characterio.neeltron.repl.co/) 👉 Free tool to generate fresh cartoon characters
+
+21. [Doggo Booth](https://apps.apple.com/us/app/doggo-booth-ai-dog-avatars/id6444934002) 👉 ‎Your dog's photo is the perfect way to capture the personality and charm of your four-legged friend. Generate amazing visualizations of your dog with AI! • Perfect for your social media (Instagram, Facebook, Twitter, TikTok) • Great gift for your loved ones • Multiple styles • Simple and easy to u…
+
+22. [DrawAnyone](https://drawanyone.ai/) 👉 Draw anyone, any way you want.
+
+23. [Dreamlook](https://dreamlook.ai/) 👉 Create epic pictures of yourself ????
+
+24. [DreamPic](https://dreampic.ai/) 👉 AI Generated Pictures Starring You
+
+25. [EpicAvatar](https://epic-avatar.com/) 👉 Make your own state-of-the-art AI avatar profile pictures
+
+26. [Face-generator](https://generated.photos/face-generator) 👉 Create a face using our AI face generator. Choose age, head pose, skin tone, emotion, sex and generate a baby or adult face online.
+
+27. [imagetocartoon](https://imagetocartoon.com/) 👉 Turning your images into cartoons can be a fun and creative way to express yourself. It can also be a great way to add some personality and humour to your social media posts. Feel free to use imagetocartoon to create unique and eye-catching cartoon avatars for your business or personal brand.
+
+28. [Imagine Me](https://imagineme.app/) 👉 Imagine Me is an AI Art platform that lets you generate stunning AI art of yourself, from a text description.
+
+29. [IMGN - Image Engine](https://imagine-ai.net/) 👉 Imagine AI – Advanced tech made easy to use
+
+30. [Kotemi Avatars](https://avatars.kotemi.com/) 👉 From first-time founders to experienced engineers, Bubble allows users to build, design, and launch apps in record speed – no code required.
+
+31. [Lensa AI](https://apps.apple.com/app/lensa-photo-video-editor/id1436732536) 👉 ‎Everything that makes Lensa iOS app great, but with intuitive macOS design and capabilities. Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical…
+
+32. [Magic Avatars](https://land.prisma-ai.com/magic-avatars/) 👉 Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical mobile app to date for perfecting your selfies on the go. So, if there’s anything you think should be corrected in your selfie, you now have this amazing, simple app to help you.
+
+33. [MyFaceWhen](https://apps.apple.com/app/apple-store/id6443700946) 👉 ‎Create a spectacular selfie with a simple text description! Just snap a selfie, select your face, write a text description of the image you want to get, and the app will take care of the rest! See yourself in different clothes or digitally cosplay anybody! Also works on group photos. The groundbrea…
+
+34. [Not Me Netlify](https://not-me.netlify.app/) 👉 Generate unique portraits of yourself using artificial intelligence. Browse millions of styles or create your own. Unlimited generations.
+
+35. [Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/) 👉 AI-powered application that generates expressive facial animation from just an audio source.
+
+36. [Pandora Avatars](https://socialbook.io/ai-avatar) 👉 Unleash your creativity with the power of Pandora Aavatars
+
+37. [Partly](https://www.partly.ai/) 👉 Transform your photos into works of art with the help of AI magic!
+
+38. [Petpic](https://www.petpic.ai/) 👉 Petpic.ai
+
+39. [Pfpmaker](https://pfpmaker.com/) 👉 Create a perfect profile picture for all your social media profiles and instantly get more likes and interactions. Remove the background and edit for free
+
+40. [PhotoAI](https://photoai.me/) 👉 Create AI-generated images of yourself
+
+41. [PhotoLeaf](https://photoleaf.ai/) 👉 Create your AI-generated social media pictures
+
+42. [Photoshot](https://photoshot.app/) 👉 Generate AI avatars that perfectly capture your unique style. Write a prompt and let our Dreambooth and Stable diffusion technology do the rest.
+
+43. [PictoDream](https://pictodream.com/) 👉 Generate any images of yourself (or another person) in any style or setting using a simple text description.
+
+44. [Pictureperfect](https://pictureperfect.ai/) 👉 Get creative and design your own personalized avatar with the help of AI technology. Simply upload a photo and our system will generate a unique avatar that represents you. Share your picture perfect avatar with friends and family on social media and let your creativity shine!
+
+45. [pixificial](https://www.pixificial.com/) 👉 machine generated art and stock photos
+
+46. [Portrait by Vana](https://portrait.vana.com/) 👉 “Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.
+
+47. [Posed](https://posed.ai/) 👉 Upload your pictures and let our AI create stunning high-quality portraits in a wide range of styles that look just like you.
+
+48. [Proface](https://avatarize.club/proface) 👉 Create High Quality AI-Generated Professional photos
+
+49. [Proface](https://avatarize.club/proface) 👉 Get High-Quality Professional Headshots and Profile Pictures
+
+50. [Profile Picture](https://profilepicture.me/) 👉 Profile Picture Art
+
+51. [ProfilePicture.ai](https://www.profilepicture.ai/) 👉 Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be anything, anywhere, or anyone!
+
+52. [ProPix](https://apps.apple.com/us/app/profileprofile/id1636884362) 👉 ‎Want a stunning profile photo that makes you stand out from the crowd, with unique, trendy, stylish, awesome designs. • ProfileProfile creates PC or Photoshop level edits with just a single tap, just select the template of your choice, then select your photo and you’re good to go. • ProfileProfil…
+
+53. [ReflectMe](https://reflectme.art/) 👉 See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth.
+
+54. [Roast Dating](https://roast.dating/photoshoot) 👉 Get professional photos for Tinder, Bumble, Hinge. Directly from your couch, without paying hundreds in photoshoots.
+
+55. [SnapshotAI](https://snapshotai.com/) 👉 Create your own AI-generated images
+
+56. [Stabledojo](https://www.stabledojo.com/) 👉 StableDojo
+
+57. [Tryitonai](https://www.tryitonai.com/) 👉 Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos.
+
+58. [Unrealme](https://unrealme.io/) 👉 Unreal me
+
 ## 12. <a name='AudioVoice'></a>🎙 Audio & Voice
+
+1. [Adobe Podcast](https://www.magictools.online/audio/adobepodcast) 👉 AI-powered audio recording and editing, all in the web
+
+2. [Adobe Speech Enhancer](https://podcast.adobe.com/enhance) 👉 This AI audio filter improves spoken audio to make it sound like it was recorded in a soundproofed studio.
+
+3. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
+
+4. [Aiva](https://www.aiva.ai/) 👉 AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+
+5. [Altered](https://www.altered.ai/) 👉 Altered Studio's unique technology allows you to change your voice to any of its carefully curated AI voices to create compelling professional voice-driven performances.
+
+6. [Altered AI](https://www.altered.ai/) 👉 Altered Studio is a next-generation audio editor that integrates multiple Voice AI technologies into a single user-friendly application. These technologies include voice morphing, text-to-speech, transcription, and translation. Altered AI is perfect for podcasters, YouTubers, video game publishers, film and TV production companies, e-learning, advertisers, small and medium enterprises, and audiobook creators.
+
+Altered AI is ideal for anyone who needs high-quality voice content for their brand or project.
+
+7. [Audio Strip](https://www.audiostrip.co.uk/) 👉 Remove or isolate vocals from any song for free using AI and Deep Learning
+
+8. [audyo.ai](https://www.audyo.ai/) 👉 Create audio like writing a doc. Edit words not waveforms, switch speakers, and tweak pronunciations with phonetics. No mic, no studio, just human-quality audio in minutes that's ready to download, upload, and share anywhere and everywhere. Get started today for free.
+
+9. [Boomy](https://boomy.com/) 👉 Create original songs in seconds, even if you've never made music before.
+
+10. [Cleanvoice AI](https://cleanvoice.ai/) 👉 Removes filler sounds (uh’s, um’s), mouth sounds (Ex. Lip-smacking) and stuttering from your podcast or audio recording.
+
+11. [Cleanvoice AI](https://cleanvoice.ai/) 👉 Cleanvoice is an artificial intelligence, which removes filler sounds (uh’s, um’s), mouth sounds (Ex. Lip-smacking) and stuttering from your podcast or audio recording.
+
+12. [Clip](https://www.clip.audio/) 👉 AI audio search engine
+
+13. [Coqui](https://coqui.ai/) 👉 Coqui, Freeing Speech.
+
+14. [Deciphr AI](https://www.deciphr.ai/) 👉 Deciphr AI
+
+15. [Descript](https://www.descript.com/) 👉 Create a text to speech model of your voice. Try a live demo.
+
+16. [echowin](https://echo.win/) 👉 Automate Incoming Calls With AI.
+
+17. [Emergent Drums](https://audialab.com/) 👉 Generate unique drum samples using artificial intelligence.
+
+18. [Endel](https://endel.io/) 👉 Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.
+
+19. [Flowjin](https://www.flowjin.com/) 👉 An AI clip generator that creates clips from your podcast, Zoom meetings, or Youtube videos. The result is ready to be shared on Youtube, Tiktok, or Instagram Reels
+
+20. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
+
+21. [GetSound.ai](https://www.getsound.ai/) 👉 Create infinite and non-repeating ambient & soundscape music in real-time based on your surroundings, weather, location, and time of day help you Improve your wellness and relaxation, focus, or set a tone for any space.
+
+22. [Gling](https://www.gling.ai/) 👉 Gling saves YouTubers time in editing by automatically identifying and cutting out silences and bad takes.
+
+23. [Harmonai](https://www.harmonai.org/) 👉 Open-source generative audio tools to make music production more accessible and fun for everyone
+
+24. [Heark](https://heark.app/) 👉 Heark
+
+25. [Listnr](https://www.listnr.tech/) 👉 AI Voice Generator with over 600+ voiceovers in 80+ language.
+
+26. [Melville](https://usemelville.com/) 👉 Save time and money by letting Melville write everything you need for your podcast episodes.
+
+27. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 Studio quality voice overs with AI in one-click. Create multiple characters & enhance your videos with voices optimised for maximum engagement.
+
+28. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 AI Voice editing platform for Creators. Create studio quality voice overs, customise your online identity & let your emotion shine through with ultra realistic human like voices.
+
+29. [Mubert](https://mubert.com/) 👉 Royalty-free music ecosystem for content creators, brands and developers.
+
+30. [Nonoisy](https://www.nonoisy.com/) 👉 AI for podcast audio editing
+
+31. [Podcast.ai](https://podcast.ai/) 👉 The AI-generated podcast.
+
+32. [Podcast.ai](https://podcast.ai/) 👉 podcast.ai
+
+33. [Podcastle](https://podcastle.ai/) 👉 Podcastle is the simplest way to create professional-quality podcasts. Record, edit, transcribe, and export your content with the power of AI, in an intuitive web-based platform.
+
+34. [Podsqueeze](https://podsqueeze.com/) 👉 Podsqueeze is an AI-powered tool that enables you to effortlessly repurpose your podcast content. With just a single click, it generates shownotes, newsletter, catchy titles, engaging tweets, social media posts and more.
+
+35. [Poly AI](https://poly.ai/) 👉 Customer-Led conversational assistants for customer service. Answer every call immediately, 24/7. No agents needed.
+
+36. [Replica](https://replicastudios.com/) 👉 Synthesize AI voice for your creative projects. Create naturally expressive voice performances with a Replica Voice.
+
+37. [Replicastudios](https://www.replicastudios.com/) 👉 Create naturally expressive voice performances with a Replica Voice.
+
+38. [Resemble](https://www.resemble.ai/) 👉 AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
+
+39. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+40. [Snipd Podcast Summaries](https://www.snipd.com/ai-podcast-summaries) 👉 Read or listen to key insights from a podcast episode with AI-generated summaries in audio and text form, created by the Snipd app.
+
+41. [Soundful](https://www.soundful.com/) 👉 Generative AI-solution for music offering royalty-free music for content producers.
+
+42. [Splashmusic](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
+
+43. [Steno](https://steno.ai/) 👉 Discover, reference, and read along as you listen.
+
+44. [Stork: ChatGPT for Teams](https://www.stork.ai/) 👉 ChatGPT AI Assisted Work Collaboration Platform for Teams. Stork helps teams improve communications and productivity. It is a Business Messenger for Hybrid & Remote Teams that Records and Transcribes All Meetings and Calls automatically. Made for asynchronous post pandemic world and assisted by artificial intelligence.
+
+45. [Sumly](https://www.sumly.ai/) 👉 SumlyAI is a revolutionary AI-powered platform that offers summaries of podcasts. Our cutting-edge technology enables us to provide fast and accurate summaries of your favorite podcasts, delivered straight to your inbox. With SumlyAI, you can stay up to date on the latest episodes of your favorite podcasts, without having to spend hours listening to them in full. Whether you're short on time or just want to get a quick overview of the key points, SumlyAI has you covered. Sign up today!
+
+46. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
+
+47. [Tapesearch](https://www.tapesearch.com/) 👉 Tapesearch is a search engine to quickly search podcast transcripts generated by AI. Download transcripts for your favourite podcasts today.
+
+48. [Verb Art](https://verb.art/) 👉 World first voice-to-art AI generator
+
+49. [Vocads Survey](https://www.vocads.com/) 👉 Survey reinvented by voice Companies lack responses & engagement on their surveys. Vocads reinvents survey experience, through VOICE conversation with an AI. GET STARTED TRY A LIVE DEMO Customer voice survey Get real, honest and complete answers from your customers. Quick to fill surveys collecting richer data. Better adjust your strategy. Retain clients with this
+
+50. [Voice AI](https://voice.ai/) 👉 Download our A.I driven Voice Changer Software to use with Phone Calls, Video or Streaming. Voice filter Synthesizes your Voice in Real Time. Choose Voice Universe Voices, effects or Clone any Voice.
+
+51. [Voicemod](https://www.voicemod.net/) 👉 A voice transformer and modifier with effects that makes you sound like a girl or a robot.
+
+52. [Voicemod](https://www.voicemod.net/) 👉 Download now for FREE Voicemod a funny & scary voice changer app. A voice transformer and modifier with effects that makes you sound like a girl or a robot
+
+53. [Wellsaidlabs](https://wellsaidlabs.com/) 👉 Beautiful voices at your fingertips with text-to-speech that captivates.
+
+54. [Whisper](https://github.com/openai/whisper/) 👉 General-purpose speech recognition model.
+
+55. [Whisper to Stable Diffusion](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion) 👉 Discover amazing ML apps made by the community
+
+56. [Wzrd.ai](https://wzrd.ai/) 👉 WZRD is an AI music visualizer. It augments your audio with immersive video powered by artificial intelligence.
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
+1. [AI Lawyer](https://ailawyer.pro/) 👉 Say goodbye to expensive consultations, long waits for appointments, and confusing legal texts. With the AI-lawyer platform, you can get expert legal advice and document creation/summarizing/comparison tools anytime, anywhere. Our user-friendly interface speaks plain language, so you don't have to be a legal expert to understand your rights and obligations.
+
+2. [Anya (law) by Astria](https://law.withastria.com/) 👉 Discover Anya, the advanced AI designed for law practices by Astria AI. Improve efficiency, reduce costs, & make better decisions with legal document analysis & expert advice.
+
+3. [Athena](https://www.apac.ai/) 👉 Advancing Humanity.
+
+4. [Atomic](https://atomiclife.app/) 👉 Atomic: the open source AI calendar assistant for teams. Streamline scheduling, automate tasks, & self-host. Features: - Semantic search - Automated tagging - Time-blocking - AI-based scheduling. Get organized, save time, & focus on what matters with Atomic
+
+5. [AutoRegex](https://www.autoregex.xyz/) 👉 Converting plain english to RegEx with Natural Language Processing
+
+6. [Bardeen](https://www.bardeen.ai/) 👉 Bardeen is an automation app to replace your repetitive tasks with a single shortcut and control your web apps from anywhere. Explore our integrations with your favorite apps and hundreds of pre-built playbooks that help you stay in the flow.
+
+7. [Blocksurvey](https://blocksurvey.io/ai-surveys) 👉 Generate questions for surveys in seconds using AI. Powered by OpenAI GPT-3.
+
+8. [BlockSurvey](https://blocksurvey.io/ai-surveys/) 👉 Create surveys in seconds using AI
+
+9. [Botsheets](https://www.botsheets.com/) 👉 Automatically turn chats into spreadsheets with AI. Let AI automatically find actionable data in your customer conversations and write it to a Google Sheet for you.
+
+10. [ChatMind](https://www.chatmind.tech/) 👉 Generating and Modifying Mind Maps through AI Dialogue
+
+11. [CodeSnippets.ai](https://codesnippets.ai/) 👉 Turn your questions into code!
+
+Easily store and fetch your snippets.
+
+Collaborate with your team.
+
+AI Powered WebIDE & VSCode extension
+
+Create documentation, Refactor, Debug and Generate code with the click of a button.
+
+We use a fine-tuned AI model trained on GPT3, which provide faster and more accurate responses to your questions, compared to Codex apps.
+
+Save your code snippets into your library for your whole team to use.
+
+Search snippets by language, name or folder & create your own folder structure to suit your needs.
+
+12. [Cogram](https://www.cogram.com/) 👉 Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items
+
+13. [DeepL](https://www.deepl.com/) 👉 Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
+
+14. [Elephas](https://elephas.app/) 👉 Save hours on tedious writing, tailored for busy professionals and marketers.
+
+15. [EnVsion](https://envsion.io/) 👉 EnVsion uses AI to help customer-facing teams save time finding and sharing key learnings from videos of customer conversations in order to build market-dominating products.
+
+16. [Excelformulabot](https://excelformulabot.com/) 👉 Transform your text instructions into Excel & Google Sheets formulas in seconds with the help of AI.
+
+17. [Excelformularizer](https://excelformularizer.com/) 👉 Just type in your instructions and receive the generated functions from us in seconds for free
+
+18. [Fireflies](https://fireflies.ai/) 👉 Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+
+19. [Flexberry AI Assistant](https://ai.flexberry.net/) 👉 AI Assistant
+
+20. [Formula Dog](https://formula.dog/) 👉 Transform your text instructions into Excel formulas or VBA Code in seconds with the help of AI.
+
+21. [Formulagod](https://www.formulagod.ai/) 👉 Formula God: Talk to Google Sheets with AI
+
+22. [GPTChat](https://gptchat.carrd.co/) 👉 Slack app for quickly asking Open AI to do anything
+
+23. [Hints](https://hints.so/) 👉 Focus on work, not data input
+
+24. [Ipso AI](https://ipso.ai/) 👉 AI-powered calendar management
+
+25. [isLucid](https://islucid.com/) 👉 Platform with inbuilt AI assistant to manage all information that derives from meetings. Accurately transcribe meetings and maintain a detailed history. Create summaries, tasks and integrate with your business app of choice (we integrate with thousands). Manage access to meeting information and keep your teams aligned.
+
+26. [Jamie](https://www.meetjamie.ai/) 👉 jamie is an AI assistant that creates summaries of meetings in business-writing quality within seconds. Try now and convince yourself of the magic experience.
+
+27. [Levity](https://levity.ai/) 👉 Train your own AI on documents, images, or text data to perform daily, repetitive tasks so your team can reach the next level of productivity. No code required.
+
+28. [Mem](https://get.mem.ai/) 👉 Let AI organize your team’s work—from meeting notes, projects, to knowledge bases. All instantly searchable and readily discoverable.
+
+29. [Neural Formula](https://www.neuralformula.com/) 👉 Spreadsheet formula AI generator for Excel and Google Sheets. Generate excel sheet formulas in seconds with the help of AI.
+
+30. [NotePD](https://notepd.com/) 👉 NotePD is an idea generation platform for writers and creatives to organize, share, monetize and generate new ideas using AI. The platform features idea lists, challenges, monetization options, social media integration and a growing community of 100k users.
+
+31. [Noty](https://noty.ai/) 👉 Meeting transcription software for Google Meet and Zoom meetings. Noty.ai covers meeting transcription, note-taking and follow-up drafting and lets users stay engaged in conversations.
+
+32. [PrometheanAI](https://prometheanai.com/) 👉 Promethean AI
+
+33. [Relayed](https://relayed.ai/) 👉 Relayed helps teams conquer remote work, busy schedules and meeting fatigue.
+
+34. [ReleaseNote](https://releasenote.ai/) 👉 Releasenote.ai makes it super easy to create engaging release notes - list down your features, and let our GPT-3-powered tool write your first draft.
+
+35. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+36. [Sheet AI](https://www.sheetai.app/) 👉 SheetAI is a Google Sheets add-on that helps you unlock the power of AI in your spreadsheets.
+
+37. [Sheet+](https://sheetplus.ai/) 👉 Generate Google Sheets & Excel formulas from text, convert formulas into simple explanations, debug formulas, and more.
+
+38. [SheetAI App](https://www.sheetai.app/) 👉 Unlock the Power of AI in your Spreadsheets
+
+39. [SheetGod](https://www.boloforms.com/sheetgod/) 👉 If you need help with Excel formulas, our free Excel Formulas Generator can help. With just a few clicks, you can create custom formulas for any situation.
+
+40. [Sheriff](https://heysheriff.com/) 👉 Sheriff - the Slack bot that help you save time with rotating rosters and AI language understanding
+
+41. [Suki](https://www.suki.ai/) 👉 Suki is an AI-powered voice assistant that lifts the administrative burden from clinicians, so they have time to focus on what matters - patient care.
+
+42. [Superflows](https://www.superflows.ai/) 👉 Organise your gmail inbox and reply with intelligently written emails in one click.
+
+43. [Tactiq](https://tactiq.io/) 👉 Tactiq is the Chrome extension that automatically transcribes Google Meet, Zoom, and MS Teams meetings in real-time and use GPT-3 Open AI to generate meeting summary, action items and the next meeting agenda. Over 300'000 downloads and hundreds of reviews. Try it now. Install the Chrome extension for free!
+
+44. [Thegist](https://www.thegist.ai/) 👉 The Gist for Slack is our first app to manage your work information overload. Get the gist of it with our personalized AI enginge.
+
+45. [Traq.ai](https://www.traq.ai/) 👉 AI that records and transcribes sales calls and takes notes. Informs what buyers care about, the competitors, and obstacles in the way. It helps you win more business.
+
+46. [Versational](https://www.versational.ai/) 👉 Turn conversations into actions with Conversation Intelligence! Compress 1-hour meetings into 6 minutes of insights. Auto-export tasks to CRM, 1-click AI writes emails and summaries in any template. Make coaching easier with the latest behavioral science metrics.
+
+47. [Vowel](https://www.vowel.com/features/automated-meeting-summaries) 👉 Try automated meeting summaries (powered by AI) in Vowel! Cut down on admin time, catch up on missed meetings, and keep everyone on the same page.
+
+48. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
+
+1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
+
+2. [AI Content Generator](https://yep.so/p/ai-content-generator) 👉 Generate social media posts in seconds using the AI
+
+3. [AI Social Bio](https://aisocialbio.com/) 👉 Create the perfect social media bio using AI. Use the AI Social Bio generator to get the best Twitter, LinkedIn and Instagram bio.
+
+4. [AI Writer by Picsart](https://tools.picsart.com/text/ai-writer/) 👉 AI Writer generates premium quality written content for social media, marketing, advertising, and more. All for free.
+
+5. [Altera AI](https://www.altera.ai/) 👉 Engage LinkedIn leads with AI comments, inMails and posts
+
+6. [Booltool](https://booltool.boolv.tech/) 👉 An all-in-one cloud toolkit with everything that Al can do (so far) to help turn all forms of your resources into stunning content at your fingertips. Picture editing, Al copywriting, HD videos, and more!
+
+A must-have toolkit for digital marketers, online shop owners, creators, and graphic designers!
+
+7. [BrandBastion Lite](https://www.brandbastion.com/lite/) 👉 Easily monitor and manage all your social media conversations with BrandBastion Lite. Our AI simplifies comment management by analyzing sentiment, detecting spam and hate speech, and identifying the messages that require a response from your brand.
+
+8. [Camira](https://www.camira.ai/) 👉 CAMIRA is an all-in-one AI-powered platform designed specifically for content creators, photographers, and videographers. With a wide range of features, including AI-generated ideas, AI chat assistance, AI image generators, AI location scout, and much more, CAMIRA streamlines the content creation process and elevates the end result. Whether you're looking to generate unique ideas, save time on marketing materials, or produce professional-grade content, CAMIRA is the perfect solution. Try it for free today.
+
+9. [Caption-spark](https://www.buildai.space/app/caption-spark) 👉 Find the next inspirational captions for your next insta post and amaze the world! Submit post topic (e.g life)
+
+10. [ContentIn](https://contentin.io/) 👉 Beat the blank page every time and build your personal brand with ease to finally become the thought leader in your niche.
+
+11. [Contlo.ai](https://contlo.ai/) 👉 Contlo.ai is a first of its kind AI marketer. With a conversational UI, you can manage all your marketing needs through a single chat interface. This innovative tool offers end-to-end campaign management, customer segmentation in plain English, predictive analytics, social media management, and SEO-optimized content creation.
+
+12. [Copywise](https://copywise.ai/) 👉 Copywise is the world's first AI copywriting tool with a built-in marketing framework. Copywise was founded to make it easier for businesses to create high-quality ad copies that drive results. It doesn't only produce high-quality copies, but it also takes users through a marketing framework that drives conversions.
+
+13. [Decktopus AI](https://www.decktopus.com/) 👉 Decktopus is an online content creation tool that offers auto-adjusted layouts and templates, allowing you to create any type of content in minutes by simply filling in the blanks.
+
+We are currently working on a new version of Decktopus known as Decktopus AI. Decktopus AI will enhance your experience by offering a new "Create with AI" button on your dashboard.
+
+You can fill in a prompt, such as "Give a progress report about XYZ," and select a theme, such as "Dark" or "Minimal." In a few minutes, Decktopus AI will generate a fully designed deck with the content you provided, including images, bullet points, forms, and more. It will also be customizable with just a few clicks.
+
+14. [DigiMarkAI](https://www.digimarkai.com/) 👉 DigiMarkAI provided an effective and powerful way to generate social media post through AI
+
+15. [Engage AI](https://filtpod.com/) 👉 Engage AI creates comments for you to engage prospects on LinkedIn at scale. Save hours writing comments to attract your prospects and achieve faster conversions with every added touchpoint.
+
+16. [Extractify](https://extractify.co/) 👉 Extractify lets Youtubers generate Twitter and LinkedIn content from their youtube videos so they can grow on these platforms and find new audience for their content.
+
+17. [FederAI - Twitter Growth Tool for Small Accounts](https://federai.co/) 👉 Get more Twitter audience, clients, visibility you want in half the time.
+
+18. [Generator XYZ](https://www.generatorxyz.com/) 👉 AI Generator platfom for bloggers and marketeers
+
+19. [Gigopost](https://www.gigopost.com/home) 👉 Push AI-powered social content to your teams to re-share & leverage their authentic voice to create new opportunities with 1-click.
+
+20. [Graham AI](https://www.grahamai.co/) 👉 Graham.AI - Tech Tweet Generator
+
+21. [HeadlinesAI](https://headlinesai.pro/) 👉 Generate Headlines that convert - Youtube, Reddit, Indie Hackers, Medium
+
+22. [Linkedin Posts Generator](https://sid.black/tools/linkedin-post-generator) 👉 Generate Linkedin Posts With Hashtags From An Article, From What Happened Today Or From Random Thoughts
+
+23. [MarketingBlocks](https://marketingblocks.ai/) 👉 MarketingBlocks is a ‘Human-like’ AI Marketing Assistant that writes, creates & designs your landing pages, promo videos, ads, marketing copy, graphics, email swipes, voiceovers, blog posts, articles, art & more in minutes. In ANY niche and ANY language from just a keyword.
+
+24. [Ocoya](https://www.ocoya.com/) 👉 A platform to create, auto-generate and schedule content quicker.
+
+25. [Post Parrot](https://postparrot.xyz/) 👉 Looking to generate reddit post titles that drive engagement? Checkout out our free digital marketing tool to enhance your post titles for targeted subreddits.
+
+26. [Postwise](https://postwise.ai/) 👉 World's smartest Twitter AI tool. Write tweets, schedule posts and grow your following using AI.
+
+27. [Predis](https://predis.ai/) 👉 Create Amazing Social Media Posts with AI Social Media Post Generator - Predis.ai AI Content Generator
+
+28. [Replai.so](https://replai.so/) 👉 Rocketship your Twitter audience with AI-autosuggest ???? comment and respond to 10x more people in 2 minutes.
+
+29. [RiteBoost](https://riteboost.com/) 👉 Auto-generate social posts with image, hashtags, emojis and convert URLs to short links that advertise for you and your clients!
+
+30. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+31. [Stride](https://stride.la/) 👉 Stride's AI technology scans social media platforms daily to identify new followers and find their email addresses. It implements advanced monitoring algorithms to analyze social media accounts and extract the email addresses of the newest followers, thereby enabling efficient and relevant email leads, also by using a combination of methods, including behavioral analysis, IP address analysis, social network analysis, and content analysis, to accurately identify and filter out bot accounts. This helps to ensure the accuracy and trustworthiness of your data.
+
+32. [Tribescaler](https://tribescaler.com/) 👉 Get more impressions, grow a better network and earn more money. It’s that simple. Get started for free.
+
+33. [TweePT3](https://tweept3.com/) 👉 TweePT3 is the first Twitter-integrated, GPT3 powered tweet writer! Generate engaging, exciting tweets in seconds with the click of a button.
+
+34. [Tweet Assist App](https://tweetassist.ai/) 👉 Tweet Assist App
+
+35. [TweetAI](https://tweetai.com/) 👉 Stuck what to tweet? No more. We will help you get inspired and super charge your tweets.
+
+36. [TweetEmote](https://www.tweetemote.com/) 👉 The AI-Powered Tweet Assistant - Write Expressive Tweets With Tweet Emote And Get The Engagement That Your Content Deserves!
+
+37. [Tweetfox](https://tweetfox.io/) 👉 Scale the Bird App with the Smartest Twitter Automation Platform.
+
+38. [Tweethunter](https://tweethunter.io/generate-tweets) 👉 Generate tweets with AI with the same style than anyone on Twitter
+
+39. [TweetMe](https://no-code-ai-model-builder.com/tweet-me) 👉 Build a, No Code, AI Tweet writer that tweets like you, no generic bullsh\*t.
+
+40. [Tweetmonk](https://tweetmonk.com/) 👉 AI-powered thread publishing tool. Write, schedule, and publish Twitter tweets & threads seamlessly. Grow your engagement on Twitter with analytics and metrics about your account.
+
+41. [Tweetsift](https://tweetsift.com/) 👉 A.I. Chat Bot Tweetsift | Unlock Financial Success
+
+42. [Tweetspear](https://www.tweetspear.com/) 👉 Generate personalized and accurate replies with our powered tool, Tweetspear helps you get the most out of your Twitter presence.
+
+43. [Tweetstorm](https://www.tweetstorm.ai/) 👉 Maximize Twitter impact with TweetStorm.ai. AI-generated professional tweets for businesses, marketers & social media managers. Try now!
+
+44. [Twitter Bio Generator](https://www.twitterbio.com/) 👉 Generate your next Twitter bio in seconds.
+
+45. [Viral Post Generator](https://viralpostgenerator.taplio.com/) 👉 Go mega-viral on Linkedin | Generate a successful post with the power of AI
+
+46. [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots. Our platform offers configurable API, giving you the flexibility to tailor the AI widgets to your specific needs. You can easily integrate these widgets with your own API keys or use shared keys for added convenience. Additionally, our direct payment system via Stripe allows you to monetize your AI widgets and earn money from sharing them with your audience.
 
 ## 15. <a name='FunGiftsCards'></a>🤹‍♀️ Fun, Gifts & Cards
 
+1. [AI Cards](https://designstripe.com/ai-cards/) 👉 undefined
+
+2. [AI Holiday Cards](https://designstripe.com/ai-cards/) 👉 Celebrate the almighty imperfection of AI by sharing a truly unique (and just a little awkward) holiday card
+
+3. [AI Holiday Cards](https://aiholiday.cards/) 👉 AI engine to create AI Holiday photorealistic Cards for couples
+
+4. [AI movie Club](https://www.ai-movie.club/) 👉 AI-MOVIE CLUB is a social network that create movies with artificial intelligence!
+
+5. [AI Pickup Lines](https://www.aipickuplines.com/) 👉 Never miss out on any chance of flirting, enter the catchwords and always have something to lead on!
+
+6. [AI-Painted Romantic Printed Portraits](https://imajinn.ai/portrait) 👉 Create an amazing romantic couple portrait canvas or framed poster for your Valentine with AI.
+
+7. [AIchristmascards](https://aichristmascards.com/) 👉 Create & mail unique holiday greetings in minutes - from just $1.99
+
+8. [Ask My Book](https://askmybook.com/) 👉 Use Ask My Book to ask a question and get an answer in Sahil's voice.
+
+9. [Chess AI](https://betafish.gavinong.com/) 👉 Chess AI
+
+10. [CoolGiftIdeas](https://www.coolgiftideas.io/) 👉 Find the perfect gift for your loved ones with Cool Gift Ideas! Our AI-powered gift suggestion tool helps you discover personalized and unique gift ideas for any occasion.
+
+11. [Deepfakesweb](https://deepfakesweb.com/) 👉 Our easy to use deepfake app uses AI and Deep Learning to generate amazing face swap videos. Make your own deepfake video today.
+
+12. [Designed With AI](https://www.designedwithai.com/) 👉 Design with the power of AI to create one of a kind puzzle and more delivered to your door step
+
+13. [Elf Help](https://www.elfhelp.ai/) 👉 Need some inspo for your holiday gifting? Elf help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list.
+
+14. [Face Swapper](https://faceswapper.ai/) 👉 FaceSwapper | Swap photo video face online free
+
+15. [Free Sneaker Generator by Imajinn AI](https://imajinn.ai/sneakers) 👉 Sneakerheads rejoice! Imajinn AI is here to help you design your next pair of kicks in seconds, limited only by your imagination. Design, share, and vote on your favorite AI-generated sneakers with our amazing tool, for FREE!
+
+16. [Gift Box](https://www.giftbox.co/) 👉 The Perfect Gift Idea
+
+17. [Gift Genie](https://www.giftgenie.ai/) 👉 Gift Genie AI is an AI-powered that allows you to find the perfect gift in seconds with AI for free. Jot down a brief description of your recipient, and get a list of gifts our AI genie believes will delight them.
+
+18. [Gift Genie AI](https://www.giftgenie.ai/) 👉 Find the perfect gift in seconds with AI for free
+
+19. [Giftastic AI](https://giftastic.ai/) 👉 Personalised gift ideas for every occasion!
+
+20. [GiftBot](https://www.getgift.help/) 👉 Struggling to figure out what gift to get someone?
+
+21. [Gifts Genie](https://gen.gifts/) 👉 Genie - AI Gifts Generator
+
+22. [Hairstyle AI](https://www.hairstyleai.com/) 👉 Upload you photos and let artificial intelligence technology generate new hairstyles for you
+
+23. [HowToReplyTo](https://howtoreplyto.com/) 👉 Finding a creative and unique replies to any messages
+
+24. [Inworld](https://www.inworld.ai/) 👉 Lifelike AI characters that can carry on open-ended conversations.
+
+25. [iQuit.ai](https://iquit.ai/) 👉 Generates your resignation letter or email in seconds.
+
+26. [Jokelub](https://jokelub.com/) 👉 Bring humor everywhere
+
+27. [jotted](https://jotted.page/public/) 👉 AI study tool that generates flashcards for a given passage of text.
+
+28. [Langame card game](https://cards.langa.me/) 👉 AI-generated conversation card game to enjoy with your friends & family
+
+29. [Movietoemoji](https://movietoemoji.netlify.app/#/) 👉 Convert Movie or Tv series names into emojis.
+
+30. [NovelAI](https://novelai.net/) 👉 GPT-powered AI Storyteller. Driven by AI, construct unique stories, thrilling tales, seductive romances, or just fool around. Anything goes!
+
+31. [Nyx](https://nyx.gallery/) 👉 The food, animals, landscapes, etc. that you will see do not exist!
+
+32. [Outdone V2](https://www.outdone.io/) 👉 Outdone's Ai-powered gift recommender makes it easy to shop for special occasions. Tell us a bit about who you’re shopping for and we’ll handle the rest!
+
+33. [PolitePost.net](https://politepost.net/) 👉 Turn your rambling rants into professional emails suitable for work.
+
+34. [Postedby](https://postedby.ai/) 👉 Postcards by AI, delivered!
+
+35. [Reface.ai](https://hey.reface.ai/) 👉 Swap faces in the videos, GIFs and memes with just one selfie.
+
+36. [Sprinkle](https://getsprinkle.ch/) 👉 Say goodbye to generic stories, and hello to a new world of personalized adventure with our AI-powered storybooks - where your child becomes the star of their own unique tale!
+
+37. [StarByFace](https://starbyface.com/) 👉 What celebrity do I look like? Try to find out! Celebrity look alike face-recognition system. Find your doppelganger.
+
+38. [Suggest Gift](https://suggest.gift/) 👉 Artificial Intelligence based tool to help you get amazing gift suggestions for any occasion.
+
+39. [Supermeme.ai](https://www.supermeme.ai/) 👉 Generate original AI memes in 110+ language by entering any text input and turning that into a shareable memes. Powered by GPT-3 and a custom built meme database
+
+40. [Swapper](https://icons8.com/swapper) 👉 Swap multiple faces online without reducing image quality. Change faces and create new models for your project using AI technology for free.
+
+41. [Text2present](https://text2present.com/) 👉 Your friend loves otters and the 19th century, basketball and space, or ...? text2present.com allows you to create creative customized presents using artificial intelligence for your friends, family and acquaintances without taking your precious time. Simply enter a text description of what you want to gift and let our artificial intelligence do the rest.
+
+42. [WatchNow AI](https://www.watchnowai.com/) 👉 Let AI find your next movie or show
+
+43. [We Write Cards](https://wewritecards.com/) 👉 Personalized messages, lovingly crafted. Custom written messages for any occasion delivered in 30 seconds! Get Started. It's FREE! Occasions Birthdays The perfect words for that special someone on their birthday. Holidays Share the magic of Christmas and other special days. Life Events Lifes
+
+44. [Yoodli](https://app.yoodli.ai/) 👉 Improve your confidence with personalized communication coaching from Yoodli.
+
 ## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
+
+1. [AIcontentfy](https://aicontentfy.com/) 👉 Revolutionize your content creation process with our advanced AI with a fraction of your old content budget. High-quality articles generated automatically.
+
+2. [Anypod](https://www.anypod.ai/) 👉 A website made with Typedream.
+
+3. [ArticleForge](https://www.articleforge.com/) 👉 An AI content generator that automatically produces complete high-quality, unique, SEO-friendly articles in a single click.
+
+4. [AtOnce](https://atonce.com/) 👉 AtOnce is the best AI writer, AI content generator & CRM. Save 90% of your time with AtOnce's AI. Write blog posts, ads, AI images & emails in minutes.
+
+5. [Bladerunner](https://www.bladerunner.ai/) 👉 Browser extension that highlights GPT-generated text on the page. Great for seeing fake product reviews, comments, articles, etc.
+
+6. [ChatGPT for Search Engines](https://chatonai.org/) 👉 Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results
+
+7. [Contentedge](https://www.contentedge.com/) 👉 Our AI-powered copywriting & SEO content optimization software helps individuals & businesses create engaging content that converts. Get started for free today!
+
+8. [Context Search](https://addcontext.xyz/create) 👉 Audio & Video Chatbots
+
+9. [CopyMonkey](https://copymonkey.ai/) 👉 AI for Amazon Listing Optimization. Generate Amazon Descriptions and Bullet Points with keywords. Create your first Optimized Amazon Listing for free.
+
+10. [Ctrify](https://www.ctrify.com/) 👉 Be welcome to the Greatest Invite Only SEO Community of the World. Our AI powered SEO app and Machine learning analysis tools will help you boost your organic rankings.
+
+11. [Embolden](https://embolden.co/) 👉 Embolden uses AI to help you write everything from emails to product descriptions for your ecommerce business.
+
+12. [Enwrite](https://enwrite.co/) 👉 Enwrite is an AI-powered content creation tool that helps businesses and individuals save time and effort while creating high-quality, SEO-optimized content. Generate titles, descriptions, and full articles by simply inputting your desired keywords and topic. Streamline your content creation process and improve your SEO with Enwrite's advanced algorithms and project management features.
+
+13. [Everypixel](https://www.everypixel.com/) 👉 Stock image finder for all who hate bad stock photos. Use it to find the best licensed images for the lowest price. More than 50 image sources.
+
+14. [Frase.io](https://www.frase.io/tools/) 👉 The AI writing tools everyone is talking about. For free.
+
+15. [Friday Go](https://chrome.google.com/webstore/detail/friday-go/cobeolghfehacidcnidganniblghhnjm) 👉 The best 1st search result
+
+16. [GhostWryter](https://ghostwryter.net/) 👉 With GhostWryter you write your SEO texts, blog posts and other marketing content with the latest AI models from OpenAI™ GPT.
+
+17. [INK](https://inkforall.com/) 👉 Think you can't write great copy? Think again! With INK, you can craft original articles, descriptions, headlines, Google ads, and more.
+
+18. [Kafkai](https://kafkai.com/) 👉 AI algorithm that can write articles from scratch. Get quality & unique articles for cents instead of dollars. Sign up for a free trial!
+
+19. [Keywrds](https://keywrds.ai/) 👉 Find keywords your competition can only dream of
+
+20. [Keywrds.ai](https://keywrds.ai/) 👉 Keywrds.ai is a keyword research, and topic ideation tool powered by GPT. Using multiple data sources we find huge amounts of keywords.
+
+You can then use our AI engine to generate questions, topics and blog post outlines to target those keywords.
+
+21. [Komo AI](https://komo.ai/) 👉 Komo Search is a search engine powered by generative AI. It's private, fast, and has no ads.
+
+22. [LongShot AI](https://www.longshot.ai/) 👉 LongShot is an AI-powered content writing assistant that research, generate, and optimize high-quality long-form content. Writing blogs will never feel this easy.
+
+23. [MagicBlog](https://magicblog.ai/) 👉 Write high-quality long-form blog content using our AI that's 100% original and SEO optimized in just one click. Get your first 1,500 words free! Generate now!
+
+24. [Metagenieai](https://www.metagenieai.com/) 👉 Generate optimized metadata, including titles, descriptions, and tags/keywords, with MetaGenieAI. Utilizing Artificial Intelligence (AI), our tool streamlines your content creation by generating SEO-friendly metadata and ideas for article and video thumbnails.
+
+25. [Metaphor](https://metaphor.systems/) 👉 Metaphor
+
+26. [NeevaAI](https://neeva.com/) 👉 Did you know 40% of search results are ads? Created by ex-Google execs, Neeva only shows you real results. No ads or affiliate links ever.
+
+27. [Phind](https://phind.com/) 👉 Get instant answers, explanations, and examples for all of your technical questions.
+
+28. [Predict](https://www.neuronsinc.com/predict) 👉 Neurons' Predict can simulate consumer attention on your visual assets in seconds. Pre-test and optimize images and video content with high accuracy.
+
+29. [Rewind](https://www.rewind.ai/) 👉 The search engine for your life. Find anything you've seen, said, or heard.
+
+30. [Rocket Mode (Mark Copy)](https://www.markcopy.ai/) 👉 Meet Mark Copy AI, your new copywriting assistant. Write 3X faster SEO-friendly content to help you scale your business. Try Mark free for 7 days. No credit card required.
+
+31. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+32. [SEO.ai](https://seo.ai/) 👉 SEO.ai let's you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.
+
+33. [SEOCopy](https://seocopy.ai/) 👉 SEOCopy.ai is a time-saving tool that allows you to generate new SEO copy or rewrite your website's existing copy using advanced AI.
+
+34. [Seowebsearch](https://www.seowebsearch.com/) 👉 Blog Post Generator
+
+35. [SplashAI](https://www.splashai.art/login) 👉 SplashAI is a Figma plugin, search engine and AI image generator.
+
+36. [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) 👉 Get human-like answers powered by GPT-3 to your Google searches
+
+37. [Typli](https://typli.ai/) 👉 Typli.AI is the next-generator ai writer tool which combines AI content generation, and SEO Assistant, it will help digital marketers generate ai articles
+
+38. [Wizishop](https://wizishop.com/) 👉 Create an ecommerce website and start selling your products online. 15-Day free trial. No credit card required.
+
+39. [Wordkraft](https://wordkraft.ai/) 👉 Wordkraft AI copywriting and content generator is the perfect solution for content marketers, bloggers, businesses and individuals who wants to boost there business.
+
+40. [Writey AI](https://writey.ai/) 👉 Changing the way content is created. Create content faster with artificial intelligence. Most advanced language A.I.
+
+41. [ZeitPub](https://zeitpub.com/) 👉 Zeitpub | The future of publishing is here
+
+42. [Zevi](https://www.zevi.ai/) 👉 Zevi is an neural search engine for ecommerce brands. It enables website's search and merchandising functionality, improving user experience, and sales performance.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
