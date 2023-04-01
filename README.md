@@ -3231,6 +3231,72 @@ Created by @sameedahmad
 
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
+1. [AI Lyrics Generator](https://theselyricsdonotexist.com/) 👉 Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood
+
+2. [AIbstract](https://aibstract.fr/) 👉 Your Music, Unique, Like You
+
+3. [Aiva](https://aiva.ai/) 👉 AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.
+
+4. [Amper AI](https://www.ampermusic.com/) 👉 Shutterstock.AI saves time and money. Launch campaigns with confidence, thanks to data-backed insights, predictions, and recommendations.
+
+5. [Artistator](https://artistator.com/) 👉 Generate artist names of your favourite music genres.
+
+6. [Boomy](https://boomy.com/) 👉 Boomy - Make Generative Music with Artificial Intelligence
+
+7. [Clip audio](https://www.clip.audio/) 👉 Discover, generate & remix audio using text.
+
+8. [Cyanite](https://cyanite.ai/) 👉 Cyanite is an effective music search and tagging engine. Unlock the value of your music catalog.
+
+9. [Dadabots](https://dadabots.com/) 👉 Neural networks
+
+10. [Daft Art](https://www.daftart.ai/) 👉 Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI.
+
+11. [Ecrett Music](https://ecrettmusic.com/) 👉 Easy way to create royalty free music.
+
+12. [Emergent Drums](https://audialab.com/) 👉 Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI
+
+13. [Evoke Music](https://evokemusic.ai/) 👉 Evoke Music is a royalty-free music library made with AI.
+
+14. [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) 👉 The Infinite Drum Machine
+
+15. [LALAL.AI Voice Cleaner](https://www.lalal.ai/) 👉 Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
+
+16. [Moises App](https://moises.ai/) 👉 The best app for practicing music. Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI. Try it today!
+
+17. [Mubert](https://mubert.com/) 👉 Mubert - The new royalty-free music ecosystem for content creators, brands and developers Come See How Our High-Quality Music Can Elevate Your Content ⏩
+
+18. [Musenet](https://openai.com/blog/musenet/) 👉 We’ve created Musenet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments and can combine styles from country to Mozart to the Beatles.
+
+19. [Musico](https://www.musi-co.com/) 👉 Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
+
+20. [Natural Language Playlist](https://www.naturallanguageplaylist.com/) 👉 Natural Language Playlist
+
+21. [Orb Producer](https://www.orbplugins.com/orb-producer-suite/) 👉 Orb Producer Suite is a set of 4 unique AI music plugins, computing infinite patterns, chord progressions, melodies , basslines and arpeggios
+
+22. [PlaylistAI](https://www.playlistai.app/) 👉 The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most-listened-to music.
+
+23. [Raplyrics](https://raplyrics.eu/) 👉 AI generated rap music lyrics, compose in the styles of your preferred artists.
+
+24. [Riffusion](https://www.riffusion.com/) 👉 Stable diffusion for real-time music generation
+
+25. [Songmastr](https://www.songmastr.com/) 👉 Master your song to a commercial reference track automatically using AI. FREE (7/week) & no registration.
+
+26. [Songtell](https://www.songtell.com/) 👉 Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
+
+27. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
+
+28. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
+
+29. [Splash](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
+
+30. [Staccato](https://staccato.ai/) 👉 Generative AI for musicians & lyricists.
+
+31. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) 👉 Synthesizer V | Dreamtonics 株式会社
+
+32. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
+
+## 20. <a name='Emails'></a>📥 Emails
+
 1. [BaruaAI](https://baruaai.com/) 👉 Save time and effort with AI email sequence generation
 
 2. [Begone, Spammer](https://begonespammer.com/) 👉 M64 is home to independent artists, strategists, and tinkerers. We make micro products, produce music, and help companies ship creative ideas that stand out in a crowded online world.
@@ -3296,8 +3362,6 @@ Created by @sameedahmad
 32. [superReply](https://superreply.co/) 👉 The Email Response Hack You've Been Waiting For | Easily send effective replies with tailored responses without writing from scratch.
 
 33. [Warmer.Ai](https://warmer.ai/) 👉 Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization.
-
-## 20. <a name='Emails'></a>📥 Emails
 
 ## 21. <a name='QA'></a>❓ Q & A
 
