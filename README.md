@@ -1,5 +1,4 @@
 <div style="text-align: center;">
-    <img src="./images/logo.jpg" width="60px" height="60px" />
     <h2 style="margin-top: 0">Awesome AI Tools</h2>
     <div>🤖 Finding the AI tools you need!</div>
 </div>
@@ -3365,20 +3364,424 @@ Created by @sameedahmad
 
 ## 21. <a name='QA'></a>❓ Q & A
 
+1. [AI Office Bot](https://aiofficebot.com/) 👉 Generate & Explain formulas with AI on Airtable, Google Sheets, or Excel. Also support AI How Tos for Microsoft Office and Creative Suite
+
+2. [Albus](https://www.springworks.in/albus/) 👉 Albus uses natural language processing technology to help you find answers to all your questions without leaving Slack & MS Teams. Have the power of ChatGPT now right inside your Workspace!
+
+3. [Alfred](https://www.alfredsearch.com/) 👉 Alfred is a new AI-powered search and content creation engine, combining ads-free search and content creation into one easy-to-use app experience. With Alfred, searching and finding information has never been easier or more convenient. Try it now and experience the future of search and content creation.
+
+4. [Algo](https://algo.chatbotkit.com/) 👉 Algo Personal AI Assistant | ChatBotKit | Apps | ChatBotKi
+
+5. [All Search AI](https://www.allsearch.ai/) 👉 Search across content of 1000s of books
+
+6. [Andisearch](https://andisearch.com/) 👉 Andi is search for the next generation using generative AI. Instead of just links, Andi gives you answers - like chatting with a smart friend
+
+7. [AskNow](https://www.asknow.ai/) 👉 AskNow is a platform where you can ask any question and get a personalized answer from your favorite personalities.
+
+8. [AskThee](https://askthee.vercel.app/) 👉 Ask 3 questions a day to big thinkers and scientist, feed your curiosity.
+
+9. [AskThee](https://askthee.vercel.app/) 👉 Ask 3 questions a day to big thinkers and scientist, feed your curiosity.
+
+10. [Brainfi](https://www.brainfi.sh/) 👉 Brainfish is the world's first AI-powered knowledgebase that proofreads and suggests improvements to your help articles, as well as generating articles based on prompts.
+
+11. [CFRexplorer](https://cfrexplorer.com/) 👉 CFR Explorer is an app that utilizes the latest AI technology to allow pilots to get quick answers to their questions about aviation regulations.
+
+12. [Comntai](https://comntai.com/) 👉 Comntai – A FAQ Widget Powered By AI
+
+13. [Huberman AI](https://huberman.rile.yt/) 👉 Use AI to explore the wisdom of The Huberman Lab.
+
+14. [Jeeves](https://www.therocketbrew.com/jeeves) 👉 Your data insights should be instant. Introducing Jeeves. Ask questions, get answers, without the nasty spreadsheet formulas. Try today for free!
+
+15. [Konjer](https://www.konjer.xyz/) 👉 Ask a book about itself. Revisit old ideas or discover new ones. Absorb knowledge through conversation.
+
+16. [Perplexity AI](https://www.perplexity.ai/) 👉 Perplexity AI unlocks the power of knowledge with information discovery and sharing. Ask anything.
+
+17. [PersonalAI](https://www.personal.ai/) 👉 Generate new ideas, recall key concepts, and write original content and at the speed of thought.
+
+18. [Piggy Magic](https://piggy.to/magic) 👉 turn any thought into a magic doc
+
+19. [Quizgecko](https://quizgecko.com/) 👉 Generate a quiz from text in seconds, using AI.
+
+20. [QuizGrowth](https://quizgrowth.com/) 👉 With just a few clicks, automatically generate quizzes from your content to drive user engagement & sales!
+
+21. [Quizwhiz](https://www.quizwhiz.ai/) 👉 Provide a body of text and get AI generated Questions and Answers, along with their Multiple-Choice options.
+
+22. [Rationale](https://rationale.jina.ai/) 👉 See two sides of the coin, make rational decisions. Use GPT and in-context learning to analyze pros & cons, cost-benefit, SWOT, multi-option, and outcomes. Rationale helps you make well-rounded decisions.
+
+23. [Somi AI](https://www.asksomi.app/) 👉 Slack channels contain a wealth of information that can accelerate your workflow. Access them with a simple Somi command.
+
+24. [Sonya](https://getsonya.ai/) 👉 Sonya.ai
+
+25. [Talk to Books](https://books.google.com/talktobooks/) 👉 Browse passages from books using experimental AI
+
+26. [Universal Data](https://generate.universaldata.io/) 👉 Universal Data Generator
+
+27. [Upstream](https://beta.upstreamapi.com/) 👉 Build AI chatbots with your content
+
+28. [Web ChatGPT](https://chrome.google.com/webstore/detail/webchatgpt/lpfemeioodjbpieminkklglpmhlngfcn) 👉 Augment your ChatGPT prompts with relevant results from the web.
+
+29. [Wolframalpha](https://www.wolframalpha.com/) 👉 Wolfram|Alpha brings expert-level knowledge and capabilities to the broadest possible range of people—spanning all professions and education levels.
+
 ## 22. <a name='StoriesKids'></a>🧚 Stories & Kids
+
+1. [Artflow](https://artflow.ai/) 👉 Create Custom Avatar from Text
+
+2. [Artflow AI](https://artflow.ai/) 👉 Effortlessly turn ideas into Animated Stories - Artflow.ai lets you create your own, unique Animated Stories with original characters using assets generated with AI
+
+3. [BedtimeStory](https://www.bedtimestory.ai/) 👉 Create instant, personalised bedtime stories created in seconds using AI. Incorporate your child and family members as characters, add genre, art style, moral, and more.
+
+4. [Childbook](https://www.childbook.ai/) 👉 Your book will be personalized with characters, pictures and story. The story and illustrations also have a text-to-speech feature and can be listened to.
+
+5. [Dreamily](https://dreamily.ai/dashboard/novels) 👉 Multiverse, written by you and AI
+
+6. [Driary](https://driary.com/) 👉 What did you dream about last night?
+
+7. [Fabled](https://fabled.ai/welcome) 👉 Sign up for AI-powered, illustrated stories!
+
+8. [Imajinn AI Children's Book](https://imajinn.ai/storybook) 👉 Create a beautiful custom children's book featuring AI generated images of your child.
+
+9. [InstaNovel](https://instanovel.ai/) 👉 InstaNovel - Generate your Novel with AI
+
+10. [Inworld](https://inworld.ai/) 👉 Inworld is a platform for creating AI characters that can be used for games or immersive experiences. It can generate real-time conversations, powered by AI.
+
+11. [Kidotail](https://www.kidotail.com/) 👉 Unique personalized fairytales using AI for your kids.
+
+12. [Maigic Book](https://www.maigic.world/) 👉 Create endless stories with illustrations using AI and user inputs with Magic Book. Fully customizable and available on iPhone, iPad, and Mac. Download now and start creating magic!
+
+13. [MakeMyTale](https://makemytale.com/) 👉 MakeMyTale is a revolutionary story creation platform, powered by AI, that allows users to effortlessly create their own unique stories. By selecting a theme and characters, the platform generates a personalized tale that comes to life. MakeMyTale harnesses the power of AI to empower users to share their creativity and imagination with others. Additionally, AI technology generates audio and video versions of the story, making it accessible to a wider audience.
+
+14. [novelistAI](https://novelistai.com/) 👉 NovelistAI is a website that uses artificial intelligence to generate unique stories, novels, and interactive books. Choose from a variety of genres and styles to create your own personalized reading experience.
+
+15. [Once Upon A Bot](https://onceuponabot.com/) 👉 Create stories with AI
+
+16. [PlotPrompts](https://plotprompts.com/) 👉 AI-Powered fiction story plot, subplots, and character generating app that weaves them all together in linear outlines for writers.
+
+17. [Rick and Mortify](https://rickandmortify.com/) 👉 An AI playground for creating new Rick and Morty episodes.
+
+18. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+19. [Scarlettpanda](https://www.scarlettpanda.com/) 👉 Scarlett Panda - use our magic to generate customized bedtime stories featuring your friends and family.
+
+20. [StoriesbyAI](https://storiesby.ai/) 👉 Unique tales written, illustrated, and narrated with AI. Click to read Stories by AI, a Substack publication with thousands of readers.
+
+21. [StoriesForKids](https://www.storiesforkids.ai/) 👉 Create personalized children's books with AI
+
+22. [Storya](https://www.storya.app/) 👉 Create and Enhance Your Story with Artificial Intelligence. Discover AI tools for Narration and Smart Translation. Design with our incredible AI Art Generator.
+
+23. [Storywizard](https://www.storywizard.ai/) 👉 Storywizard uses AI to help you generate astonishing stories for children with vivid images and beautiful plots.
+
+24. [Talestime](https://talestime.io/) 👉 Create your customized bedtime story on TalesTime. The only boundry is your imagination!
+
+25. [We Made a Story](https://www.wemadeastory.com/) 👉 'We Made a Story' uses AI to create stories for children with stunning illustrations
+
+26. [What on earth?](https://www.whatonearth.xyz/) 👉 Search the internet on WhatOnEarth!
 
 ## 23. <a name='IdeaGeneration'></a>💡 Idea Generation
 
+1. [Aiappideas](https://www.aiappideas.com/) 👉 AI App Ideas
+
+2. [Amilliondollaridea](https://www.amilliondollaridea.com/) 👉 A million-dollar business idea generator.
+
+3. [Business Idea Generator](https://www.bizideas.ai/) 👉 Generate personalized business ideas in seconds with the power of AI.
+
+4. [Ideasai](https://ideasai.com/) 👉 Ideas AI is an A.I. that generates startup ideas using GPT-3 by OpenAI
+
+5. [MagicForm](https://www.magicform.ai/) 👉 MagicForm enables small businesses to harness all of the magic of next generation artificial intelligence to take their website conversions to the next level.
+
+6. [Marketable Names](https://marketablenames.com/) 👉 AI-powered available domain name search based on the topic of your needs.
+
+7. [Mixo](https://www.mixo.io/) 👉 Mixo | Launch your startup in seconds
+
+8. [Namelix](https://namelix.com/) 👉 Namelix uses artificial intelligence to create a short, brandable business name. Search for domain availability, and instantly generate a logo for your new business
+
+9. [NameSnack](https://www.namesnack.com/) 👉 NameSnack combines cutting-edge AI with advanced naming techniques to help you find the perfect name for your business. Discover thousands of memorable business name ideas for your brand in seconds using our unique machine-learning algorithm and instant domain checker. Pick the one you love, register it, and start building your brand!
+
+10. [Namewizard](https://namewizard.ai/) 👉 namewizard is the generator that uses AI to find the perfect business and domain name for your next project
+
+11. [Only .coms](https://onlycoms.com/) 👉 Only .coms uses ChatGPT to find original and available .com domain names for your next project
+
+12. [Paperade](https://www.paperade.co/) 👉 Turning groundbreaking research into real-world solutions.
+
+13. [Quilt & Create](https://www.quiltcreate.com/) 👉 The AI-enabled ideation tool for creatives. The more you interact with it, the better your ideas become.
+
+14. [Revive](https://letsrevive.app/) 👉 Generate & visualise your business ideas with the power of AI, share them within the community & validate before you build
+
+15. [Revive Beta](https://letsrevive.app/) 👉 Analyse Startup Ideas in seconds with AI
+
+16. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+17. [Slogan Generator](https://aiseo.ai/templates/slogan-generator.html) 👉 AISEO Slogan Generator is a free tool for creating catchy slogans. If you are in need of a Slogan for your product or business, you have found the right tool. Use this Free Slogan Generator to make your own catchy and professional slogans.
+
+18. [Smarty Names](https://smartynames.com/) 👉 Finding a creative and unique domain that is still available is easy with SmartyNames.com | Tell us what you do, and our robots will find the domain that is just right for you. Company name generator in one click.
+
+19. [Think like James Altucher](https://notepd.com/write_with_james) 👉 Unleash your inner creativity with our AI-powered idea generator trained on James Altucher's extensive idea lists. Simply add a title and details, and let AI generate unique and innovative ideas for you. Think like James Altucher and bring your ideas to life. Try it now!
+
+20. [Validator AI](https://www.validatorai.com/) 👉 AI validation for any business idea.
+
+21. [Vizologi](https://vizologi.com/) 👉 A generative AI business strategy tool to create new startups from scratch in 1 minute.
+
 ## 24. <a name='eCommerce'></a>🛍️ eCommerce
+
+1. [AI Project Description Generator](https://www.welovenocode.com/ai-project-description-generator) 👉 Need assistance with technical specifications for your project? WeLoveNoCode is here to help! Our AI robot can help you write a clear and concise technical specification for your project and can also recommend the most suitable no-code tools to bring your product to life.
+
+2. [AI-powered Product Photos](https://www.unboundcontent.ai/ai-product-photos) 👉 Upload a single photo and generate endless high definition AI product photos in any background.
+
+3. [Akkio](https://www.akkio.com/) 👉 Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-time decision making. Try Akkio Free.
+
+4. [Blubi](https://blubi.ai/) 👉 Transform the way you showcase your content.
+
+5. [Booth.AI](https://www.booth.ai/) 👉 Fast, inexpensive, high-quality images produced via AI with no physical samples required. Easily generate professional-grade product photos by uploading an image of your own product and creating your desired outcome by writing a simple prompt.
+
+6. [Botowski](https://www.botowski.com/) 👉 AI content generator that creates content for businesses and people who aren't professional writers. It offers a diverse range of automatic content generation tools, from catchy slogans for branding purposes to email templates or blog content.
+
+7. [Ecommerce Prompts](https://www.ecommerceprompts.com/) 👉 "ChatGPT has revolutionized the way individuals and businesses approach marketing activities. However, e-commerce businesses have been unable to maximize their full potential for essential marketing activities such as:
+
+✍🏻 Writing marketing copies for their storefronts (websites, product titles, descriptions, FAQs).
+
+💌 Crafting Email/SMS/WhatsApp marketing copies (subject lines, body content).
+
+📽️ Creating engaging social media posts, ad copies, and video scripts.
+
+🛒 Developing brand-building materials (about us, brand positioning, brand guidelines).
+
+Though some have made progress in these areas, there is still a need for actionable and tailored solutions that are specific to the industry, brand tone & positioning, different events, and offers.
+
+For the past three months, we have been working on a project to generate eCommerce ChatGPT prompts to help e-commerce owners and marketers create scalable copy and campaigns, making them more personalized for their brands’ customers.
+
+You can generate prompts for:
+
+1️⃣ Website content
+
+2️⃣ Product Page content
+
+3️⃣ SEO content
+
+4️⃣ Email, SMS & WhatsApp Campaigns
+
+5️⃣ Meta Titles and Descriptions
+
+6️⃣ Product FAQs
+
+7️⃣ Browser and in-app notifications
+
+8️⃣ Ad-copy and social content
+
+9️⃣ Articles
+
+Hope you find it useful. We’d love to get your feedback on what we can add to this generator. Let’s plug in the key to your eCom growth engine 🚀"
+
+8. [Evolup](https://www.evolup.com/) 👉 Evolup is an AI-based affiliate store creation platform, enabling users to turn their passions into profits with ease. It features cutting-edge AI, Amazon sync, and SEO tools for maximum commission generation. It offers comprehensive support, hosting, tools, and SEO dashboards for successful affiliate site management.
+
+9. [Flair](https://flair.ai/) 👉 The AI design tool for branded content
+
+10. [Free Product Photo Visualizer](https://imajinn.ai/product-visualizer) 👉 Imajinn AI is here to help you transform your boring product photos into eCommerce-ready layups, limited only by your imagination. Visualize and share your products with our amazing tool, for FREE!
+
+11. [LeadScripts](https://leadscripts.co/) 👉 Only LeadScripts has Ask OSCAR™ - get any type of copy written for you instantly - blogs, ads, emails, funnel copy... you name, he writes it!
+
+12. [Mokker](https://mokker.ai/) 👉 AI-Powered Photo Generation for E-Commerce
+
+13. [Plink](https://www.plink.ai/) 👉 AI powered transactions
+
+14. [RegisAI](https://regisai.com/) 👉 Start your 7-day free trial
+
+15. [Reviewgenerator](https://reviewgenerator.app/) 👉 The fastest review generator in the world!
+
+16. [Reviewz](https://www.reviewz.ai/) 👉 Discover all the top things recommended by AI.
+
+17. [Seenapse](https://seenapse.ai/) 👉 Search and navigate through mental associations from diverse people all over the world. Get hundreds of ideas in minutes, inspired by humans and generated with artificial intelligence.
+
+18. [Valideo](https://www.valideo.xyz/) 👉 So if you're looking for expert advice on Amazon products, be sure to check out our platform. With our user-friendly interface, Artificiel Interligence. it's the perfect choice for anyone looking to get the most out of their Amazon shopping experience.
+
+19. [Zevi](https://www.zevi.ai/) 👉 Zevi is an neural search engine for ecommerce brands. It enables website's search and merchandising functionality, improving user experience, and sales performance.
 
 ## 25. <a name='Gaming'></a>🕹 Gaming
 
+1. [AI Dungeon](https://play.aidungeon.io/) 👉 AI Dungeon, an infinitely generated text adventure powered by deep learning
+
+2. [AIDungeon](https://play.aidungeon.io/) 👉 Play and create AI-generated adventures with infinite possibilities.
+
+3. [Assetsai](https://www.assetsai.art/) 👉 AssetsAI: Get unique game assets generated by AI
+
+4. [Coqui](https://coqui.ai/) 👉 Direct emotive, generative AI voices for video games, post-production, dubbing and much more.
+
+5. [EndlessVN](https://endlessvn.io/) 👉 AI storytelling game where all assets — graphics, music, story and characters — are generated by AI as you play.
+
+6. [G3DAI {Jedi}](https://g3d.ai/) 👉 Generative AI for gaming.
+
+7. [GGPredict](https://ggpredict.io/) 👉 We see the world of eSports from an analytical perspective. Analyze. Train. IMPROVE!
+
+8. [HeroPack](https://www.heropack.me/) 👉 Become a Hero with AI generated avatars inspired by your favorite video games.
+
+9. [Leonardo](https://leonardo.ai/) 👉 Generate production quality assets for your creative projects with AI-driven speed and style-consistency.
+
+10. [LitRPG Adventures](https://www.litrpgadventures.com/) 👉 Get instant access to over 2 dozen fantasy RPG generators powered by GPT-3 from OpenAI.
+
+11. [Opus](https://opus.ai/) 👉 Turn text into movies and games.
+
+12. [Playstrict](https://playstrict.com/) 👉 Take your promotion strategy to the next level with Playstrict Gaming Growth platform.
+
+13. [Polymorf](https://polymorf.me/) 👉 Turn yourself into AI Art. Our service creates 100+ of images of you in different styles. You can use them for Linkedin, Twitter, Instagram, TikTok, or Dating Sites/Apps
+
+14. [Ponzu](https://www.ponzu.gg/) 👉 Seasoning 3D assets with AI-generated textures.
+
+15. [Scenario](https://www.scenario.gg/) 👉 Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save time and spark creativity. ⭐️
+
+16. [Text-to-pokemon](https://replicate.com/lambdal/text-to-pokemon) 👉 Generate Pokémon from a text description
+
+17. [Texture Lab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
+
+18. [TextureLab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
+
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
+
+1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
+
+2. [AITwo - interior, exterior and fashion design with AI](https://aitwo.co/) 👉 An AI-powered design tool that can be used to design interiors for rooms such as bedrooms, living rooms, kitchens, bathrooms, and dining rooms. It can also be used to design exteriors for homes and buildings. Users can select from a variety of styles, including tropical, modern, traditional, rustic, mid-century, minimalistic, eclectic, gaming, glamourous, industrial, coastal, bohemian, farmhouse, art deco, mediterranean, asian, french country, english cottage, moroccan, scandinavian, hollywood regency, and more. Users can also select a level of change they would like to see in the interior image, as well as optional decoration and furniture. The tool also offers a Sketch2Real feature, which can convert sketches to realistic images.
+
+3. [Architechtures](https://architechtures.com/en/) 👉 AI-Powered Building Design Web tool for the residential sector to help you improve decision making and reduce design time from months to minutes.
+
+4. [Coolaiid](https://coolaiid.com/) 👉 Interior design ideas and virtual staging using AI
+
+5. [DecorAI](https://decorai.io/) 👉 DecorAI
+
+6. [Decorous: AI Home Makeovers](https://apps.apple.com/us/app/decorous-ai-home-makeovers/id1664988827) 👉 ‎Transform your home with the power of AI. Decorous is the ultimate tool for interior design enthusiasts, giving you the power to create the home of your dreams with just a few taps.
+
+7. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
+
+8. [Getfloorplan](https://getfloorplan.com/) 👉 Download a 2d floor plan to get great 3d renderings with furniture and a virtual tour
+
+9. [Image Computer](https://image.computer/) 👉 Image Computer
+
+10. [Interior AI](https://interiorai.com/) 👉 Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
+
+11. [Interior Computer](https://image.computer/interior-design) 👉 Re-imagine your interior with AI
+
+12. [Makeit.ai](https://www.maket.ai/) 👉 Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.
+
+13. [Mobel](https://mobel.app/) 👉 Create customized interior design variations and transform your room with artificial intelligence.
+
+14. [Oda Studio](https://stager.odastudio.ai/) 👉 Pick your style and color to customize your home in seconds with AI
+
+15. [Pipers](https://www.pipers.ai/) 👉 Pipers
+
+16. [PropertyPen](https://try.magictools.ai/) 👉 Create professional real estate listings in no time with our advanced AI technology.
+
+17. [REimagine Home](https://www.reimaginehome.ai/) 👉 Generative AI to redesign any space in seconds.
 
 ## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
+1. [Ai Pencil](https://apps.apple.com/us/app/ai-pencil/id6444737491) 👉 ‎Create stunning art with the help of state-of-the-art AI Features - Sketch your drawings with powerful tools - Import and export your favorite drawings - Transform your art into any medium or style
+
+2. [AYAYA - Cartoon Photo Editor](https://apps.apple.com/us/app/ayaya-cartoon-photo-editor/id1642465101) 👉 ‎AYAYA is your easy-to-use cartoon photo editor powered by AI for amazing results. Create stunning cartoon profile pic, wallpaper, lock screens, collages, widgets and more. We want to create something wonderful by combining Human creativity and Artificial Intelligence's capabilities, You will love t…
+
+3. [Character GPT](https://alethea.ai/) 👉 Alethea AI is an R&D studio building at the intersection of two of the most transformative technologies of our time - Generative AI and Blockchain.
+
+4. [Charisma](https://charisma.ai/) 👉 Charisma is a plug-ʼnʼ-play platform for creating interactive stories with believable virtual characters. Meet them, converse with them, and change the story.
+
+5. [Color-anything](https://color-anything.com/) 👉 COLOR anything | colouring pages of absolutely anything for kids or grown ups
+
+6. [Dimensions](https://www.dimensions.ink/) 👉 Imagine being able to create beautiful interior designs with ease – that’s what Dimensions offers.
+
+7. [Drawanything](https://www.drawanything.app/editor) 👉 Draw Anything - Stable Diffusion Playground
+
+8. [Fontis.ai](https://fontis.ai/) 👉 Create unique AI Arts printed on high-quality canvas/poster. Easy purchasing and Fast delivery. Start creating today!
+
+9. [Inworld](https://www.inworld.ai/) 👉 Create more realistic and believable worlds with characters powered by artificial intelligence. Inworld provides a platform for adding advanced NPC behavior & unscripted dialogue to games and real-time media.
+
+10. [Neuralcanvas](https://neuralcanvas.io/) 👉 Express your creativity with the support of AI - Create AI Generated Comic!
+
+11. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+
+12. [Silly Times](https://www.elbo.ai/silly) 👉 Have a fun time drawing and seeing what silly thing we make from your drawing. Let your kids have some fun Creative time after school.
+
+13. [SketchAI](https://apps.apple.com/us/app/sketchai-by-picsart/id1660937634) 👉 ‎Introducing the ultimate tool for hobbyists, small business owners and professionals! With our app, you can now easily sketch an image and have it instantly generated into a high-quality stock photo or artwork with the help of AI technology. Our app features a variety of brushes and colors for you t…
+
+14. [Vizcom AI](https://www.vizcom.ai/) 👉 Vizcom is a creative tool that helps designers streamline the process of turning their concepts into physical products.
+
 ## 28. <a name='Finance'></a>💳 Finance
+
+1. [AlphaResearch](https://alpharesearch.io/) 👉 AlphaResearch helps investors extract information from unstructured texts, filings, earnings call transcripts, and much more.
+
+2. [Avanzai](https://avanz.ai/) 👉 Avanzai helps accelerate your financial data analysis by letting you use natural language to output production ready Python code
+
+3. [Chaplin - ChatGPT Trading Assistant & Bot Builder](https://chaplin.app/) 👉 Take all the guess work out of your time and quickly and easily build Indicators, Back test strategies and launch sophisticated Trading Bots without writing a single line of code. Support Stocks, Forex, Crypto, Futures, Options.
+
+4. [Finalle.ai](https://finalle.ai/) 👉 Your GPT Powered Wall Street Analyst
+
+5. [FinseaAI](https://finsea.ai/) 👉 Search the Stock Market, Crypto and everything Finance powered by AI
+
+6. [Gorilla AI](https://gorillaterminal.com/ai-landing) 👉 Use bleeding-edge AI to analyze stocks
+
+7. [Onesta: Your AI Financial Assistant](https://www.onestafinance.com/) 👉 Our AI provides personalized advice and guidance on investments, budgeting, taxes, retirement, stocks, ETFs, and more. Our AI will help you make smarter decisions about your money and create a plan for your financial future.
+
+8. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
+
+9. [Rupt](https://apps.apple.com/us/app/rupt-stock-analysis-automated/id1583073539) 👉 ‎Rupt is an AI that finds you better stocks. Beat the market with algorithms that do all the analysis for you. Make your investment decisions based on cold, hard facts, not fear, bias, or hype. Key features: - The Rupt Score, a simple, unbiased, and easy-to-understand rating for each stock - Price t…
+
+10. [Stocknews AI](https://stocknewsai.com/) 👉 AI picked stock news
+
+11. [Stocknews AI](https://stocknewsai.com/) 👉 Stocknews AI - AI picked stock news
+
+12. [SwaggyStocks](https://swaggystocks.com/dashboard/home/) 👉 AI-based sentiment analysis tool for stock market data. Discover social trends relating to stocks & companies.
+
+13. [Torto.ai](https://torto.ai/welcome/) 👉 torto.ai is an end-to-end solution for stock market investors, guided by an AI personal assistant that helps in the investment workflow.
+
+14. [TradeUI](https://tradeui.com/) 👉 AI Based trading signals and market sentiment
+
+15. [TradeUI](https://tradeui.com/) 👉 Options Flow and Stock Market trading tools - TradeUI
 
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
+1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 ‎AweMyFace — is a skincare app and your only guide on the way to the perfect skin. The acne’s problem worries every 8th adult on Earth. But there is no single right solution that would help everyone. That is why it is so important to understand your personal body, to build your personal cause-and-ef…
+
+2. [Dreamweaverai](https://www.dreamweaverai.com/generate) 👉 Build the tee of your dreams with AI
+
+3. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
+
+4. [FashionAdvisorAI](https://www.fashionadvisorai.com/) 👉 FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free
+
+5. [FashionAI](https://apps.chatbotkit.com/fashionai) 👉 Get personalized style recommendations tailored to your unique fashion preferences, all powered by the latest artificial intelligence technology.
+
+6. [Free Sneaker Generator by Imajinn AI](https://imajinn.ai/sneakers) 👉 Sneakerheads rejoice! Imajinn AI is here to help you design your next pair of kicks in seconds, limited only by your imagination. Design, share, and vote on your favorite AI-generated sneakers with our amazing tool, for FREE!
+
+7. [Glow AI](https://glow-ai.vercel.app/) 👉 Generate your next skincare routine in seconds.
+
+8. [Hair by AI](https://www.hairbyai.com/) 👉 We're on a mission to empower women with hairstyle recommendations that are unique to their preferences. We want to remove the uncertainty of choosing the wrong hairstyle and give beauticians better guidance on how their clients want their hair configured.
+
+9. [Hairgen](https://www.hairgen.ai/) 👉 Preview your FUE/FUT hair transplant using AI | hairgen.ai
+
+10. [HairstyleAI](https://www.hairstyleai.com/) 👉 Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!
+
+11. [TattosAI](https://www.tattoosai.com/) 👉 If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.
+
+12. [Visualhound](https://visualhound.com/) 👉 Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process.
+
+13. [Wardrobe](https://wardrobe-ai.com/) 👉 Personalised fashion advice with the power of AI
+
 ## 30. <a name='DatingRelationships'></a>💌 Dating & Relationships
+
+1. [AI Pickup Lines Generator](https://www.aipickuplines.com/) 👉 Generate the most clever, funny, and smooth pickup lines that are guaranteed to make anyone swoon. Say goodbye to awkward silences and hello to a successful dating life with the AI-powered pickup lines generator!
+
+2. [BOBA](https://www.bobachats.com/boba-ai-companion) 👉 AI-powered, trained with the best relationship advice in history to help you navigate the dating scene with confidence.
+
+3. [Chat-example](https://chat-example.langa.me/) 👉 Use AI to get conversation starters that fit two persons personality
+
+4. [ChatCrafted](https://chatcrafted.com/) 👉 Never get left on read again. Use dating app screenshots + AI to generate interesting conversation responses.
+
+5. [Elektrif](https://www.elektrif.ai/) 👉 The first suite of AI-powered tools to supercharge your dating life ⚡️
+
+6. [Flirtify](https://flirtify.vercel.app/) 👉 AI-generated pickup lines for the modern romantic
+
+7. [HotConvo](https://hotconvo.art/) 👉 Get chat and message suggestion for online dating with AI.
+
+8. [LoveGenius](https://www.lovegenius.io/) 👉 Attract better matches with an AI-written optimized dating profile
+
+9. [Lovelines](https://lovelines.xyz/) 👉 Create custom keepsakes for a loved one using AI that are optimized for social media. AI-generated poems, stories, letters, and song lyrics.
+
+10. [Meet Millie](https://www.meetmillie.app/) 👉 Upscale your dating game with AI
+
+11. [Opener](https://opener.chat/) 👉 The Best Way to Open a Conversation
+
+12. [Ravyn](https://ravyn.app/) 👉 Ravyn is the world's first, ultra-fast AI sales tool for capturing insights to grow your revenue and deepen your relationships.
+
+13. [YourMove](https://www.yourmove.ai/) 👉 Dating AI app
