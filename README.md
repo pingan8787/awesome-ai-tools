@@ -44,7 +44,7 @@
 
 3. [Ai Art Generator](https://aiart.limited/) 👉 Ai Art Limited, creates images, videos, music, and article for you using artificial intelligence. With our app, you can become an artist using artificial intelligence.
 
-4. [Ai Art Generator, AI Art Maker](https://apps.apple.com/app/apple-store/id1644315225) 👉 ‎Unlock the full potential of words and create stunning, one-of-a-kind works of art with our AI-generated art app. Simply enter any text or phrase, and our advanced algorithm will transform it into a unique, visually striking piece of art. With a wide variety of styles to choose from, the possibiliti…
+4. [Ai Art Generator, AI Art Maker](https://apps.apple.com/app/apple-store/id1644315225) 👉 Unlock the full potential of words and create stunning, one-of-a-kind works of art with our AI-generated art app.
 
 5. [AI Art Latitude](https://ai-art.latitude.io/) 👉 AI Art
 
@@ -52,13 +52,13 @@
 
 7. [AI Canvas](https://www.kive.ai/canvas) 👉 Create with AI in multiplayer.
 
-8. [AI Dreamer](https://apps.apple.com/us/app/ai-dreamer/id1608856807) 👉 ‎THE FASTEST AI ART GENERATOR AI Dreamer lets you create mesmerizing art with words! 1. Type in what you would like to generate, optionally add style and artist inspiration 2. Wait less than 3 seconds while AI Dreamer is drawing your visualization 3. Enjoy your creation and share it with your frien…
+8. [AI Dreamer](https://apps.apple.com/us/app/ai-dreamer/id1608856807) 👉 THE FASTEST AI ART GENERATOR AI Dreamer lets you create mesmerizing art with words!
 
-9. [AI Genie](https://apps.apple.com/us/app/ai-genie-your-digital-artist/id6443917636) 👉 ‎Revolutionize your digital art creation with AI Genie, the ultimate AI artist at your fingertips. Transform your ideas and imagination into stunning digital artwork using advanced AI technology. Simply enter your words and let AI Genie generate fascinating and mind-blowing art in seconds - a task…
+9. [AI Genie](https://apps.apple.com/us/app/ai-genie-your-digital-artist/id6443917636) 👉 Revolutionize your digital art creation with AI Genie, the ultimate AI artist at your fingertips.
 
 10. [AI Image Enlarger](https://imglarger.com/) 👉 AI Image Enlarger & Enhancer Tools
 
-11. [AI Images - Text to Art](https://apps.apple.com/us/app/ai-images-text-to-art/id1659289205) 👉 ‎Introducing AI Image Generator, the free app that allows you to create stunning images and art with just a single text prompt. With our app, you can easily store, view, and zoom in on your generated images. Plus, you can mark your favorite images and even delete ones that you no longer want. And wit…
+11. [AI Images - Text to Art](https://apps.apple.com/us/app/ai-images-text-to-art/id1659289205) 👉 Introducing AI Image Generator, the free app that allows you to create stunning images and art with just a single text prompt.
 
 12. [AI Personalized Children's Book](https://imajinn.ai/storybook/) 👉 Create a beautiful custom children's book featuring AI generated images of your child.
 
@@ -72,11 +72,11 @@
 
 17. [AI Puppy](https://imagined-with.ai/ai-puppy) 👉 Turn your dog into a unique piece of art.
 
-18. [AI Puppy](https://apps.apple.com/be/app/ai-puppy/id1659610716) 👉 ‎With AI Puppy, you can create 120 unique new photos of your dog! How does it work? Step 1: Upload 10-20 images of your dog Step 2: Choose your package. We've worked hard to make AI art as affordable as possible for our customers Step 3: Our AI will give you 120 new images, in a variety of styles…
+18. [AI Puppy](https://apps.apple.com/be/app/ai-puppy/id1659610716) 👉 With AI Puppy, you can create 120 unique new photos of your dog!
 
 19. [AI Wall Decor](https://aiwalldecor.com/) 👉 Hydrogen
 
-20. [AI Wallpapers Generator](https://apps.apple.com/app/ai-wallpapers-generator/id1662227892) 👉 ‎Welcome to the AI Wallpaper Generator!  With this app, you can create your own unique wallpapers using artificial intelligence and a text prompt of your choice.  Simply enter a word or phrase that inspires you, and let the app generate a one-of-a-kind design based on your input.  You can also pub…
+20. [AI Wallpapers Generator](https://apps.apple.com/app/ai-wallpapers-generator/id1662227892) 👉 Welcome to the AI Wallpaper Generator!  With this app, you can create your own unique wallpapers using artificial intelligence and a text prompt of your choice.
 
 21. [AI2image](https://www.ai2image.com/) 👉 AI2image creates your custom image in just a few seconds
 
@@ -86,7 +86,7 @@
 
 24. [Aiblocks](https://aiblocks.app/) 👉 AiBlocks
 
-25. [Aiby](https://apps.apple.com/us/app/aiby-ai-art-avatar-generator/id1642969698) 👉 ‎Want to create mesmerizing artwork? Or looking for a way to visualize your wildest ideas? Aiby has got you covered! This art generator creates unique images based on text prompts. Forget about the struggles of hiking through the web in search of the image or the tools you would need to make your o…
+25. [Aiby](https://apps.apple.com/us/app/aiby-ai-art-avatar-generator/id1642969698) 👉 Want to create mesmerizing artwork? Or looking for a way to visualize your wildest ideas? Aiby has got you covered! This art generator creates unique images based on text prompts.
 
 26. [AIGraphics](https://aigraphics.io/) 👉 Generate Graphics In Seconds Using AI
 
@@ -142,7 +142,7 @@
 
 52. [Baseten](https://app.baseten.co/apps/1Bbgjg0/operator_views/6PJApo0) 👉 Baseten is a serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
 
-53. [Bgeraser](https://bgeraser.com/) 👉 Looking for an easy way to remove unwanted objects or backgrounds from your pictures? Look no further than Bgeraser! This amazing tool lets you magically erase any undesired element in your photos, be it a house, a tree, a dog, or even a rubbish bin. And the best part? It's completely free! With Bgeraser, you can say goodbye to unattractive or distracting items that take away from the main focus of your image. Say hello to stunning photos that capture the essence of your subject, free from any distracting imperfections. You have three fantastic options to choose from when removing unwanted elements from your photos. Use the Background Eraser tool to erase the image background, or try out the Magic Eraser tool to eliminate anything that spoils the image. Start using Bgeraser today and take your photos to the next level!
+53. [Bgeraser](https://bgeraser.com/) 👉 Looking for an easy way to remove unwanted objects or backgrounds from your pictures? Look no further than Bgeraser!
 
 54. [Blackink](https://blackink.ai/) 👉 Create your own unique flash tattoo in seconds.
 
@@ -154,7 +154,7 @@
 
 58. [Bria](https://bria.ai/) 👉 Integrate Bria’s AI-powered API to automate and scale the creation of video and images.
 
-59. [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) 👉 ‎The apply implements the vision of AI4MI: Artificial Intelligence for Mobile Individuals. It has multiple AI tools to satisfy your curiosity about what AI can do for you as a mobile user. The app can generate images and texts based on prompts. The app can analyze existing images with complex AI alg…
+59. [Bright Eye](https://apps.apple.com/us/app/bright-eye/id1593932475) 👉 The apply implements the vision of AI4MI: Artificial Intelligence for Mobile Individuals.
 
 60. [CF Spark](https://www.creativefabrica.com/spark/) 👉 The CF Spark family offers a suite of AI tools that will allow you to ignite your creative spark in just a few clicks.
 
@@ -170,7 +170,7 @@
 
 66. [Craiyon](https://www.craiyon.com/) 👉 Craiyon is an AI model that can draw images from any text prompt!
 
-67. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055) 👉 ‎Explore the world of AI-generated art - with no ads ever. Type a prompt, pick a style, and generate images. Each style adds expert keywords to help you explore incredible AI-generated paintings, photographs, and drawings. The best part? You get dozens of results for free. Here's how it works: 1. D…
+67. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055) 👉 the world of AI-generated art - with no ads ever.
 
 68. [DALL-E 2](https://openai.com/dall-e-2/) 👉 Create realistic images and art from a description in natural language
 
@@ -200,17 +200,17 @@
 
 81. [Diffusion Land](https://www.diffusion.land/) 👉 Generated images with 1-click, using any model of your choice.
 
-82. [Diffusion Wallpaper](https://apps.apple.com/us/app/diffusion-wallpaper/id1663805511) 👉 ‎Generate desktop wallpapers with the power of AI Diffusion models. All generation is local so you can create wallpapers without limit!
+82. [Diffusion Wallpaper](https://apps.apple.com/us/app/diffusion-wallpaper/id1663805511) 👉 Generate desktop wallpapers with the power of AI Diffusion models. All generation is local so you can create wallpapers without limit!
 
 83. [DiscoDiffusion](http://discodiffusion.com/) 👉 Disco Diffusion v5.7 [Now with MiDaS (3D mode) not being broken] - Colaboratory
 
 84. [Discord Diffusion](https://autocode.com/stabilityai/templates/discord-diffusion/) 👉 Install Discord Diffusion: Bot for image generation via Stable Diffusion on Autocode
 
-85. [DRAI](https://apps.apple.com/us/app/drai-ai-image-generator/id1643729769) 👉 ‎Create your own masterpieces just through detailed description! Within seconds AI generates an artwork based on your prompt. Enjoy! 1. Tell AI your idea, describe what you would like to create. Or use our Prompt Generator and it will create a prompt for you! 2. Choose a drawing style or type it,…
+85. [DRAI](https://apps.apple.com/us/app/drai-ai-image-generator/id1643729769) 👉 Create your own masterpieces just through detailed description! Within seconds AI generates an artwork based on your prompt. Enjoy!
 
 86. [Draw Things](https://draw.nnc.ai/) 👉 Draw Things: AI-assisted Image Generation
 
-87. [Draw Things: AI Generation](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 👉 ‎Draw Things is a AI-assisted image generation tool to help you create images you have in mind in minutes rather than days. Master the cast spells and your Mac will draw what you want with a few simple words. Draw Things runs locally on your phone to protect your privacy.
+87. [Draw Things: AI Generation](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820) 👉 Draw Things is a AI-assisted image generation tool to help you create images you have in mind in minutes rather than days. Master the cast spells and your Mac will draw what you want with a few simple words.
 
 88. [Dream](https://dream.ai/) 👉 Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.
 
@@ -292,7 +292,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 126. [IRMO](https://www.irmoai.com/) 👉 Made for Creation
 
-127. [iSee](https://apps.apple.com/us/app/isee-ai-art-image-editor/id1643731633) 👉 ‎Create unique AI Avatars using your own words and images with no limits or additional costs. iSee allows users to create unique AI avatars based on their own selfies. By uploading 10-20 images of yourself, the app's AI will learn your features and create avatars in various styles such as cyborg…
+127. [iSee](https://apps.apple.com/us/app/isee-ai-art-image-editor/id1643731633) 👉 Create unique AI Avatars using your own words and images with no limits or additional costs. iSee allows users to create unique AI avatars based on their own selfies.
 
 128. [Kaedim](https://www.kaedim3d.com/) 👉 Kaedim is your own personal 3D artist. Use any basic image to create a textured, production-ready 3D model.
 
@@ -336,7 +336,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 148. [Midjourney](https://www.midjourney.com/) 👉 An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
-149. [MobAI](https://apps.apple.com/us/app/mobai-ai-art-generator/id6444911082) 👉 ‎Create unique, one-of-a-kind artwork. By utilizing the latest in artificial intelligence, MobAI is able to generate images from simple text. With many styles to choose from, you can customize the look of your artwork to your own liking. You can even select the resolution of your image to ensure a pe…
+149. [MobAI](https://apps.apple.com/us/app/mobai-ai-art-generator/id6444911082) 👉 Create unique, one-of-a-kind artwork. By utilizing the latest in artificial intelligence, MobAI is able to generate images from simple text. With many styles to choose from, you can customize the look of your artwork to your own liking.
 
 150. [Movavi Picverse](https://www.movavi.com/photo-editor) 👉 Professional-grade photo editor for PC made easy
 
@@ -380,13 +380,13 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 170. [Photosonic AI](https://photosonic.writesonic.com/) 👉 Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic's AI image generator can help unleash your inner artist and share your creations with the world.
 
-171. [Photostudio AI](https://apps.apple.com/co/app/photostudio-ai/id6444591080) 👉 ‎Are you ready to unleash your creativity? With our amazing new app, you can bring your wildest ideas to life! Create amazing photos of yourself, your pet, or anyone you want in any style you can imagine. With our cutting-edge AI technology, you can become a race driver, a zombie, a funko pop, or any…
+171. [Photostudio AI](https://apps.apple.com/co/app/photostudio-ai/id6444591080) 👉 Are you ready to unleash your creativity? With our amazing new app, you can bring your wildest ideas to life!
 
 172. [Phraser](https://phraser.tech/compare) 👉 Phraser is an app that helps you create images using generative AI (Midjourney, Stable Diffusion, and DALLE 2), collaborate, and get inspired
 
 173. [Phygital](https://phygital.plus/) 👉 Node-based AI tool for creators to work with neural networks without code. (Alpha)
 
-174. [Piasso - AI Image Generator](https://apps.apple.com/de/app/piasso-ai/id6444704118) 👉 ‎Unleash your creativity with Piasso - the ultimate AI-powered app. Create stunning images or improve your writing with our advanced AI assistant, PiassoGPT. Our app features advanced AI algorithms that can generate a wide range of images, from realistic photographs to abstract art and everything i…
+174. [Piasso - AI Image Generator](https://apps.apple.com/de/app/piasso-ai/id6444704118) 👉 Unleash your creativity with Piasso - the ultimate AI-powered app. Create stunning images or improve your writing with our advanced AI assistant, PiassoGPT.
 
 175. [Pickapic](https://pickapic.io/) 👉 Pick a Pic
 
@@ -436,7 +436,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 198. [Renderflux](https://www.renderflux.com/) 👉 The community-first platform for self-expression and creativity through AI artwork.
 
-199. [Retomagic AI](https://apps.apple.com/ge/app/retomagic-ai-arts-upscale/id1574190211) 👉 ‎Create spectacular artwork from words using the latest AI technology. Just enter a text prompt and let Retomagic generate an image that's entirely new—and astonishingly beautiful. All at the click of a button. Produce stunning, original works of art with AI and your imagination. With the power of R…
+199. [Retomagic AI](https://apps.apple.com/ge/app/retomagic-ai-arts-upscale/id1574190211) 👉 Create spectacular artwork from words using the latest AI technology.
 
 200. [Retouch Pro AI](https://retouchpro.ai/) 👉 AI powered automated product photo editing service
 
@@ -556,7 +556,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 258. [VanceAI](https://vanceai.com/) 👉 Provides AI enhancing, upscaling, sharpening, denoising, background removing, and more
 
-259. [Vieutopia](https://apps.apple.com/gb/app/vieutopia/id1660264569) 👉 ‎Free your creativity and bring your ideas to life with Vieutopia! Simply enter a text prompt, choose an art style you love, and get amazed by the power of AI – all with no subscription costs! How Does Vieutopia Work? In just seconds you can transform your words and ideas into art! Based on your tex…
+259. [Vieutopia](https://apps.apple.com/gb/app/vieutopia/id1660264569) 👉 Free your creativity and bring your ideas to life with Vieutopia! Simply enter a text prompt, choose an art style you love, and get amazed by the power of AI – all with no subscription costs!
 
 260. [Visio Studio](https://visio.studio/) 👉 Advanced background removal tool, powered by computer vision technology.
 
@@ -574,7 +574,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 267. [WithPoly](https://withpoly.com/) 👉 Poly lets you generate design assets for free in seconds using advanced A.I. Create seamless 3D textures, graphics, and more!
 
-268. [Wonder - AI Art Generator](https://apps.apple.com/us/app/wonder-ai-art-generator/id1621278575) 👉 ‎Turn words into mesmerizing digital artworks! All you need to do is enter a prompt, pick an art style - and watch Wonder bring your idea to life in seconds! It’s super simple: Simply describe what you want Wonder to paint — such as “Life Under Sea” or “Shattered Rainbow” — pick a style (Cubist, Dal…
+268. [Wonder - AI Art Generator](https://apps.apple.com/us/app/wonder-ai-art-generator/id1621278575) 👉 Turn words into mesmerizing digital artworks! All you need to do is enter a prompt, pick an art style - and watch Wonder bring your idea to life in seconds!
 
 269. [XARIIA](https://xariia.net/) 👉 AI-Generated Bespoke Prints For Physical & Digital Fashion
 
@@ -596,7 +596,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 5. [AI Social Media Post Writerby Socialblu](https://socialbu.com/tools/generate-posts) 👉 Let AI write content for your social media posts. Generate ready-to-post content for your social media.
 
-6. [AI Writer](https://apps.apple.com/us/app/ai-writer/id6444013958) 👉 ‎AI Writer is a powerful writing tool that uses artificial intelligence GPT to improve the quality of your writing. With AI Writer, you can easily create well-written, error-free documents in a fraction of the time it would take to do it manually. This is better and affordable compared to Jasper AI,…
+6. [AI Writer](https://apps.apple.com/us/app/ai-writer/id6444013958) 👉 AI Writer is a powerful writing tool that uses artificial intelligence GPT to improve the quality of your writing. With AI Writer, you can easily create well-written, error-free documents in a fraction of the time it would take to do it manually.
 
 7. [AI-responder for HostAway](https://aiduh.com/) 👉 Chrome extension that cuts your writing time by 98% with AI-powered responses.
 
@@ -748,7 +748,7 @@ A must-have toolkit for digital marketers, online shop owners, creators, and gra
 
 80. [GenieAI](https://genieai-app.vercel.app/) 👉 Generate optimized metadata, including titles, descriptions, and tags/keywords, with MetaGenieAI. Utilizing Artificial Intelligence (AI), our tool streamlines your content creation by generating SEO-friendly metadata and ideas for article and video thumbnails.
 
-81. [GhostpenAI](https://ghostpen.ai/) 👉 GhotpenAI is an advanced artificial intelligence-powered content writing web application that helps bloggers, copywriters, and anyone in need of inspiration to generate high-quality content in minutes. With GhotpenAI, you can brainstorm ideas, write articles, rewrite articles with your instructions, simplify complex content, create engaging tweets, craft professional LinkedIn posts, describe Instagram moments, inspire with YouTube descriptions, share Facebook posts, find the most engaging hashtags, apply 21 different tones and personalize the level of imagination and creativity. Additionally, the app comes with access to the history and Grammarly spell check feature for better quality assurance. GhotpenAI is designed to save you time and increase your content's impact. With GhotpenAI you can focus on your business while the app takes care of your content generation needs.
+81. [GhostpenAI](https://ghostpen.ai/) 👉 GhotpenAI is an advanced artificial intelligence-powered content writing web application that helps bloggers, copywriters, and anyone in need of inspiration to generate high-quality content in minutes.
 
 82. [GPT3 Text Generator](https://play.google.com/store/apps/details) 👉 GPT3 is a new AI that allows you to have an AI helper at any time for anything.
 
@@ -792,7 +792,7 @@ A must-have toolkit for digital marketers, online shop owners, creators, and gra
 
 102.  [Jasper.ai](https://www.jasper.ai/) 👉 Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
 
-103.  [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 ‎JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish. If you're not happy with any of the captions, click the retry button to generate four more. You can also ad…
+103.  [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish.
 
 104.  [JibeWith.com](https://www.jibewith.com/) 👉 Writing online media content made simple with A.I. 🤩
 
@@ -962,7 +962,7 @@ Simply hit Cmd+M or Ctrl+M and start chatting with her. Or let Monica help you c
 
 184. [SchoolAI](https://www.schoolai.co/) 👉 Save hours writing emails, reports, plans, lessons, ideas, advice, brainstorm, newsletters and more using powerful AI.
 
-185. [Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) 👉 ‎Automatic text generator powered by OpenAI's GPT-3 Language Model. With Scribble AI, you can easily create a wide range of content in a matter of seconds.
+185. [Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) 👉 Automatic text generator powered by OpenAI's GPT-3 Language Model. With Scribble AI, you can easily create a wide range of content in a matter of seconds.
 
 186. [Scribbly](https://www.scribbly.ai/) 👉 Scribbly is a free AI-powered email assistant for busy professionals. Write emails 10x faster with AI-powered content suggestions on Gmail that are context-specific, professionally written, and sound just like you. Try the free Scribbly Chrome Extension today!
 
@@ -1238,22 +1238,6 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 73. [NocodeBooth](https://nocodebooth.com/) 👉 NocodeBooth is a Nocode web app template which allows you allows you to launch your own AI Image Generation application with payments and fully responsive design.
 
-Some of its built-in features:
-
-- Landing Page
-
-- User Dashboard
-
-- Referral System
-
-- Payment Integration
-
-- Responsive Design
-
-- Admin Dashboard
-
-- Email Notifications
-
 74. [Pickaxe](https://beta.pickaxeproject.com/) 👉 Pickaxe is a no-code platform for creating, deploying, and managing AI tools with simple ease. Prompts written in Pickaxe can be shared as web apps, embedded into websites, and integrated in spreadsheets with no-code.
 
 75. [Prisms AI](https://prisms.ai/) 👉 The no-code platform for building AI‑powered apps. Make your own AI magic.
@@ -1310,7 +1294,7 @@ Some of its built-in features:
 
 101.  [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
 
-102.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots. Our platform offers configurable API, giving you the flexibility to tailor the AI widgets to your specific needs. You can easily integrate these widgets with your own API keys or use shared keys for added convenience. Additionally, our direct payment system via Stripe allows you to monetize your AI widgets and earn money from sharing them with your audience.
+102.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
 
 103.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
@@ -1340,20 +1324,6 @@ Some of its built-in features:
 
 12. [CodeSnippets.ai](https://codesnippets.ai/) 👉 Turn your questions into code!
 
-Easily store and fetch your snippets.
-
-Collaborate with your team.
-
-AI Powered WebIDE & VSCode extension
-
-Create documentation, Refactor, Debug and Generate code with the click of a button.
-
-We use a fine-tuned AI model trained on GPT3, which provide faster and more accurate responses to your questions, compared to Codex apps.
-
-Save your code snippets into your library for your whole team to use.
-
-Search snippets by language, name or folder & create your own folder structure to suit your needs.
-
 13. [Cody](https://meetcody.ai/) 👉 The magic of ChatGPT meets the expertise of a custom-made AI assistant trained on your specific business
 
 14. [Cody](https://meedcody.ai/) 👉 The magic of ChatGPT but trained on your business.
@@ -1375,10 +1345,6 @@ Search snippets by language, name or folder & create your own folder structure t
 22. [deck.rocks](https://www.deck.rocks/) 👉 deck.rocks: Generate pitch decks using GPT-3
 
 23. [Decktopus AI](https://www.decktopus.com/) 👉 Decktopus is an online content creation tool that offers auto-adjusted layouts and templates, allowing you to create any type of content in minutes by simply filling in the blanks.
-
-We are currently working on a new version of Decktopus known as Decktopus AI. Decktopus AI will enhance your experience by offering a new "Create with AI" button on your dashboard.
-
-You can fill in a prompt, such as "Give a progress report about XYZ," and select a theme, such as "Dark" or "Minimal." In a few minutes, Decktopus AI will generate a fully designed deck with the content you provided, including images, bullet points, forms, and more. It will also be customizable with just a few clicks.
 
 24. [Digital First AI](https://www.digitalfirst.ai/) 👉 Create & execute marketing plans in seconds with AI. Find the best growth-hacking tactics for your business.
 
@@ -1440,8 +1406,6 @@ You can fill in a prompt, such as "Give a progress report about XYZ," and select
 
 53. [Monica](https://monica.im/) 👉 Monica is a chrome extension powered by ChatGPT APl, designed to be your personal Al assistant for effortless chatting and copywriting.
 
-Simply hit Cmd+M or Ctrl+M and start chatting with her. Or let Monica help you compose and insert text intoany web page. Choose from over 80 templates to quickly generate marketing copy. Select a text in web pageand let Monica explain, translate, rephrase for you.
-
 54. [Monitaur](https://monitaur.ai/) 👉 Audit, track, and record real-time outcomes of your AI and algorithms for optimal performance and compliance. Our platform is designed to integrate with every team that touches your AI.
 
 55. [Moveworks](https://www.moveworks.com/) 👉 Moveworks is the first employee experience platform that uses AI to solve issues and prevent problems at work.
@@ -1454,9 +1418,7 @@ Simply hit Cmd+M or Ctrl+M and start chatting with her. Or let Monica help you c
 
 59. [Noty.ai](https://noty.ai/) 👉 Meeting transcription software for Google Meet and Zoom meetings
 
-60. [Olvy Feedback Widgets](https://olvy.co/feedback-widget) 👉 A Feedback Widget that goes beyond the classic text input
-
-Olvy leverages AI and GPT-3 to give you actionable insights
+60. [Olvy Feedback Widgets](https://olvy.co/feedback-widget) 👉 A Feedback Widget that goes beyond the classic text input Olvy leverages AI and GPT-3 to give you actionable insights
 
 61. [Omneky](https://www.omneky.com/) 👉 Omnichannel Creative Orchestration
 
@@ -1724,18 +1686,6 @@ Join 2700+ creators to reach billions of people globally
 
 88. [WowTo](https://wowto.ai/) 👉 Build a professional video help center for your company, product, or service with just a few clicks.
 
-👼 Anyone from your team with no technical or video editing knowledge can create how-to videos and video tutorials like help videos, instructional videos, customer service videos, and step-by-step videos within minutes.
-
-🚀 Launch a no-hassle and no-code video knowledge base for your website with your customized brand colors. Choose from multiple themes and layouts.
-
-⚡️ WowTo's chrome extension is the fastest way to create workflow videos.
-
-▶️ Step up your customer success by bringing self-serve help for your customers within the app using the WowTo video widget.
-
-🔗 Video sharing is made easy with a video knowledge base link, video URL, or by embedding the link. Or, you can download your WowTo videos and share them.
-
-👩‍💻 Make the communication inside your existing apps like Intercom, Slack, Zendesk, Jira, and Confluence more engaging by Integrating WowTo into these apps.
-
 89. [xpression camera](https://xpressioncamera.com/) 👉 The only real-time generative AI app for video chatting and live streaming
 
 90. [xpression camera 2.0](https://xpressioncamera.com/) 👉 Become anyone on Zoom, Twitch, or any streaming video
@@ -1842,22 +1792,6 @@ Join 2700+ creators to reach billions of people globally
 
 48. [NocodeBooth](https://nocodebooth.com/) 👉 NocodeBooth is a Nocode web app template which allows you allows you to launch your own AI Image Generation application with payments and fully responsive design.
 
-Some of its built-in features:
-
-- Landing Page
-
-- User Dashboard
-
-- Referral System
-
-- Payment Integration
-
-- Responsive Design
-
-- Admin Dashboard
-
-- Email Notifications
-
 49. [Openart](https://openart.ai/) 👉 Search 10M+ of AI art and prompts generated by DALL·E 2, Midjourney, Stable Diffusion
 
 50. [Photosonic](https://photosonic.writesonic.com/) 👉 The AI that paints your dreams with pixels
@@ -1916,7 +1850,7 @@ Some of its built-in features:
 
 77. [Wombo](https://www.wombo.art/) 👉 Create beautiful artwork using the power of AI.
 
-78. [‎Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055/) 👉 Create stunning AI-generated art - with no ads ever.
+78. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055/) 👉 Create stunning AI-generated art - with no ads ever.
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
@@ -1930,7 +1864,7 @@ Some of its built-in features:
 
 5. [AILab Tools](https://www.ailabtools.com/) 👉 AILabtools artificial intelligence platform, provides powerful online image editing tools to help you easily process photos, providing black and white image colouring, sharpness enhancement, contrast enhancement, image lossless enlargement, portrait animation, photo age change, photo gender change, image style change and many other practical and powerful functions, and provides the corresponding API interface, use AILabtools online image processing, easy and efficient online P-map, you can also use the API to develop your own image processing tools.
 
-6. [Alto AI](https://apps.apple.com/us/app/alto-ai-photo-enhancer/id1634488334) 👉 ‎Alto AI is the photo enhancement application to clear blurry pictures and enhance high resolution by using AI technology Turn your old, blurry photos into amazing, clear HD ones in just a SECOND! With Alto AI, you can give your low-resolution photos and they will look clear with high-resolution.…
+6. [Alto AI](https://apps.apple.com/us/app/alto-ai-photo-enhancer/id1634488334) 👉 Alto AI is the photo enhancement application to clear blurry pictures and enhance high resolution by using AI technology Turn your old, blurry photos into amazing, clear HD ones in just a SECOND!
 
 7. [Artbreeder](https://www.artbreeder.com/) 👉 Artbreeder
 
@@ -1960,7 +1894,7 @@ Some of its built-in features:
 
 20. [Ebsynth](https://ebsynth.com/) 👉 You paint one frame and EbSynth propagates it to the rest of the footage.
 
-21. [enhanceAI](https://apps.apple.com/us/app/id1524570112) 👉 ‎enhanceAI will vastly improve less-than-ideal images and add incredible detail with our optional Super Resolution. Automatically remove blur and noise, improve images and add up to 8x detail with enhanceAI. Don't worry about the details. Just give enhanceAI a less-than-perfect shot, and enhanceAI w…
+21. [enhanceAI](https://apps.apple.com/us/app/id1524570112) 👉 enhanceAI will vastly improve less-than-ideal images and add incredible detail with our optional Super Resolution. Automatically remove blur and noise, improve images and add up to 8x detail with enhanceAI. Don't worry about the details.
 
 22. [Erase.bg](https://www.erase.bg/) 👉 Make the background transparent for images of humans, animals, or objects. Download images in high resolution for free for e-commerce and personal use. No credit card needed.
 
@@ -1976,16 +1910,6 @@ Some of its built-in features:
 
 28. [imglarger](https://imglarger.com/) 👉 Imglarger is a web app that increases image resolution and enhances visual effects using AI technology. It offers a lot of powerful tools to enhance pictures without losing quality. With imglarger, you can sharpen a blurry image, retouch a face portrait, reduce noises, remove unwanted elements, and resize images.
 
-To enhance and optimize image quality using this AI, follow these steps:
-
-Step 1: Choose a tool you need to apply to your image. You can select the tool you need from the navigation bar on the website's home page.
-
-Step 2: Upload the image you want to process. You can click the "Select Image" button to upload the image or drag the photos to the platform directly.
-
-Step 3: Click "Start" to enhance the image with your selected tool. The time may last 3-10 seconds before you can download the result.
-
-Image Enlarger is useful for photographers, graphic designers, and anyone who wants to improve image quality without losing detail or clarity. Try this AI image enhancer and get stunning photos right now.
-
 29. [Imgupscaler](https://imgupscaler.com/) 👉 Free image upscaler to upscale image by 400% and upto 16000\*16000. Upscale and enlarge images without losing quality. Support JPG/PNG/JPEG
 
 30. [jpghd](https://jpghd.com/) 👉 Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo)
@@ -1996,7 +1920,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 33. [Krisp](https://krisp.ai/) 👉 Krisp cancels background noise and reduces echo during your calls. Get started with Krisp today and enjoy effective online meetings.
 
-34. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 ‎Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background. PHOTO EDITOR • Use photo editor to apply different effects, filters and for best ba…
+34. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background.
 
 35. [Letsenhance](https://letsenhance.io/) 👉 AI software to enhance and upscale pictures. Increase resolution and quality. Fix blurry, pixelated and bad images. Make every photo sharp and clear.
 
@@ -2030,7 +1954,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 50. [Reface](https://hey.reface.ai/) 👉 Create realistic face swap videos, GIFs and memes with just one selfie
 
-51. [ReImage AI](https://apps.apple.com/app/apple-store/id1641365018) 👉 ‎ReImage AI edits and generates images using state of the art artificial intelligence (AI). Cloud based AI servers provide access to the latest AI models, but from the ease of a phone. Edit your own photos using natural language. Create photos and artwork from natural language. See pictures of yourse…
+51. [ReImage AI](https://apps.apple.com/app/apple-store/id1641365018) 👉 ReImage AI edits and generates images using state of the art artificial intelligence (AI). Cloud based AI servers provide access to the latest AI models, but from the ease of a phone. Edit your own photos using natural language.
 
 52. [Removal.ai](https://removal.ai/) 👉 Remove background online from image using background remover. Create transparent background | Download high-resolution instantly & free.
 
@@ -2124,7 +2048,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 27. [Lovo](https://www.lovo.ai/) 👉 Transform your content with high-quality, AI generated voiceovers. Our AI text-to-speech solution offers natural, professional voices in 100 languages. Boost your brand with engaging audio today!
 
-28. [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) 👉 Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text.FeaturesEasily record and transcribe audio filesJust drag and drop audio files to get a transcriptionAll transcription is done on your device, no data leaves your machine.srt & .vtt subtitles export, csv exportGet accurate text transcriptions in seconds (up to ~15x realtime)Search the entire transcript and highlight wordsAudio playback and syncing to transcriptsSupports 100 different languagesCopy the entire transcript or individual sectionsReader ModeEdit and delete segments from the transcriptSelect transcription language (or use auto detect)Supported formats: mp3, wav, m4a and mp4 videos.Supports Tiny and Base modelsMacWhisper ProSupports Tiny (English Only), Tiny, Base, Medium and Large modelsTranslate audio file into another language (use the Medium or Large models)One time payment, no subscription. Pay once and use forever.Which version do you need?You can download MacWhisper or MacWhisper Pro. MacWhisper is free and lets you transcribe audio with the Tiny and Base models. They're fast and very accurate, but for the best results you should consider MacWhisper Pro. MacWhisper Pro comes with the Tiny (English), Medium and Large models, for industry leading transcription quality. Depending on your usecase you might want to use the Large version. You can always upgrade to the Pro version later.Currently in Development:Combine Segments into sentencesLive transcribe Macbook audio (meetings etc)Automatically remove ums, uhhs and other similar filler wordsAuto UpdaterAdding your own models (MacWhisper Pro only)Save files to come back to them laterImproved reader mode and export optionsTranscribe podcasts by combining single track audio for each host (MacWhisper Pro only)And plenty more.. https://twitter.com/jordibruin/status/1623355529572634632You can download MacWhisper for free or you can support my work by getting MacWhisper Pro ???? Please let me know if you run into anything.100 Supported LanguagesMacWhisper can transcribe audio in the following languages:English, Chinese, German, Spanish, Russian, Korean, French, Japanese, Portuguese, Turkish, Polish, Catalan, Dutch, Arabic, Swedish, Italian, Indonesian, Hindi, Finnish, Vietnamese, Hebrew, Ukrainian, Greek, Malay, Czech, Romanian, Danish, Hungarian, Tamil, Norwegian, Thai, Urdu, Croatian, Bulgarian, Lithuanian, Latin, Maori, Malayalam, Welsh, Slovak, Telugu, Persian, Latvian, Bengali, Serbian, Azerbaijani, Slovenian, Kannada, Estonian, Macedonian, Breton, Basque, Icelandic, Armenian, Nepali, Mongolian, Bosnian, Kazakh, Albanian, Swahili, Galician, Marathi, Punjabi, Sinhala, Khmer, Shona, Yoruba, Somali, Afrikaans, Occitan, Georgian, Belarusian, Tajik, Sindhi, Gujarati, Amharic, Yiddish, Lao, Uzbek, Faroese, Haitian Creole, Pashto, Turkmen, Nynorsk, Maltese, Sanskrit, Luxembourgish, Myanmar, Tibetan, Tagalog, Malagasy, Assamese, Tatar, Hawaiian, Lingala, Hausa, Bashkir, Javanese, Sundanese.System RequirementsMacWhisper requires a lot of computer memory to work well. To use the Medium and Large models your Mac should have more than 8GB of RAM. Performance on older Intel based Macs can also be bad but I have not been able to test this properly.????‍???? Check out my other macOS utilities:MacGPT - Use ChatGPT on your Mac and from your menubarTest Assistant - Generate useful text and manage your prompts with GPT and your own OpenAPI keyVivid - Double the brightness of your MacBook Pro by always using HDR modeForehead - Hide the Notch and round your MacBook cornersCooldown - Quickly toggle Low Power Mode from your menubarSpeedy - Fast Speedtest in your menubarPippo - Improve the Picture-in-Picture video player with seek controlsWhisper was made by building on top of all the hard work from Georgi Gerganov, check out his Whisper implementation here: https://github.com/ggerganov/whisper.cpp
+28. [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) 👉 Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text.
 
 29. [Mount2 Speak](https://mount2speak.com/) 👉 Level up your speaking skills with an AI speaking mentor.
 
@@ -2272,7 +2196,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 33. [Hello History](https://www.hellohistory.ai/) 👉 With the help of modern AI & machine learning, we’ve brought historical figures back to life. Now is your chance to ask the questions you’ve always wanted to ask.
 
-34. [Historical Figures Chat (iOS)](https://apps.apple.com/us/app/historical-figures-chat/id6444197650) 👉 ‎Our app, "Historical Figures," uses advanced A.I. technology to allow users to have conversations with over 20,000 historical figures from the past. With this app, you can chat with deceased individuals who have made a significant impact on history from ancient rulers and philosophers, to modern da…
+34. [Historical Figures Chat (iOS)](https://apps.apple.com/us/app/historical-figures-chat/id6444197650) 👉 Our app, "Historical Figures," uses advanced A.I. technology to allow users to have conversations with over 20,000 historical figures from the past.
 
 35. [Infiniteconversation](https://infiniteconversation.com/) 👉 An AI generated, never-ending discussion between Werner Herzog and Slavoj Žižek.
 
@@ -2296,7 +2220,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 45. [PeopleAI](https://chatbotkit.com/apps/peopleai) 👉 Boost your personal brand with your very own digital twin. Engage with your audience like never before through personalized conversations. Enhance your online presence and create an unforgettable experience for your followers with the power of DigitalTwin technology.
 
-46. [Pheon](https://apps.apple.com/app/pheon-digital-twins/id1630784346) 👉 ‎Pheon is an app where you can chat with digital twins of real people — their smart realistic digital avatars. Behind every digital twin there is someone who created it. A real human with whom they share the look, the voice and the personality. A robust AI-solution powering a digital twin creates…
+46. [Pheon](https://apps.apple.com/app/pheon-digital-twins/id1630784346) 👉 Pheon is an app where you can chat with digital twins of real people — their smart realistic digital avatars. Behind every digital twin there is someone who created it.
 
 47. [Philosophy](https://philosophy.fyi/) 👉 Ask a Philosopher
 
@@ -2314,7 +2238,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 54. [Speakingclubai](https://speakingclubai.com/) 👉 Improve your language speaking skills by talking to an AI language companion
 
-55. [Stars App](https://apps.apple.com/us/app/hello-text-someone-you-miss/id6444165923) 👉 ‎Star allows you to create a chat with someone you miss. First, upload a photo and then start chatting with them. LICENSED APPLICATION END USER LICENSE AGREEMENT: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+55. [Stars App](https://apps.apple.com/us/app/hello-text-someone-you-miss/id6444165923) 👉 Star allows you to create a chat with someone you miss. First, upload a photo and then start chatting with them.
 
 56. [Talk to AI Human](https://www.talktoaihuman.com/) 👉 Web site created using create-react-app
 
@@ -2360,7 +2284,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 12. [Elicit](https://elicit.org/) 👉 Elicit uses machine learning to help you with your research: find papers, extract key claims, summarize, brainstorm ideas, and more.
 
-13. [ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993) 👉 ‎ExamCram is an innovative app that uses artificial intelligence to help students study more efficiently. With ExamCram, students can convert any type of media, such as lectures or textbook passages, into personalized study materials, including flashcards and practice tests.  The app's AI algorithms…
+13. [ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993) 👉 ExamCram is an innovative app that uses artificial intelligence to help students study more efficiently.
 
 14. [Explain Like I'm Five](https://explainlikeimfive.io/) 👉 Ready to make sense of the world? ELI5 can help explain tough concepts in an easy-to-understand way.
 
@@ -2450,7 +2374,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 57. [YouTube Summary with ChatGPT](https://glasp.co/youtube-summary) 👉 Social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
 
-58. [‎ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/) 👉 Study with AI to convert media into study material
+58. [ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/) 👉 Study with AI to convert media into study material
 
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
@@ -2458,7 +2382,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 2. [AI Portrait Generator](https://portret.ai/) 👉 AI Portrait generator
 
-3. [AI Profile Pic - Avatar Maker](https://apps.apple.com/app/id6444115082) 👉 ‎Create stunning avatars completely made by A.I.; The results are guaranteed to blow your mind! Get 100+ avatars of you in different, stunning styles. HOW IT WORKS: - Upload photos of you in different poses. - Have our A.I. train its model based on your photos. - Receive 100+ avatars in different s…
+3. [AI Profile Pic - Avatar Maker](https://apps.apple.com/app/id6444115082) 👉 Create stunning avatars completely made by A.I.; The results are guaranteed to blow your mind! Get 100+ avatars of you in different, stunning styles.
 
 4. [AI Profile Pictures](https://www.aiprofilepictures.com/) 👉 AI-generated profile pictures
 
@@ -2494,7 +2418,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 20. [Character.io](https://characterio.neeltron.repl.co/) 👉 Free tool to generate fresh cartoon characters
 
-21. [Doggo Booth](https://apps.apple.com/us/app/doggo-booth-ai-dog-avatars/id6444934002) 👉 ‎Your dog's photo is the perfect way to capture the personality and charm of your four-legged friend. Generate amazing visualizations of your dog with AI! • Perfect for your social media (Instagram, Facebook, Twitter, TikTok) • Great gift for your loved ones • Multiple styles • Simple and easy to u…
+21. [Doggo Booth](https://apps.apple.com/us/app/doggo-booth-ai-dog-avatars/id6444934002) 👉 Your dog's photo is the perfect way to capture the personality and charm of your four-legged friend. Generate amazing visualizations of your dog with AI!
 
 22. [DrawAnyone](https://drawanyone.ai/) 👉 Draw anyone, any way you want.
 
@@ -2514,11 +2438,11 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 30. [Kotemi Avatars](https://avatars.kotemi.com/) 👉 From first-time founders to experienced engineers, Bubble allows users to build, design, and launch apps in record speed – no code required.
 
-31. [Lensa AI](https://apps.apple.com/app/lensa-photo-video-editor/id1436732536) 👉 ‎Everything that makes Lensa iOS app great, but with intuitive macOS design and capabilities. Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical…
+31. [Lensa AI](https://apps.apple.com/app/lensa-photo-video-editor/id1436732536) 👉 Everything that makes Lensa iOS app great, but with intuitive macOS design and capabilities. Lensa is a brand new way of making your selfies look better, than you could have ever imagined.
 
 32. [Magic Avatars](https://land.prisma-ai.com/magic-avatars/) 👉 Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical mobile app to date for perfecting your selfies on the go. So, if there’s anything you think should be corrected in your selfie, you now have this amazing, simple app to help you.
 
-33. [MyFaceWhen](https://apps.apple.com/app/apple-store/id6443700946) 👉 ‎Create a spectacular selfie with a simple text description! Just snap a selfie, select your face, write a text description of the image you want to get, and the app will take care of the rest! See yourself in different clothes or digitally cosplay anybody! Also works on group photos. The groundbrea…
+33. [MyFaceWhen](https://apps.apple.com/app/apple-store/id6443700946) 👉 Create a spectacular selfie with a simple text description! Just snap a selfie, select your face, write a text description of the image you want to get, and the app will take care of the rest!
 
 34. [Not Me Netlify](https://not-me.netlify.app/) 👉 Generate unique portraits of yourself using artificial intelligence. Browse millions of styles or create your own. Unlimited generations.
 
@@ -2556,7 +2480,7 @@ Image Enlarger is useful for photographers, graphic designers, and anyone who wa
 
 51. [ProfilePicture.ai](https://www.profilepicture.ai/) 👉 Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be anything, anywhere, or anyone!
 
-52. [ProPix](https://apps.apple.com/us/app/profileprofile/id1636884362) 👉 ‎Want a stunning profile photo that makes you stand out from the crowd, with unique, trendy, stylish, awesome designs. • ProfileProfile creates PC or Photoshop level edits with just a single tap, just select the template of your choice, then select your photo and you’re good to go. • ProfileProfil…
+52. [ProPix](https://apps.apple.com/us/app/profileprofile/id1636884362) 👉 Want a stunning profile photo that makes you stand out from the crowd, with unique, trendy, stylish, awesome designs.
 
 53. [ReflectMe](https://reflectme.art/) 👉 See yourself in a way you never have before! Generate your AI avatars, AI photos, AI photographies, profile pictures, LinkedIn professional profile photos, using artificial intelligence! Built on Stable Diffusion and Dreambooth.
 
@@ -2710,20 +2634,6 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 11. [CodeSnippets.ai](https://codesnippets.ai/) 👉 Turn your questions into code!
 
-Easily store and fetch your snippets.
-
-Collaborate with your team.
-
-AI Powered WebIDE & VSCode extension
-
-Create documentation, Refactor, Debug and Generate code with the click of a button.
-
-We use a fine-tuned AI model trained on GPT3, which provide faster and more accurate responses to your questions, compared to Codex apps.
-
-Save your code snippets into your library for your whole team to use.
-
-Search snippets by language, name or folder & create your own folder structure to suit your needs.
-
 12. [Cogram](https://www.cogram.com/) 👉 Cogram uses artificial intelligence to create high-quality meeting minutes and propose action items
 
 13. [DeepL](https://www.deepl.com/) 👉 Translate texts & full document files instantly. Accurate translations for individuals and Teams. Millions translate with DeepL every day.
@@ -2812,8 +2722,6 @@ Search snippets by language, name or folder & create your own folder structure t
 
 6. [Booltool](https://booltool.boolv.tech/) 👉 An all-in-one cloud toolkit with everything that Al can do (so far) to help turn all forms of your resources into stunning content at your fingertips. Picture editing, Al copywriting, HD videos, and more!
 
-A must-have toolkit for digital marketers, online shop owners, creators, and graphic designers!
-
 7. [BrandBastion Lite](https://www.brandbastion.com/lite/) 👉 Easily monitor and manage all your social media conversations with BrandBastion Lite. Our AI simplifies comment management by analyzing sentiment, detecting spam and hate speech, and identifying the messages that require a response from your brand.
 
 8. [Camira](https://www.camira.ai/) 👉 CAMIRA is an all-in-one AI-powered platform designed specifically for content creators, photographers, and videographers. With a wide range of features, including AI-generated ideas, AI chat assistance, AI image generators, AI location scout, and much more, CAMIRA streamlines the content creation process and elevates the end result. Whether you're looking to generate unique ideas, save time on marketing materials, or produce professional-grade content, CAMIRA is the perfect solution. Try it for free today.
@@ -2827,10 +2735,6 @@ A must-have toolkit for digital marketers, online shop owners, creators, and gra
 12. [Copywise](https://copywise.ai/) 👉 Copywise is the world's first AI copywriting tool with a built-in marketing framework. Copywise was founded to make it easier for businesses to create high-quality ad copies that drive results. It doesn't only produce high-quality copies, but it also takes users through a marketing framework that drives conversions.
 
 13. [Decktopus AI](https://www.decktopus.com/) 👉 Decktopus is an online content creation tool that offers auto-adjusted layouts and templates, allowing you to create any type of content in minutes by simply filling in the blanks.
-
-We are currently working on a new version of Decktopus known as Decktopus AI. Decktopus AI will enhance your experience by offering a new "Create with AI" button on your dashboard.
-
-You can fill in a prompt, such as "Give a progress report about XYZ," and select a theme, such as "Dark" or "Minimal." In a few minutes, Decktopus AI will generate a fully designed deck with the content you provided, including images, bullet points, forms, and more. It will also be customizable with just a few clicks.
 
 14. [DigiMarkAI](https://www.digimarkai.com/) 👉 DigiMarkAI provided an effective and powerful way to generate social media post through AI
 
@@ -3180,13 +3084,7 @@ You can then use our AI engine to generate questions, topics and blog post outli
 
 12. [MagicSlides](https://www.magicslides.app/) 👉 MagicSlides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
 
-13. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI
-
-Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
-
-🔥 Unlock 50+ Mental Models
-
-Created by @sameedahmad
+13. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
 
 14. [Motionit](https://www.motionit.ai/) 👉 MotionIt.ai is a cutting-edge platform that uses artificial intelligence to generate stunning slides and videos for a wide range of purposes, including startup pitch decks, conference presentations, and more. With MotionIt.ai, it's easy to create professional-quality content in just a few simple steps. Plus, you can export your slides to Google Slides or download them as a PowerPoint (PPTX) or PDF file, giving you complete flexibility and control over your presentations.
 
@@ -3534,41 +3432,7 @@ Created by @sameedahmad
 
 6. [Botowski](https://www.botowski.com/) 👉 AI content generator that creates content for businesses and people who aren't professional writers. It offers a diverse range of automatic content generation tools, from catchy slogans for branding purposes to email templates or blog content.
 
-7. [Ecommerce Prompts](https://www.ecommerceprompts.com/) 👉 "ChatGPT has revolutionized the way individuals and businesses approach marketing activities. However, e-commerce businesses have been unable to maximize their full potential for essential marketing activities such as:
-
-✍🏻 Writing marketing copies for their storefronts (websites, product titles, descriptions, FAQs).
-
-💌 Crafting Email/SMS/WhatsApp marketing copies (subject lines, body content).
-
-📽️ Creating engaging social media posts, ad copies, and video scripts.
-
-🛒 Developing brand-building materials (about us, brand positioning, brand guidelines).
-
-Though some have made progress in these areas, there is still a need for actionable and tailored solutions that are specific to the industry, brand tone & positioning, different events, and offers.
-
-For the past three months, we have been working on a project to generate eCommerce ChatGPT prompts to help e-commerce owners and marketers create scalable copy and campaigns, making them more personalized for their brands’ customers.
-
-You can generate prompts for:
-
-1️⃣ Website content
-
-2️⃣ Product Page content
-
-3️⃣ SEO content
-
-4️⃣ Email, SMS & WhatsApp Campaigns
-
-5️⃣ Meta Titles and Descriptions
-
-6️⃣ Product FAQs
-
-7️⃣ Browser and in-app notifications
-
-8️⃣ Ad-copy and social content
-
-9️⃣ Articles
-
-Hope you find it useful. We’d love to get your feedback on what we can add to this generator. Let’s plug in the key to your eCom growth engine 🚀"
+7. [Ecommerce Prompts](https://www.ecommerceprompts.com/) 👉 "ChatGPT has revolutionized the way individuals and businesses approach marketing activities.
 
 8. [Evolup](https://www.evolup.com/) 👉 Evolup is an AI-based affiliate store creation platform, enabling users to turn their passions into profits with ease. It features cutting-edge AI, Amazon sync, and SEO tools for maximum commission generation. It offers comprehensive support, hosting, tools, and SEO dashboards for successful affiliate site management.
 
@@ -3636,7 +3500,7 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
 
-2. [AITwo - interior, exterior and fashion design with AI](https://aitwo.co/) 👉 An AI-powered design tool that can be used to design interiors for rooms such as bedrooms, living rooms, kitchens, bathrooms, and dining rooms. It can also be used to design exteriors for homes and buildings. Users can select from a variety of styles, including tropical, modern, traditional, rustic, mid-century, minimalistic, eclectic, gaming, glamourous, industrial, coastal, bohemian, farmhouse, art deco, mediterranean, asian, french country, english cottage, moroccan, scandinavian, hollywood regency, and more. Users can also select a level of change they would like to see in the interior image, as well as optional decoration and furniture. The tool also offers a Sketch2Real feature, which can convert sketches to realistic images.
+2. [AITwo - interior, exterior and fashion design with AI](https://aitwo.co/) 👉 An AI-powered design tool that can be used to design interiors for rooms such as bedrooms, living rooms, kitchens, bathrooms, and dining rooms. It can also be used to design exteriors for homes and buildings.
 
 3. [Architechtures](https://architechtures.com/en/) 👉 AI-Powered Building Design Web tool for the residential sector to help you improve decision making and reduce design time from months to minutes.
 
@@ -3644,7 +3508,7 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 5. [DecorAI](https://decorai.io/) 👉 DecorAI
 
-6. [Decorous: AI Home Makeovers](https://apps.apple.com/us/app/decorous-ai-home-makeovers/id1664988827) 👉 ‎Transform your home with the power of AI. Decorous is the ultimate tool for interior design enthusiasts, giving you the power to create the home of your dreams with just a few taps.
+6. [Decorous: AI Home Makeovers](https://apps.apple.com/us/app/decorous-ai-home-makeovers/id1664988827) 👉 Transform your home with the power of AI. Decorous is the ultimate tool for interior design enthusiasts, giving you the power to create the home of your dreams with just a few taps.
 
 7. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
 
@@ -3670,9 +3534,9 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 ## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
-1. [Ai Pencil](https://apps.apple.com/us/app/ai-pencil/id6444737491) 👉 ‎Create stunning art with the help of state-of-the-art AI Features - Sketch your drawings with powerful tools - Import and export your favorite drawings - Transform your art into any medium or style
+1. [Ai Pencil](https://apps.apple.com/us/app/ai-pencil/id6444737491) 👉 Create stunning art with the help of state-of-the-art AI Features - Sketch your drawings with powerful tools - Import and export your favorite drawings - Transform your art into any medium or style.
 
-2. [AYAYA - Cartoon Photo Editor](https://apps.apple.com/us/app/ayaya-cartoon-photo-editor/id1642465101) 👉 ‎AYAYA is your easy-to-use cartoon photo editor powered by AI for amazing results. Create stunning cartoon profile pic, wallpaper, lock screens, collages, widgets and more. We want to create something wonderful by combining Human creativity and Artificial Intelligence's capabilities, You will love t…
+2. [AYAYA - Cartoon Photo Editor](https://apps.apple.com/us/app/ayaya-cartoon-photo-editor/id1642465101) 👉 AYAYA is your easy-to-use cartoon photo editor powered by AI for amazing results. Create stunning cartoon profile pic, wallpaper, lock screens, collages, widgets and more.
 
 3. [Character GPT](https://alethea.ai/) 👉 Alethea AI is an R&D studio building at the intersection of two of the most transformative technologies of our time - Generative AI and Blockchain.
 
@@ -3694,7 +3558,7 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 12. [Silly Times](https://www.elbo.ai/silly) 👉 Have a fun time drawing and seeing what silly thing we make from your drawing. Let your kids have some fun Creative time after school.
 
-13. [SketchAI](https://apps.apple.com/us/app/sketchai-by-picsart/id1660937634) 👉 ‎Introducing the ultimate tool for hobbyists, small business owners and professionals! With our app, you can now easily sketch an image and have it instantly generated into a high-quality stock photo or artwork with the help of AI technology. Our app features a variety of brushes and colors for you t…
+13. [SketchAI](https://apps.apple.com/us/app/sketchai-by-picsart/id1660937634) 👉 Introducing the ultimate tool for hobbyists, small business owners and professionals!
 
 14. [Vizcom AI](https://www.vizcom.ai/) 👉 Vizcom is a creative tool that helps designers streamline the process of turning their concepts into physical products.
 
@@ -3716,7 +3580,7 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 8. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
 
-9. [Rupt](https://apps.apple.com/us/app/rupt-stock-analysis-automated/id1583073539) 👉 ‎Rupt is an AI that finds you better stocks. Beat the market with algorithms that do all the analysis for you. Make your investment decisions based on cold, hard facts, not fear, bias, or hype. Key features: - The Rupt Score, a simple, unbiased, and easy-to-understand rating for each stock - Price t…
+9. [Rupt](https://apps.apple.com/us/app/rupt-stock-analysis-automated/id1583073539) 👉 Rupt is an AI that finds you better stocks. Beat the market with algorithms that do all the analysis for you.
 
 10. [Stocknews AI](https://stocknewsai.com/) 👉 AI picked stock news
 
@@ -3732,7 +3596,7 @@ Hope you find it useful. We’d love to get your feedback on what we can add to 
 
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
-1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 ‎AweMyFace — is a skincare app and your only guide on the way to the perfect skin. The acne’s problem worries every 8th adult on Earth. But there is no single right solution that would help everyone. That is why it is so important to understand your personal body, to build your personal cause-and-ef…
+1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 AweMyFace — is a skincare app and your only guide on the way to the perfect skin.
 
 2. [Dreamweaverai](https://www.dreamweaverai.com/generate) 👉 Build the tee of your dreams with AI
 
