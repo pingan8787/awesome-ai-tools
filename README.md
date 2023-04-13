@@ -1980,7 +1980,7 @@ Join 2700+ creators to reach billions of people globally
 
 63. [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 👉 Get the best version of your photo with noise reduction, sharpening, upscaling, and face recovery powered by deep learning.
 
-64. [Unfake](https://unfakepng.com/) 👉 Don’t you hate it when you find that perfect, supposedly background-less PNG, download it but when you go to use it, the dreaded checkerboard appears? Our AI tool can turn those annoying fake.png  into true, unfake.png.
+64. [Unfake](https://unfakepng.com/) 👉 Don’t you hate it when you find that perfect, supposedly background-less PNG, download it but when you go to use it, the dreaded checkerboard appears? Our AI tool can turn those annoying fake.png into true, unfake.png.
 
 65. [Unpromptedgame](https://www.unpromptedgame.com/) 👉 Guess the words used to create A.I. images.
 
@@ -2224,7 +2224,7 @@ Join 2700+ creators to reach billions of people globally
 
 47. [Philosophy](https://philosophy.fyi/) 👉 Ask a Philosopher
 
-48. [Prodigy AI](https://ai.prodi.gg/) 👉 Prodigy Menu Hire a Prodigy Join Waitlist Using AI to improve the Careers of Software Engineers We’re on a mission to use the latest AI to build tools that help software engineers build better careers. Our AI tools are 100% free. CAREER COACH AI Career Coach is a fun ChatGPT-enabled coach that acts as an […]
+48. [Prodigy AI](https://ai.prodi.gg/) 👉 Prodigy Menu Hire a Prodigy Join Waitlist Using AI to improve the Careers of Software Engineers We’re on a mission to use the latest AI to build tools that help software engineers build better careers. Our AI tools are 100% free.
 
 49. [Promptheus](https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki) 👉 Use your voice to talk to ChatGPT with the spacebar! ????
 
@@ -2257,6 +2257,8 @@ Join 2700+ creators to reach billions of people globally
 63. [Webapi.ai 2.0](https://webapi.ai/) 👉 WebApi.ai - Next-Generation Chatbot builder
 
 64. [Zenen AI](https://zenen.ai/) 👉 Zenen is a creative AI that you can have a meaningful conversation with like you would with a friend. It uses human-like interactions through voice control. It can help you write stories, brainstorm ideas, come up with marketing plans, play games or entertain you with jokes.
+
+65. [MyGPT](https://mygpt.thesamur.ai/) 👉 A free and fast ChatGPT powered by ChatGPT API with prompts support with 100% uptime
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
