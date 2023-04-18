@@ -1992,6 +1992,8 @@ Join 2700+ creators to reach billions of people globally
 
 69. [Zoomscape](https://zoomscape.ai/) 👉 Create stunning Zoom backgrounds with AI
 
+70. [PicWish](https://picwish.com/) 👉 PicWish is an AI-powered image processing tool that frees you up from repetitive tasks for more valuable creative work.
+
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
@@ -2259,6 +2261,8 @@ Join 2700+ creators to reach billions of people globally
 64. [Zenen AI](https://zenen.ai/) 👉 Zenen is a creative AI that you can have a meaningful conversation with like you would with a friend. It uses human-like interactions through voice control. It can help you write stories, brainstorm ideas, come up with marketing plans, play games or entertain you with jokes.
 
 65. [MyGPT](https://mygpt.thesamur.ai/) 👉 A free and fast ChatGPT powered by ChatGPT API with prompts support with 100% uptime
+
+66. [Anthropic](https://www.anthropic.com/) 👉 AI research and products that put safety at the frontier
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
