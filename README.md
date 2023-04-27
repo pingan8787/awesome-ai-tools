@@ -1854,6 +1854,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [Creator: AI Generated Art](https://apps.apple.com/us/app/creator-ai-generated-art/id6444194055/) 👉 Create stunning AI-generated art - with no ads ever.
 
+79. [codedesign](https://www.codedesign.ai) 👉 AI Website Builder Build and Deploy in 30 Seconds!
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
@@ -2265,6 +2267,8 @@ Join 2700+ creators to reach billions of people globally
 65. [MyGPT](https://mygpt.thesamur.ai/) 👉 A free and fast ChatGPT powered by ChatGPT API with prompts support with 100% uptime
 
 66. [Anthropic](https://www.anthropic.com/) 👉 AI research and products that put safety at the frontier
+
+67. [HuggingChat](https://huggingface.co/chat/) 👉 Making the best open source AI chat models available to everyone.
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
