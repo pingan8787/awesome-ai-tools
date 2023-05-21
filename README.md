@@ -1862,6 +1862,8 @@ Join 2700+ creators to reach billions of people globally
 
 79. [codedesign](https://www.codedesign.ai) 👉 AI Website Builder Build and Deploy in 30 Seconds!
 
+80. [SubPage.app](https://subpage.app/) 👉 Easily create important sub-pages of your business website using AI powered content and image generation.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
@@ -2275,6 +2277,16 @@ Join 2700+ creators to reach billions of people globally
 66. [Anthropic](https://www.anthropic.com/) 👉 AI research and products that put safety at the frontier
 
 67. [HuggingChat](https://huggingface.co/chat/) 👉 Making the best open source AI chat models available to everyone.
+
+68. [Whismer](https://whismer.com/) 👉 Build custom AI chatbot with your own data.
+
+69. [PurpleBuddy-AI](https://purplebuddy-ai.com/) 👉 We help entrepreneurs and marketers elevate user experience and streamline customer support on their websites using PurpleBuddy AI's intelligent chatbot technology.
+
+70. [Dialoq AI](https://dialoqai.com/) 👉 Build AI powered chatbot with your own data. Customize the chatbot's appearance and embed it on your website.
+
+71. [TeamSmart AI](https://www.teamsmart.ai/) 👉 The Chrome extension that takes your ChatGPT experience to the next level.
+
+72. [AutoResponder.ai](https://www.autoresponder.ai/) 👉 AutoResponder.ai automatically replies to messages from your favorite messengers using AI. There are many settings to customize the app to your liking.
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
