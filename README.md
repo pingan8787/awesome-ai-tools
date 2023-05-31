@@ -1698,7 +1698,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 92. [Yepic AI](https://www.yepic.ai/royalinvite) 👉 Send your employees, friends and family a royal invite for afternoon tea or one of the many events happening globally to Celebrate the Queen's Platinum Jubilee. Simply update the fields below and we'll generate a personalised video from Her Royal
 
-92. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
+93. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
 
 ## 6. <a name='Design'></a>🎨 Design
 
