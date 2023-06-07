@@ -1864,6 +1864,26 @@ Join 2700+ creators to reach billions of people globally
 
 80. [SubPage.app](https://subpage.app/) 👉 Easily create important sub-pages of your business website using AI powered content and image generation.
 
+81. [Dream 3D](https://www.dream3d.com/) 👉 Introducing Dream3D – a state-of-the-art, AI-powered 3D design tool that effortlessly breathes life into your ideas with studio-quality computer graphics.
+
+82. [Flair AI](https://flair.ai/) 👉 Design AI tool to make brand-focused images for advertising and content.
+
+83. [Magify Design](https://www.magify.design/) 👉 Create stunning designs with images in a few minutes.
+
+84. [Dora AI](https://www.dora.run/ai) 👉 Design and publish 3D and animated sites with just plain text.
+
+85. [Studio Design](https://studio.design/) 👉 Create Powerful text-to-design AI tool with great editing capabilities.
+
+86. [Diagram](https://diagram.com/) 👉 Be more creative with the collections of generative design tools.
+
+87. [Uizard Autodesigner](https://uizard.io/autodesigner/) 👉 Use simple text to generate multi screen mockups for apps and websites.
+
+88. [StockImg AI](https://stockimg.ai/) 👉 StockImg AI is an AI-powered design service for various visual content like logos, images, posters, book covers, and more.
+
+89. [Calligrapher AI](https://www.calligrapher.ai/) 👉 Calligrapher.ai is an AI-powered online tool that creates authentic-looking computer-generated handwriting.
+
+90. [Rosebud](https://www.rosebud.ai/) 👉 Build Games at the Speed of Thought. GPT to Game.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
