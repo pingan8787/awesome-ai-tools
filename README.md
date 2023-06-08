@@ -1884,6 +1884,16 @@ Join 2700+ creators to reach billions of people globally
 
 90. [Rosebud](https://www.rosebud.ai/) 👉 Build Games at the Speed of Thought. GPT to Game.
 
+91. [Kreateable](https://www.kreateable.com/) 👉 Kreateable is a versatile platform that provides a range of design tools and features, including logo creation, social media post and ad design, magic resizing, AI writing, text-to-image conversion, background removal, brand kit creation, multi-brand management, and invoicing.
+
+92. [Predict AI](https://www.neuronsinc.com/predict) 👉 Get creative data on your designs/websites in seconds with Predict.
+
+93. [Octoicons](https://octoicons.com/) 👉 Create Custom SVG Icons with just plain text.
+
+94. [Roomify AI](https://roomify.ai/) 👉 Transform your room with just a snap! Discover new styles and designs for your room. Upload a photo of your room and let our AI do the rest.
+
+95. [TurnCage](https://turncage.com/) 👉 Remarkably Beautiful Websites in minutes not months. Discover a seamless web design experience with our AI-driven platform, perfect for businesses seeking an online presence.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
