@@ -1822,7 +1822,7 @@ Join 2700+ creators to reach billions of people globally
 
 59. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-60. [Sitekick](https://www.sitekick.ai/) 👉 Sitekick allows you to create beautiful landing pages. Without the need for coding, design or copywriting skills.
+60. [Brand AI Model](https://contlo.com/brand-ai-model/) 👉 Contextually Generate Marketing Content.
 
 61. [Sitekick.ai](https://www.sitekick.ai/) 👉 AI landing page generator. Create beautiful landing pages without the need for coding, design, or copywriting skills.
 
