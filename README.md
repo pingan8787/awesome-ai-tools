@@ -1306,6 +1306,28 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 103.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
+104.  [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
+
+105.  [GitFluence](https://www.gitfluence.com/) 👉 AI-driven solution that helps you quickly find the right command.
+
+106.  [MarsAi](https://www.marsx.dev) 👉 Low-code platform for building web and mobile app.
+
+107.  [SuperAGI](https://superagi.com/) 👉 Infrastructure for building your next app with Autonomous Agents.
+
+108.  [One AI](https://www.oneai.com) 👉 Generative AI API for businesses.
+
+109.  [Pixelicious](https://www.pixelicious.xyz) 👉 Pixel Art Converter.
+
+110.  [Datature](https://datature.io) 👉 Manage datasets, annotate, train, and deploy.
+
+111.  [Mixo.io](https://mixo.io/) 👉 Launch a startup in seconds with AI.
+
+112.  [Cron AI](https://cron-ai.vercel.app) 👉 Words to cron expression
+
+113.  [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
+
+114.  [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
