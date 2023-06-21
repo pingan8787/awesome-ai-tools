@@ -2602,97 +2602,107 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 10. [Cleanvoice AI](https://cleanvoice.ai/) 👉 Removes filler sounds (uh’s, um’s), mouth sounds (Ex. Lip-smacking) and stuttering from your podcast or audio recording.
 
-11. [Cleanvoice AI](https://cleanvoice.ai/) 👉 Cleanvoice is an artificial intelligence, which removes filler sounds (uh’s, um’s), mouth sounds (Ex. Lip-smacking) and stuttering from your podcast or audio recording.
+11. [Clip](https://www.clip.audio/) 👉 AI audio search engine
 
-12. [Clip](https://www.clip.audio/) 👉 AI audio search engine
+12. [Coqui](https://coqui.ai/) 👉 Coqui, Freeing Speech.
 
-13. [Coqui](https://coqui.ai/) 👉 Coqui, Freeing Speech.
+13. [Deciphr AI](https://www.deciphr.ai/) 👉 Deciphr AI
 
-14. [Deciphr AI](https://www.deciphr.ai/) 👉 Deciphr AI
+14. [Descript](https://www.descript.com/) 👉 Create a text to speech model of your voice. Try a live demo.
 
-15. [Descript](https://www.descript.com/) 👉 Create a text to speech model of your voice. Try a live demo.
+15. [echowin](https://echo.win/) 👉 Automate Incoming Calls With AI.
 
-16. [echowin](https://echo.win/) 👉 Automate Incoming Calls With AI.
+16. [Emergent Drums](https://audialab.com/) 👉 Generate unique drum samples using artificial intelligence.
 
-17. [Emergent Drums](https://audialab.com/) 👉 Generate unique drum samples using artificial intelligence.
+17. [Endel](https://endel.io/) 👉 Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.
 
-18. [Endel](https://endel.io/) 👉 Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.
+18. [Flowjin](https://www.flowjin.com/) 👉 An AI clip generator that creates clips from your podcast, Zoom meetings, or Youtube videos. The result is ready to be shared on Youtube, Tiktok, or Instagram Reels
 
-19. [Flowjin](https://www.flowjin.com/) 👉 An AI clip generator that creates clips from your podcast, Zoom meetings, or Youtube videos. The result is ready to be shared on Youtube, Tiktok, or Instagram Reels
+19. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
 
-20. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
+20. [GetSound.ai](https://www.getsound.ai/) 👉 Create infinite and non-repeating ambient & soundscape music in real-time based on your surroundings, weather, location, and time of day help you Improve your wellness and relaxation, focus, or set a tone for any space.
 
-21. [GetSound.ai](https://www.getsound.ai/) 👉 Create infinite and non-repeating ambient & soundscape music in real-time based on your surroundings, weather, location, and time of day help you Improve your wellness and relaxation, focus, or set a tone for any space.
+21. [Gling](https://www.gling.ai/) 👉 Gling saves YouTubers time in editing by automatically identifying and cutting out silences and bad takes.
 
-22. [Gling](https://www.gling.ai/) 👉 Gling saves YouTubers time in editing by automatically identifying and cutting out silences and bad takes.
+22. [Harmonai](https://www.harmonai.org/) 👉 Open-source generative audio tools to make music production more accessible and fun for everyone
 
-23. [Harmonai](https://www.harmonai.org/) 👉 Open-source generative audio tools to make music production more accessible and fun for everyone
+23. [Heark](https://heark.app/) 👉 Heark
 
-24. [Heark](https://heark.app/) 👉 Heark
+24. [Listnr](https://www.listnr.tech/) 👉 AI Voice Generator with over 600+ voiceovers in 80+ language.
 
-25. [Listnr](https://www.listnr.tech/) 👉 AI Voice Generator with over 600+ voiceovers in 80+ language.
+25. [Melville](https://usemelville.com/) 👉 Save time and money by letting Melville write everything you need for your podcast episodes.
 
-26. [Melville](https://usemelville.com/) 👉 Save time and money by letting Melville write everything you need for your podcast episodes.
+26. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 Studio quality voice overs with AI in one-click. Create multiple characters & enhance your videos with voices optimised for maximum engagement.
 
-27. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 Studio quality voice overs with AI in one-click. Create multiple characters & enhance your videos with voices optimised for maximum engagement.
+27. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 AI Voice editing platform for Creators. Create studio quality voice overs, customise your online identity & let your emotion shine through with ultra realistic human like voices.
 
-28. [MetaVoice Studio](https://studio.themetavoice.xyz/) 👉 AI Voice editing platform for Creators. Create studio quality voice overs, customise your online identity & let your emotion shine through with ultra realistic human like voices.
+28. [Mubert](https://mubert.com/) 👉 Royalty-free music ecosystem for content creators, brands and developers.
 
-29. [Mubert](https://mubert.com/) 👉 Royalty-free music ecosystem for content creators, brands and developers.
+29. [Nonoisy](https://www.nonoisy.com/) 👉 AI for podcast audio editing
 
-30. [Nonoisy](https://www.nonoisy.com/) 👉 AI for podcast audio editing
+30. [Podcast.ai](https://podcast.ai/) 👉 The AI-generated podcast.
 
-31. [Podcast.ai](https://podcast.ai/) 👉 The AI-generated podcast.
+31. [Podcast.ai](https://podcast.ai/) 👉 podcast.ai
 
-32. [Podcast.ai](https://podcast.ai/) 👉 podcast.ai
+32. [Podcastle](https://podcastle.ai/) 👉 Podcastle is the simplest way to create professional-quality podcasts. Record, edit, transcribe, and export your content with the power of AI, in an intuitive web-based platform.
 
-33. [Podcastle](https://podcastle.ai/) 👉 Podcastle is the simplest way to create professional-quality podcasts. Record, edit, transcribe, and export your content with the power of AI, in an intuitive web-based platform.
+33. [Podsqueeze](https://podsqueeze.com/) 👉 Podsqueeze is an AI-powered tool that enables you to effortlessly repurpose your podcast content. With just a single click, it generates shownotes, newsletter, catchy titles, engaging tweets, social media posts and more.
 
-34. [Podsqueeze](https://podsqueeze.com/) 👉 Podsqueeze is an AI-powered tool that enables you to effortlessly repurpose your podcast content. With just a single click, it generates shownotes, newsletter, catchy titles, engaging tweets, social media posts and more.
+34. [Poly AI](https://poly.ai/) 👉 Customer-Led conversational assistants for customer service. Answer every call immediately, 24/7. No agents needed.
 
-35. [Poly AI](https://poly.ai/) 👉 Customer-Led conversational assistants for customer service. Answer every call immediately, 24/7. No agents needed.
+35. [Replica](https://replicastudios.com/) 👉 Synthesize AI voice for your creative projects. Create naturally expressive voice performances with a Replica Voice.
 
-36. [Replica](https://replicastudios.com/) 👉 Synthesize AI voice for your creative projects. Create naturally expressive voice performances with a Replica Voice.
+36. [Replicastudios](https://www.replicastudios.com/) 👉 Create naturally expressive voice performances with a Replica Voice.
 
-37. [Replicastudios](https://www.replicastudios.com/) 👉 Create naturally expressive voice performances with a Replica Voice.
+37. [Resemble](https://www.resemble.ai/) 👉 AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
 
-38. [Resemble](https://www.resemble.ai/) 👉 AI Voice Generator that sounds real. Create speech-to-speech and text-to-speech AI voices with Resemble's realtime voice cloning software.
+38. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-39. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+39. [Snipd Podcast Summaries](https://www.snipd.com/ai-podcast-summaries) 👉 Read or listen to key insights from a podcast episode with AI-generated summaries in audio and text form, created by the Snipd app.
 
-40. [Snipd Podcast Summaries](https://www.snipd.com/ai-podcast-summaries) 👉 Read or listen to key insights from a podcast episode with AI-generated summaries in audio and text form, created by the Snipd app.
+40. [Soundful](https://www.soundful.com/) 👉 Generative AI-solution for music offering royalty-free music for content producers.
 
-41. [Soundful](https://www.soundful.com/) 👉 Generative AI-solution for music offering royalty-free music for content producers.
+41. [Splashmusic](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
 
-42. [Splashmusic](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
+42. [Steno](https://steno.ai/) 👉 Discover, reference, and read along as you listen.
 
-43. [Steno](https://steno.ai/) 👉 Discover, reference, and read along as you listen.
+43. [Stork: ChatGPT for Teams](https://www.stork.ai/) 👉 ChatGPT AI Assisted Work Collaboration Platform for Teams. Stork helps teams improve communications and productivity. It is a Business Messenger for Hybrid & Remote Teams that Records and Transcribes All Meetings and Calls automatically. Made for asynchronous post pandemic world and assisted by artificial intelligence.
 
-44. [Stork: ChatGPT for Teams](https://www.stork.ai/) 👉 ChatGPT AI Assisted Work Collaboration Platform for Teams. Stork helps teams improve communications and productivity. It is a Business Messenger for Hybrid & Remote Teams that Records and Transcribes All Meetings and Calls automatically. Made for asynchronous post pandemic world and assisted by artificial intelligence.
+44. [Sumly](https://www.sumly.ai/) 👉 SumlyAI is a revolutionary AI-powered platform that offers summaries of podcasts. Our cutting-edge technology enables us to provide fast and accurate summaries of your favorite podcasts, delivered straight to your inbox. With SumlyAI, you can stay up to date on the latest episodes of your favorite podcasts, without having to spend hours listening to them in full. Whether you're short on time or just want to get a quick overview of the key points, SumlyAI has you covered. Sign up today!
 
-45. [Sumly](https://www.sumly.ai/) 👉 SumlyAI is a revolutionary AI-powered platform that offers summaries of podcasts. Our cutting-edge technology enables us to provide fast and accurate summaries of your favorite podcasts, delivered straight to your inbox. With SumlyAI, you can stay up to date on the latest episodes of your favorite podcasts, without having to spend hours listening to them in full. Whether you're short on time or just want to get a quick overview of the key points, SumlyAI has you covered. Sign up today!
+45. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
 
-46. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
+46. [Tapesearch](https://www.tapesearch.com/) 👉 Tapesearch is a search engine to quickly search podcast transcripts generated by AI. Download transcripts for your favourite podcasts today.
 
-47. [Tapesearch](https://www.tapesearch.com/) 👉 Tapesearch is a search engine to quickly search podcast transcripts generated by AI. Download transcripts for your favourite podcasts today.
+47. [Verb Art](https://verb.art/) 👉 World first voice-to-art AI generator
 
-48. [Verb Art](https://verb.art/) 👉 World first voice-to-art AI generator
+48. [Vocads Survey](https://www.vocads.com/) 👉 Survey reinvented by voice Companies lack responses & engagement on their surveys. Vocads reinvents survey experience, through VOICE conversation with an AI. GET STARTED TRY A LIVE DEMO Customer voice survey Get real, honest and complete answers from your customers. Quick to fill surveys collecting richer data. Better adjust your strategy. Retain clients with this
 
-49. [Vocads Survey](https://www.vocads.com/) 👉 Survey reinvented by voice Companies lack responses & engagement on their surveys. Vocads reinvents survey experience, through VOICE conversation with an AI. GET STARTED TRY A LIVE DEMO Customer voice survey Get real, honest and complete answers from your customers. Quick to fill surveys collecting richer data. Better adjust your strategy. Retain clients with this
+49. [Voice AI](https://voice.ai/) 👉 Download our A.I driven Voice Changer Software to use with Phone Calls, Video or Streaming. Voice filter Synthesizes your Voice in Real Time. Choose Voice Universe Voices, effects or Clone any Voice.
 
-50. [Voice AI](https://voice.ai/) 👉 Download our A.I driven Voice Changer Software to use with Phone Calls, Video or Streaming. Voice filter Synthesizes your Voice in Real Time. Choose Voice Universe Voices, effects or Clone any Voice.
+50. [Voicemod](https://www.voicemod.net/) 👉 A voice transformer and modifier with effects that makes you sound like a girl or a robot.
 
-51. [Voicemod](https://www.voicemod.net/) 👉 A voice transformer and modifier with effects that makes you sound like a girl or a robot.
+51. [Wellsaidlabs](https://wellsaidlabs.com/) 👉 Beautiful voices at your fingertips with text-to-speech that captivates.
 
-52. [Voicemod](https://www.voicemod.net/) 👉 Download now for FREE Voicemod a funny & scary voice changer app. A voice transformer and modifier with effects that makes you sound like a girl or a robot
+52. [Whisper](https://github.com/openai/whisper/) 👉 General-purpose speech recognition model.
 
-53. [Wellsaidlabs](https://wellsaidlabs.com/) 👉 Beautiful voices at your fingertips with text-to-speech that captivates.
+53. [Whisper to Stable Diffusion](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion) 👉 Discover amazing ML apps made by the community
 
-54. [Whisper](https://github.com/openai/whisper/) 👉 General-purpose speech recognition model.
+54. [Wzrd.ai](https://wzrd.ai/) 👉 WZRD is an AI music visualizer. It augments your audio with immersive video powered by artificial intelligence.
 
-55. [Whisper to Stable Diffusion](https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion) 👉 Discover amazing ML apps made by the community
+55. [AI Creator Circle](https://saasaitools.com/go/aicreatorcircleweb) 👉 A community for AI & ChatGPT creatives with 95,000+ members
+    
+56. [Beatoven](https://www.beatoven.ai/) 👉 Create AI-generated music for videos & podcasts based on mood.
 
-56. [Wzrd.ai](https://wzrd.ai/) 👉 WZRD is an AI music visualizer. It augments your audio with immersive video powered by artificial intelligence.
+57. [HeyGen](https://app.heygen.com/guest/home) 👉 HeyGen's AI technology enables you to create engaging and personalized videos at scale, using 100+ realistic avatars in 40+ languages
+
+58. [Freepik](https://www.freepik.com/) 👉 Unlock boundless creativity at Freepik! Explore a wealth of top-notch photos, vectors, videos, and mockups all in one place. Find
+
+59. [Visla](https://www.visla.us/) 👉 Visla is your video storytelling companion, an AI-powered platform that simplifies recording, editing, and sharing high-quality videos for teams and
+    
+60. [Kreado AI](https://kreadoai.com/) 👉 Kreado AI, an extraordinary multilingual AI video creator, enables you to effortlessly transform text or keywords into captivating oral videos
+
+61. [Soul Machines](https://www.soulmachines.com/) 👉 Embark on a mesmerizing journey where Soul Machines merges AI, metaverse, and digital celebrities. Witness the extraordinary infusion of GPT
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
