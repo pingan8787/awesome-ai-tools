@@ -2340,6 +2340,17 @@ Join 2700+ creators to reach billions of people globally
 
 72. [AutoResponder.ai](https://www.autoresponder.ai/) 👉 AutoResponder.ai automatically replies to messages from your favorite messengers using AI. There are many settings to customize the app to your liking.
 
+73. [YourSearch AI](https://yoursearch.ai/) 👉 An AI-powered search engine designed to facilitate personalized internet research directly in your favorite messenger
+74. [Odin AI](https://getodin.ai/) 👉 An Advanced ChatGPT Alternative With Constant Access To Real-Time Factual Information.
+
+75. [CapeChat](https://capeprivacy.com/) 👉 Keep sensitive data private while still using ChatGPT.
+
+76. [ChatGPT for iOS](https://apps.apple.com/app/openai-chatgpt/id6448311069) 👉 Free app that brings ChatGPT to iOS devices
+
+77. [PrivateGPT](https://privategpt.thesamur.ai/) 👉 Your offline personal AI Assistant. 100% Privacy and Secure.
+
+78. [Opera Aria](https://blogs.opera.com/desktop/2023/05/opera-unveils-integrated-browser-ai-aria/) 👉 Aria is an AI chatbot developed by Opera, integrated directly into their web browser sidebar. It acts as a virtual assistant, providing users with various features and capabilities.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
@@ -2691,7 +2702,6 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 54. [Wzrd.ai](https://wzrd.ai/) 👉 WZRD is an AI music visualizer. It augments your audio with immersive video powered by artificial intelligence.
 
 55. [AI Creator Circle](https://saasaitools.com/go/aicreatorcircleweb) 👉 A community for AI & ChatGPT creatives with 95,000+ members
-    
 56. [Beatoven](https://www.beatoven.ai/) 👉 Create AI-generated music for videos & podcasts based on mood.
 
 57. [HeyGen](https://app.heygen.com/guest/home) 👉 HeyGen's AI technology enables you to create engaging and personalized videos at scale, using 100+ realistic avatars in 40+ languages
@@ -2699,7 +2709,6 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 58. [Freepik](https://www.freepik.com/) 👉 Unlock boundless creativity at Freepik! Explore a wealth of top-notch photos, vectors, videos, and mockups all in one place. Find
 
 59. [Visla](https://www.visla.us/) 👉 Visla is your video storytelling companion, an AI-powered platform that simplifies recording, editing, and sharing high-quality videos for teams and
-    
 60. [Kreado AI](https://kreadoai.com/) 👉 Kreado AI, an extraordinary multilingual AI video creator, enables you to effortlessly transform text or keywords into captivating oral videos
 
 61. [Soul Machines](https://www.soulmachines.com/) 👉 Embark on a mesmerizing journey where Soul Machines merges AI, metaverse, and digital celebrities. Witness the extraordinary infusion of GPT
