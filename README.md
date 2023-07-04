@@ -1327,6 +1327,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 113.  [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
 
 114.  [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
+115.  [AskCommand](https://www.askcommand.cppexpert.online/) 👉 Generate Unix commands from text automatically using AI.
 
 ## 4. <a name='Business'></a>👔 Business
 
