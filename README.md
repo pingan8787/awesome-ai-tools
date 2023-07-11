@@ -2278,8 +2278,6 @@ Join 2700+ creators to reach billions of people globally
 
 41. [NOLU](https://noluai.com/) 👉 A simple interface for interacting with the GPT-3 AI.
 
-42. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
-
 43. [Oracle](https://askoracle.app/) 👉 Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity.
 
 44. [Paralegal AI](https://www.legalquestions.help/) 👉 Paralegal AI
@@ -3363,6 +3361,8 @@ You can then use our AI engine to generate questions, topics and blog post outli
 
 33. [Warmer.Ai](https://warmer.ai/) 👉 Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization.
 
+34. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
+
 ## 21. <a name='QA'></a>❓ Q & A
 
 1. [AI Office Bot](https://aiofficebot.com/) 👉 Generate & Explain formulas with AI on Airtable, Google Sheets, or Excel. Also support AI How Tos for Microsoft Office and Creative Suite
@@ -3680,8 +3680,6 @@ You can then use our AI engine to generate questions, topics and blog post outli
 5. [FinseaAI](https://finsea.ai/) 👉 Search the Stock Market, Crypto and everything Finance powered by AI
 
 6. [Gorilla AI](https://gorillaterminal.com/ai-landing) 👉 Use bleeding-edge AI to analyze stocks
-
-7. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
 
 8. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
 
