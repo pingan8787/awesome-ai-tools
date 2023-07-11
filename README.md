@@ -1270,41 +1270,43 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 85. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-86. [SEO GPT](https://seovendor.co/seo-gpt/) 👉 Create custom SEO titles and descriptions that passes AI detection by analyzing your target keyword and URL.
+86. [Safurai](https://www.safurai.com/) 👉 Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 
-87. [Shumai (by Meta)](https://github.com/facebookresearch/shumai/) 👉 Open-source, fast, network-connected, differentiable tensor library for TypeScript (and JavaScript).
+87. [SEO GPT](https://seovendor.co/seo-gpt/) 👉 Create custom SEO titles and descriptions that passes AI detection by analyzing your target keyword and URL.
 
-88. [SourceAI](https://sourceai.dev/) 👉 SourceAI is an AI-powered tool that can generate code in any programming language from any human language description. It can also simplify, find errors and fix them and debug your code.
+88. [Shumai (by Meta)](https://github.com/facebookresearch/shumai/) 👉 Open-source, fast, network-connected, differentiable tensor library for TypeScript (and JavaScript).
 
-89. [Spellbox](https://spellbox.app/) 👉 Create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
+89. [SourceAI](https://sourceai.dev/) 👉 SourceAI is an AI-powered tool that can generate code in any programming language from any human language description. It can also simplify, find errors and fix them and debug your code.
 
-90. [Spellbox](https://spellbox.app/) 👉 SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
+90. [Spellbox](https://spellbox.app/) 👉 Create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
 
-91. [SQLgenius](https://sqlgenius.app/) 👉 Turn English into SQL queries using AI
+91. [Spellbox](https://spellbox.app/) 👉 SpellBox uses artificial intelligence to create the code you need from simple prompts. Solve your toughest programming problems with AI in seconds!
 
-92. [Stenography](https://stenography.dev/) 👉 Finally. Automatic Documentation.
+92. [SQLgenius](https://sqlgenius.app/) 👉 Turn English into SQL queries using AI
 
-93. [SuperAI](https://rapidapi.com/guyskk/api/superai1) 👉 SuperAI GPT-3 chat API, help you implement a chatGPT-like conversation app.
+93. [Stenography](https://stenography.dev/) 👉 Finally. Automatic Documentation.
 
-94. [Sutro](https://withsutro.com/) 👉 Build and ship your own app in 5 minutes. Sutro enables entrepreneurs to focus on product ideas, and not on the tech.
+94. [SuperAI](https://rapidapi.com/guyskk/api/superai1) 👉 SuperAI GPT-3 chat API, help you implement a chatGPT-like conversation app.
 
-95. [Tabnine](https://www.tabnine.com/) 👉 Tabnine will help you write code faster – all in your favorite IDE.
+95. [Sutro](https://withsutro.com/) 👉 Build and ship your own app in 5 minutes. Sutro enables entrepreneurs to focus on product ideas, and not on the tech.
 
-96. [Tabnine](https://www.tabnine.com/) 👉 Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
+96. [Tabnine](https://www.tabnine.com/) 👉 Tabnine will help you write code faster – all in your favorite IDE.
 
-97. [Testkit](https://testkit.app/) 👉 Create and run end-to-end, integration, and visual regression tests without any code, with Testkit automagically taking care of fixing broken tests
+97. [Tabnine](https://www.tabnine.com/) 👉 Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.
 
-98. [Text2SQL.AI](https://www.text2sql.ai/) 👉 Generate SQL queries with AI in seconds!
+98. [Testkit](https://testkit.app/) 👉 Create and run end-to-end, integration, and visual regression tests without any code, with Testkit automagically taking care of fixing broken tests
 
-99. [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
+99. [Text2SQL.AI](https://www.text2sql.ai/) 👉 Generate SQL queries with AI in seconds!
 
-100.  [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
+100. [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
 
-101.  [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
+101.  [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
 
-102.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
+102.  [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
 
-103.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
+103.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
+
+104.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
 104.  [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
 
