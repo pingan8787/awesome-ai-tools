@@ -2278,7 +2278,7 @@ Join 2700+ creators to reach billions of people globally
 
 41. [NOLU](https://noluai.com/) 👉 A simple interface for interacting with the GPT-3 AI.
 
-42. [Onesta](https://www.onestafinance.com/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
+42. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
 
 43. [Oracle](https://askoracle.app/) 👉 Get instant answers to all your burning questions with Oracle. Simply ask on Slack and let our AI generate an answer for you. Connect Oracle to Slack, Google Docs, and Confluence with just one click and maximize your productivity.
 
@@ -3681,7 +3681,7 @@ You can then use our AI engine to generate questions, topics and blog post outli
 
 6. [Gorilla AI](https://gorillaterminal.com/ai-landing) 👉 Use bleeding-edge AI to analyze stocks
 
-7. [Onesta: Your AI Financial Assistant](https://www.onestafinance.com/) 👉 Our AI provides personalized advice and guidance on investments, budgeting, taxes, retirement, stocks, ETFs, and more. Our AI will help you make smarter decisions about your money and create a plan for your financial future.
+7. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
 
 8. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
 
