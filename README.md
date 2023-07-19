@@ -1328,6 +1328,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 114.  [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
 
+115.  [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
