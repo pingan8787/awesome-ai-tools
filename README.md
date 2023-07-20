@@ -792,57 +792,57 @@ A must-have toolkit for digital marketers, online shop owners, creators, and gra
 
 99. [iQuit.ai](https://iquit.ai/) 👉 Generates your resignation letter or email in seconds.
 
-100.  [Jaq n Jil](https://beta.jaqnjil.com/) 👉 Create more amazing content at blazing speeds with Jaq n Jil's AI writing assistant. Try it for free.
+100. [Jaq n Jil](https://beta.jaqnjil.com/) 👉 Create more amazing content at blazing speeds with Jaq n Jil's AI writing assistant. Try it for free.
 
-101.  [Jasper](https://www.jasper.ai/) 👉 Helps you create amazing content faster.
+101. [Jasper](https://www.jasper.ai/) 👉 Helps you create amazing content faster.
 
-102.  [Jasper.ai](https://www.jasper.ai/) 👉 Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
+102. [Jasper.ai](https://www.jasper.ai/) 👉 Jasper is the best AI writer and AI art generator for teams with over 3,000 5-star reviews. Create blog posts, marketing copy, and AI-generated images fast.
 
-103.  [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish.
+103. [Jester AI - Caption Writer](https://apps.apple.com/us/app/id1661372840) 👉 JESTER. An AI Assistant that writes clever photo captions for you. What does it do? Pick any photo and Jester will generate four unique captions. Choose your favorite and edit it as you wish.
 
-104.  [JibeWith.com](https://www.jibewith.com/) 👉 Writing online media content made simple with A.I. 🤩
+104. [JibeWith.com](https://www.jibewith.com/) 👉 Writing online media content made simple with A.I. 🤩
 
-105.  [Jokelub](https://jokelub.com/) 👉 Turn your writing into a joke at the click of your hand. Make people smile.
+105. [Jokelub](https://jokelub.com/) 👉 Turn your writing into a joke at the click of your hand. Make people smile.
 
-106.  [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI.
+106. [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI.
 
-107.  [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3.
+107. [Jot](https://www.jotapp.tech/) 👉 Jot automagically generates infinite ad copy variations for you using AI. Streamline your team's copywriting processes with artificial intelligence. Powered by OpenAI GPT-3.
 
-108.  [Jounce](https://www.jounce.ai/) 👉 There are over 55M marketers and only 600k copywriters. Jounce solves this demand gap with the most powerful artificial intelligence for marketers worldwide.
+108. [Jounce](https://www.jounce.ai/) 👉 There are over 55M marketers and only 600k copywriters. Jounce solves this demand gap with the most powerful artificial intelligence for marketers worldwide.
 
-109.  [Kafkai](https://kafkai.com/) 👉 Machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.
+109. [Kafkai](https://kafkai.com/) 👉 Machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.
 
-110.  [Katteb](https://katteb.com/en/) 👉 Katteb AI makes it fast & easy to create content for your blog and online store.
+110. [Katteb](https://katteb.com/en/) 👉 Katteb AI makes it fast & easy to create content for your blog and online store.
 
-111.  [Katteb AI Article Writer](https://katteb.com/en/) 👉 Automate Your Copywriting Needs With Katteb AI, Generate Content in Seconds With GPT-3 and J-JUMBO.
+111. [Katteb AI Article Writer](https://katteb.com/en/) 👉 Automate Your Copywriting Needs With Katteb AI, Generate Content in Seconds With GPT-3 and J-JUMBO.
 
-112.  [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant) 👉 Write SMS campaigns in seconds with Klaviyo’s new AI-powered SMS Assistant
+112. [Klaviyo SMS Assistant](https://www.klaviyo.com/product/whats-new/sms-assistant) 👉 Write SMS campaigns in seconds with Klaviyo’s new AI-powered SMS Assistant
 
-113.  [Lavender](https://www.lavender.ai/) 👉 It's everything you need to personalize faster, write more impactful emails, coach, and improve.
+113. [Lavender](https://www.lavender.ai/) 👉 It's everything you need to personalize faster, write more impactful emails, coach, and improve.
 
-114.  [LeadIQ](https://leadiq.com/compose-sales-messages) 👉 Compose complete, personalized messages in seconds
+114. [LeadIQ](https://leadiq.com/compose-sales-messages) 👉 Compose complete, personalized messages in seconds
 
-115.  [Lek](https://lek.ai/) 👉 Lek.ai is an AI toolkit which generates content with AI. There are over 20 use cases in lek.ai to help you write anything for everything.
+115. [Lek](https://lek.ai/) 👉 Lek.ai is an AI toolkit which generates content with AI. There are over 20 use cases in lek.ai to help you write anything for everything.
 
-116.  [Letterdrop](https://letterdrop.com/) 👉 Create 32% more content, faster, with fewer headaches.
+116. [Letterdrop](https://letterdrop.com/) 👉 Create 32% more content, faster, with fewer headaches.
 
-117.  [Lex](https://lex.page/) 👉 Unlock your best writing
+117. [Lex](https://lex.page/) 👉 Unlock your best writing
 
-118.  [Lex](https://lex.page/) 👉 Lex
+118. [Lex](https://lex.page/) 👉 Lex
 
-119.  [Lightkey](https://www.lightkey.io/) 👉 Turbocharge your typing using the world’s leading AI-powered writing assistant
+119. [Lightkey](https://www.lightkey.io/) 👉 Turbocharge your typing using the world’s leading AI-powered writing assistant
 
-120.  [Localio AI](https://localio.io/) 👉 Use Artificial Intelligence to Make Copywriting EASY for Local SEO, Google My Business Optimization, and ANY Other Digital Marketing Service.
+120. [Localio AI](https://localio.io/) 👉 Use Artificial Intelligence to Make Copywriting EASY for Local SEO, Google My Business Optimization, and ANY Other Digital Marketing Service.
 
-121.  [LongShot](https://longshot.ai/) 👉 Create blogs that humans and search engines love using Artificial intelligence.
+121. [LongShot](https://longshot.ai/) 👉 Create blogs that humans and search engines love using Artificial intelligence.
 
-122.  [LongShot AI](https://www.longshot.ai/) 👉 AI writing assistant for accurate, personalized, optimized content
+122. [LongShot AI](https://www.longshot.ai/) 👉 AI writing assistant for accurate, personalized, optimized content
 
-123.  [LuciaAI](https://luciaai.com/) 👉 Lucia is an advanced AI writing assistant. It can help you write better, faster, and more creatively.
+123. [LuciaAI](https://luciaai.com/) 👉 Lucia is an advanced AI writing assistant. It can help you write better, faster, and more creatively.
 
-124.  [Luna](https://getluna.dev/) 👉 Personalize Cold Emails Instantly with Luna. Automated messages are dead these days.
+124. [Luna](https://getluna.dev/) 👉 Personalize Cold Emails Instantly with Luna. Automated messages are dead these days.
 
-125.  [Lunna AI](https://lunna.ai/) 👉 Lunna AI is the world's most advanced artificial intelligence writing tool.
+125. [Lunna AI](https://lunna.ai/) 👉 Lunna AI is the world's most advanced artificial intelligence writing tool.
 
 She uses OpenAI's GPT-3 to generate high quality and engaging content for her blog or website. We have 10+ tools that are perfect for writers who want to create compelling original content quickly and easily.
 
@@ -1298,37 +1298,39 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 99. [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
 
-100.  [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
+100. [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
 
-101.  [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
+101. [Whatthediff](https://whatthediff.ai/) 👉 The AI powered GitHub app that explains the changes within your pull requests in plain english
 
-102.  [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
+102. [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots.
 
-103.  [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
+103. [Xokind](https://www.xokind.com/) 👉 AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.
 
-104.  [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
+104. [Safurai](https://www.safurai.com/) 👉 The AI Code Assistant that really helps developers.
 
-105.  [GitFluence](https://www.gitfluence.com/) 👉 AI-driven solution that helps you quickly find the right command.
+105. [GitFluence](https://www.gitfluence.com/) 👉 AI-driven solution that helps you quickly find the right command.
 
-106.  [MarsAi](https://www.marsx.dev) 👉 Low-code platform for building web and mobile app.
+106. [MarsAi](https://www.marsx.dev) 👉 Low-code platform for building web and mobile app.
 
-107.  [SuperAGI](https://superagi.com/) 👉 Infrastructure for building your next app with Autonomous Agents.
+107. [SuperAGI](https://superagi.com/) 👉 Infrastructure for building your next app with Autonomous Agents.
 
-108.  [One AI](https://www.oneai.com) 👉 Generative AI API for businesses.
+108. [One AI](https://www.oneai.com) 👉 Generative AI API for businesses.
 
-109.  [Pixelicious](https://www.pixelicious.xyz) 👉 Pixel Art Converter.
+109. [Pixelicious](https://www.pixelicious.xyz) 👉 Pixel Art Converter.
 
-110.  [Datature](https://datature.io) 👉 Manage datasets, annotate, train, and deploy.
+110. [Datature](https://datature.io) 👉 Manage datasets, annotate, train, and deploy.
 
-111.  [Mixo.io](https://mixo.io/) 👉 Launch a startup in seconds with AI.
+111. [Mixo.io](https://mixo.io/) 👉 Launch a startup in seconds with AI.
 
-112.  [Cron AI](https://cron-ai.vercel.app) 👉 Words to cron expression
+112. [Cron AI](https://cron-ai.vercel.app) 👉 Words to cron expression
 
-113.  [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
+113. [Gooey.AI](https://gooey.ai) 👉 Prototype how AI will integrate with your own site/app.
 
-114.  [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
+114. [fast.ai](https://www.fast.ai/) 👉 Non-profit research group focused on DL & AI, offering useful courses.
 
-115.  [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
+115. [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
+
+116. [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
 
 ## 4. <a name='Business'></a>👔 Business
 
@@ -3160,6 +3162,12 @@ You can then use our AI engine to generate questions, topics and blog post outli
 37. [Writemeacoverletter](https://writemeacoverletter.com/) 👉 Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.
 
 38. [Your Cover Letter](https://yourcoverletter.com/) 👉 Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.
+
+39. [SweetSpot](https://www.sweetspot.so/) 👉 Government contract bidding made easy.
+
+40. [Mano](https://www.usemano.com/) 👉 Do more with expert agents and 1-click actions.
+
+41. [Extend](https://www.extend.app/) 👉 AI-Powered workflows for unstructured data.
 
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
