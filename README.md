@@ -2352,6 +2352,8 @@ Join 2700+ creators to reach billions of people globally
 77. [PrivateGPT](https://privategpt.thesamur.ai/) 👉 Your offline personal AI Assistant. 100% Privacy and Secure.
 
 78. [Opera Aria](https://blogs.opera.com/desktop/2023/05/opera-unveils-integrated-browser-ai-aria/) 👉 Aria is an AI chatbot developed by Opera, integrated directly into their web browser sidebar. It acts as a virtual assistant, providing users with various features and capabilities.
+79. [aify.run](https://aify.run) 👉 AI-native application framework and runtime.
+Simply write a YAML file. Ready-to-use AI chatbot UI.
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
