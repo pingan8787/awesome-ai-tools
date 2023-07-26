@@ -1330,7 +1330,10 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 115.  [ZZZ Code AI](https://zzzcode.ai) 👉 AI-powered free website to get any programming question answered or code generated.
 
-116.  [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
+116. [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
+
+117. [aify.run](https://aify.run) 👉 AI-native application framework and runtime. Simply write a YAML file. Ready-to-use AI chatbot UI.
+
 
 ## 4. <a name='Business'></a>👔 Business
 
@@ -3027,6 +3030,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 43. [We Write Cards](https://wewritecards.com/) 👉 Personalized messages, lovingly crafted. Custom written messages for any occasion delivered in 30 seconds! Get Started. It's FREE! Occasions Birthdays The perfect words for that special someone on their birthday. Holidays Share the magic of Christmas and other special days. Life Events Lifes
 
 44. [Yoodli](https://app.yoodli.ai/) 👉 Improve your confidence with personalized communication coaching from Yoodli.
+45. [Emoji express](https://emoji.aify.run/) 👉 Find the perfect emoji to express your emotions and thoughts. Search emojis by semantics and input your senses, feelings, and thoughts.
 
 ## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
 
