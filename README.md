@@ -260,17 +260,19 @@
 
 111. [Hotpot](https://hotpot.ai/) 👉 Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.
 
-112. [I Wear Art](https://iwear.art/) 👉 Create unique art with AI, and wear it on your apparel.
+112. [Human Generator]([https://hotpot.ai/](https://generated.photos/human-generator)) 👉 Human Generator allows you to generate realistic human photos in different forms and locations
+     
+114. [I Wear Art](https://iwear.art/) 👉 Create unique art with AI, and wear it on your apparel.
 
-113. [Iillustrate](https://iillustrate.ai/) 👉 I, illustrate
+115. [Iillustrate](https://iillustrate.ai/) 👉 I, illustrate
 
-114. [IllostrationAI](https://www.illostration.com/) 👉 Create AI-generated illustrations. In seconds.
+116. [IllostrationAI](https://www.illostration.com/) 👉 Create AI-generated illustrations. In seconds.
 
-115. [Illustroke](https://illustroke.com/) 👉 Illustroke allows users to easily create stunning vector illustrations (svg) from text prompts. Simply enter in the text you want to use, and our platform will generate a beautiful, customizable illustration that you can download and use on your website or social media. Our illustrations are perfect for adding a unique and eye-catching touch to your online content. Plus, with our SEO-friendly platform, your illustrations will be sure to boost your search engine rankings and drive more traffic to your website. Try it out today and see the difference it can make for your online presence! Text to SVG illustration AI
+117. [Illustroke](https://illustroke.com/) 👉 Illustroke allows users to easily create stunning vector illustrations (svg) from text prompts. Simply enter in the text you want to use, and our platform will generate a beautiful, customizable illustration that you can download and use on your website or social media. Our illustrations are perfect for adding a unique and eye-catching touch to your online content. Plus, with our SEO-friendly platform, your illustrations will be sure to boost your search engine rankings and drive more traffic to your website. Try it out today and see the difference it can make for your online presence! Text to SVG illustration AI
 
-116. [Illustrur](https://www.illustrur.com/) 👉 Get customized illustrations for your articles, blogposts, stories in one click
+118. [Illustrur](https://www.illustrur.com/) 👉 Get customized illustrations for your articles, blogposts, stories in one click
 
-117. [Image AI App](https://imageai.app/) 👉 Unleash your imagination with AI-powered images.
+119. [Image AI App](https://imageai.app/) 👉 Unleash your imagination with AI-powered images.
 
 Image AI App is a tool that utilizes artificial intelligence (AI) to generate various types of images such as anime, art & more. It allows users to tap into the power of AI to create custom images that are tailored to their specific needs & preferences.
 
