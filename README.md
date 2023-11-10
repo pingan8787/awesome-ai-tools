@@ -592,6 +592,8 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
+1. [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) 👉 One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
+
 1. [AI Cowriter](https://ai-cowriter.com/) 👉 Write 10x faster with AI-generated autocomplete text suggestions
 
 2. [AI Email Creator](https://ai-emailwriter.com/) 👉 Effortless Email Creation with GPT-3. Streamline your email communication with ChatGPT-powered templates.
