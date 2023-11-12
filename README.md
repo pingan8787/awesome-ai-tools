@@ -1096,6 +1096,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 247. [Saga AI](https://saga.so/ai) 👉 Saga AI is the creative assistant inside Saga that helps you draft content, generate creative ideas, fix grammar, and translate to more than 20 languages in 1 click next to all your notes and tasks.
 
+248. [Clap](https://chatlikea.pro) 👉 AI Writing Partner for a Distraction-Free, Seamless Typing Experience.
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
@@ -2503,6 +2505,8 @@ Join 2700+ creators to reach billions of people globally
 58. [ExamCram](https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/) 👉 Study with AI to convert media into study material
 
 59. [Wilco Sierra](https://trywilco.com/sierra) 👉 A platform that generates engineering challenges for software engineers using AI.
+
+60. [CodeKidz](https://codekidz.ai) 👉 AI-powered programming learning platform for kids, featuring AI teachers to teach Python basics, problem-solving, and creativity with human-like responses.
 
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
