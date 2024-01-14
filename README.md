@@ -1537,6 +1537,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 100. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the tasks that slow you down. Work through the mundane. Focus on the meaning.
 
 101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
+102. [Cald.ai](https://cald.ai/) 👉 Revolutionize Your Business Phone Communication with AI-Powered Conversational Agents, Reduce Call Center and Customer Support Costs by 90%.
 
 ## 5. <a name='Video'></a>🎥 Video
 
