@@ -1508,35 +1508,37 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 87. [Symanto Text Insights](https://www.symanto.com/get-in-touch/) 👉 Market Leading NLP API. Leverage text data for better business insights with real-time analysis and simple system integration.
 
-88. [Tekst](https://www.tekst.ai/) 👉 Boosting Customer Support with AI
+88. [Taskade](https://www.taskade.com/) 👉 AI-powered task automation, mind mapping, and project management. Build, train, and customize your own AI Agents and collaborate with your virtual team.
 
-89. [theGist AI](https://www.thegist.ai/) 👉 Summarize Slack thread and channels. Get the gist of it
+89. [Tekst](https://www.tekst.ai/) 👉 Boosting Customer Support with AI
 
-90. [Tiledesk](https://tiledesk.com/) 👉 Combine Free Live Chat with Open-Source Chatbots to boost ROI. Integrate Chatbots with WhatsApp or other channels to have one inbox for all communications.
+90. [theGist AI](https://www.thegist.ai/) 👉 Summarize Slack thread and channels. Get the gist of it
 
-91. [Tweetmonk](https://tweetmonk.com/) 👉 Create rich Twitter content using AI models & schedule tweets and threads.
+91. [Tiledesk](https://tiledesk.com/) 👉 Combine Free Live Chat with Open-Source Chatbots to boost ROI. Integrate Chatbots with WhatsApp or other channels to have one inbox for all communications.
 
-92. [Typewise](https://www.typewise.app/) 👉 Boosting customer service and sales productivity.
+92. [Tweetmonk](https://tweetmonk.com/) 👉 Create rich Twitter content using AI models & schedule tweets and threads.
 
-93. [Unbound AI](https://www.unboundcontent.ai/ai-product-photography/) 👉 Generate high definition AI product photos and business marketing content.
+93. [Typewise](https://www.typewise.app/) 👉 Boosting customer service and sales productivity.
 
-94. [User Evaluation](https://userevaluation.com/) 👉 Introducing User Evaluation, the ultimate customer research tool. It's an AI-powered software, designed to revolutionize the way you evaluate and interact with your users! Analyze research, chat with AI to learn from data, and present findings with ease.
+94. [Unbound AI](https://www.unboundcontent.ai/ai-product-photography/) 👉 Generate high definition AI product photos and business marketing content.
 
-95. [Userevaluation](https://www.userevaluation.com/) 👉 Whether you're focused on UI, UX Research, Design, or CX – User Evaluation's AI can answer all your questions. Get started for free!
+95. [User Evaluation](https://userevaluation.com/) 👉 Introducing User Evaluation, the ultimate customer research tool. It's an AI-powered software, designed to revolutionize the way you evaluate and interact with your users! Analyze research, chat with AI to learn from data, and present findings with ease.
 
-96. [Userpersona](https://userpersona.dev/) 👉 Create detailed user personas quickly and easily with UserPersona.dev! Our platform uses a short description of your product or service to generate ideal customer profiles that will help you target the right audiences, drive conversions, and get better results from your marketing efforts.
+96. [Userevaluation](https://www.userevaluation.com/) 👉 Whether you're focused on UI, UX Research, Design, or CX – User Evaluation's AI can answer all your questions. Get started for free!
 
-97. [Usetwain](https://www.usetwain.com/) 👉 World-class selling skills at your fingertips. Use Twain for free to see what your sales pitch is missing.
+97. [Userpersona](https://userpersona.dev/) 👉 Create detailed user personas quickly and easily with UserPersona.dev! Our platform uses a short description of your product or service to generate ideal customer profiles that will help you target the right audiences, drive conversions, and get better results from your marketing efforts.
 
-98. [Validly](https://www.validly.app/) 👉 Product teams use Validly to gain deep insights from continuous user interviews 10x faster. The tool automates recruitment and scheduling, generates discussion guides, facilitates video interviews, and uses AI to extract insights from call transcripts. With Validly, product teams can quickly uncover user needs, and build products that delight their customers.
+98. [Usetwain](https://www.usetwain.com/) 👉 World-class selling skills at your fingertips. Use Twain for free to see what your sales pitch is missing.
 
-99. [WriteMyPrd](https://writemyprd.com/) 👉 Make Writing PRDs a Breeze with GPT-3
+99. [Validly](https://www.validly.app/) 👉 Product teams use Validly to gain deep insights from continuous user interviews 10x faster. The tool automates recruitment and scheduling, generates discussion guides, facilitates video interviews, and uses AI to extract insights from call transcripts. With Validly, product teams can quickly uncover user needs, and build products that delight their customers.
+
+100. [WriteMyPrd](https://writemyprd.com/) 👉 Make Writing PRDs a Breeze with GPT-3
 
 Describe the problem your product/service solves. Help the bot with top level information, and let it give you something you can build on.
 
-100. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the tasks that slow you down. Work through the mundane. Focus on the meaning.
+101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the tasks that slow you down. Work through the mundane. Focus on the meaning.
 
-101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
+102. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
 ## 5. <a name='Video'></a>🎥 Video
 
