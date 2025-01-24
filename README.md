@@ -1538,6 +1538,9 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 101. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+102.  [Twig](https://www.twig.so/) 👉 Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+
+
 ## 5. <a name='Video'></a>🎥 Video
 
 1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
