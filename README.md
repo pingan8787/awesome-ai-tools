@@ -1096,6 +1096,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 247. [Saga AI](https://saga.so/ai) 👉 Saga AI is the creative assistant inside Saga that helps you draft content, generate creative ideas, fix grammar, and translate to more than 20 languages in 1 click next to all your notes and tasks.
 
+248.  [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input. 
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
