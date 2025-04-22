@@ -1208,11 +1208,12 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 55. [Github Copilot](https://github.com/features/copilot) 👉 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-56. [Godly](https://godly.ai/) 👉 Godly makes it easy to add your own data to GPT3 for personalized completions.
+56. [GoCodeo](https://www.gocodeo.com/) 👉 AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.
+57. [Godly](https://godly.ai/) 👉 Godly makes it easy to add your own data to GPT3 for personalized completions.
 
-57. [Gooey.AI](https://gooey.ai/) 👉 With Gooey.AI, every company is an AI company. We make Generative AI radically simple. From idea to product in minutes with no code. Find, tweak and fork AI workflows to your own website or app. All from one billing account to access them all.
+58. [Gooey.AI](https://gooey.ai/) 👉 With Gooey.AI, every company is an AI company. We make Generative AI radically simple. From idea to product in minutes with no code. Find, tweak and fork AI workflows to your own website or app. All from one billing account to access them all.
 
-58. [GPT95 - A ChatGPT extension, with a retro look](https://gpt95.com/) 👉 This Visual Studio Code extension allows you to use ChatGPT combined with our Fine-Tuned GPT3 Code Model to generate code or natural language responses to your questions.
+59. [GPT95 - A ChatGPT extension, with a retro look](https://gpt95.com/) 👉 This Visual Studio Code extension allows you to use ChatGPT combined with our Fine-Tuned GPT3 Code Model to generate code or natural language responses to your questions.
 
 Automatically generate code from scratch, ask questions, get explanations, refactor code, find bugs and more!
 
