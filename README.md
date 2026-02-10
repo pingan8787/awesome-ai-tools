@@ -1731,6 +1731,8 @@ Join 2700+ creators to reach billions of people globally
 
 92. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
 
+93. [HeyVid](https://heyvid.ai) 👉 Free AI video & image generator with text-to-video, image-to-video, and AI art capabilities.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
