@@ -58,7 +58,9 @@
 
 10. [AI Image Enlarger](https://imglarger.com/) 👉 AI Image Enlarger & Enhancer Tools
 
-11. [AI Images - Text to Art](https://apps.apple.com/us/app/ai-images-text-to-art/id1659289205) 👉 Introducing AI Image Generator, the free app that allows you to create stunning images and art with just a single text prompt.
+11. [AI Image Lab](https://aiimagelab.art/) 👉 Free AI image generator with curated prompt library across 8 categories. 4K output.
+
+12. [AI Images - Text to Art](https://apps.apple.com/us/app/ai-images-text-to-art/id1659289205) 👉 Introducing AI Image Generator, the free app that allows you to create stunning images and art with just a single text prompt.
 
 12. [AI Personalized Children's Book](https://imajinn.ai/storybook/) 👉 Create a beautiful custom children's book featuring AI generated images of your child.
 
