@@ -2102,6 +2102,8 @@ Join 2700+ creators to reach billions of people globally
 
 70. [PicWish](https://picwish.com/) 👉 PicWish is an AI-powered image processing tool that frees you up from repetitive tasks for more valuable creative work.
 
+71. [Moire Removal](https://moireremoval.com/) 👉 AI-powered moiré pattern removal tool for screen photos, scanned prints, and projector captures. Preserves text legibility and facial details.
+
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
