@@ -2519,6 +2519,8 @@ Join 2700+ creators to reach billions of people globally
 
 59. [Wilco Sierra](https://trywilco.com/sierra) 👉 A platform that generates engineering challenges for software engineers using AI.
 
+60. [CiteMe](https://www.citeme.ai/) 👉 AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats in 40+ CSL styles (APA, MLA, Chicago, ABNT). Available as browser extension, Google Docs add-on, and Word add-in.
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
