@@ -1340,7 +1340,9 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 117. [Bifrost](https://www.bifrost.so/) 👉 Use AI to turn your Figma designs into clean React code automatically.
 
-117. [Codeflash](https://www.codeflash.ai/) 👉 Ship Blazing-Fast Python Code — Every Time.
+118. [Codeflash](https://www.codeflash.ai/) 👉 Ship Blazing-Fast Python Code — Every Time.
+
+119. [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) 👉 Framework for diagnosing RAG and LLM pipeline failures.
 
 ## 4. <a name='Business'></a>👔 Business
 
