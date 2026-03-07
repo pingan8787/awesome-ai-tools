@@ -3338,6 +3338,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 261. [ZeitPub](https://zeitpub.com/) 👉 Zeitpub | The future of publishing is here
 
 262. [Zevi](https://www.zevi.ai/) 👉 Zevi is an neural search engine for ecommerce brands. It enables website's search and merchandising functionality, improving user experience, and sales performance.
+     
+262. [Serplux](https://serplux.com/) 👉 Supercharge your SEO and content workflows with Serplux's AI-powered agents. Automate insights, accelerate organic growth, and unlock revenue - all without lifting a finger.
+     
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
