@@ -1342,6 +1342,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 117. [Codeflash](https://www.codeflash.ai/) 👉 Ship Blazing-Fast Python Code — Every Time.
 
+118. [BurnRate](https://getburnrate.io/) 👉 AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex with real-time dashboard and 46 optimization rules.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
