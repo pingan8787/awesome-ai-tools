@@ -2246,6 +2246,8 @@ Join 2700+ creators to reach billions of people globally
 
 67. [Writefull Academizer](https://x.writefull.com/academizer) 👉 Change your text from informal to formal and academic with Writefull's Academizer. Enter informal text and Writefull's AI makes it academic.
 
+68. [WhisperAPI](https://whisper-api.com/) 👉 Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
+
 ## 9. <a name='Chatbots'></a>💬 Chatbots
 
 1. [AI Answers by Cohere](https://cohere.io/) 👉 AI-powered support assistance that finds answers from previous tickets
