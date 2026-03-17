@@ -1745,6 +1745,8 @@ Join 2700+ creators to reach billions of people globally
 
 92. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
 
+93. [MaxVideoAI](https://maxvideoai.com/models) 👉 Multi-engine AI video model catalog with specs, pricing, examples, and engine comparisons across Sora, Veo, Kling, Seedance, Wan, LTX, and Pika.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
