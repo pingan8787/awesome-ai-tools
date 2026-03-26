@@ -1747,6 +1747,8 @@ Join 2700+ creators to reach billions of people globally
 
 93. [MaxVideoAI](https://maxvideoai.com/models) 👉 Multi-engine AI video model catalog with specs, pricing, examples, and engine comparisons across Sora, Veo, Kling, Seedance, Wan, LTX, and Pika.
 
+94. [PVID](http://pvid.app/) 👉 Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
