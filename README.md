@@ -1346,6 +1346,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 119. [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
 
+- [Clarvia](https://clarvia.art) 👉 AEO (AI Engine Optimization) scoring and tool discovery for AI agents. Evaluate 15,400+ MCP servers, APIs, and CLIs for agent-readiness.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
