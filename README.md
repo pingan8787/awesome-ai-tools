@@ -1344,6 +1344,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 118. [BurnRate](https://getburnrate.io/) 👉 AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex with real-time dashboard and 46 optimization rules.
 
+120. [claude-dash](https://github.com/krabat-l/claude-dash) 👉 Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status. Zero dependencies.
+
 119. [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
 
 120. [LocalePack](https://localepack.app/) 👉 Translate browser extension strings (messages.json → _locales ZIP), Next.js locale files, i18next namespaces, and vue-i18n JSON/YAML into 52 languages. Placeholders and nested structure preserved. Pay once.
