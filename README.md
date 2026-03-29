@@ -1346,6 +1346,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 119. [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
 
+120. [LocalePack](https://localepack.app/) 👉 Translate browser extension strings (messages.json → _locales ZIP), Next.js locale files, i18next namespaces, and vue-i18n JSON/YAML into 52 languages. Placeholders and nested structure preserved. Pay once.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
