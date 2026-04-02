@@ -1695,6 +1695,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 67. [Synthesia](https://www.synthesia.io/) 👉 Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.
 
+68. [ClipSpeedAI](https://clipspeed.ai) 👉 AI-powered video clipping tool that automatically identifies the most engaging moments from long-form videos. Perfect for Twitch streamers, YouTubers, and podcasters.
+
 68. [TalkingPhoto by Movio](https://app.movio.la/templates) 👉 Make videos as simply as making PowerPoints. Movio is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process. With Movio, you can create an AI spokesperson video in minutes for corporate training, online learning, explainer videos, e-commerce campaign and much more!
 
 69. [Taption](https://www.taption.com/en-US) 👉 Feature-rich platform that gives you high-quality transcriptions and subtitles for videos
