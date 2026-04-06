@@ -3654,6 +3654,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## 21. <a name='QA'></a>❓ Q & A
 
 1. [AI Office Bot](https://aiofficebot.com/) 👉 Generate & Explain formulas with AI on Airtable, Google Sheets, or Excel. Also support AI How Tos for Microsoft Office and Creative Suite
