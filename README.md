@@ -2413,6 +2413,8 @@ Join 2700+ creators to reach billions of people globally
 
 77. [Opera Aria](https://blogs.opera.com/desktop/2023/05/opera-unveils-integrated-browser-ai-aria/) 👉 Aria is an AI chatbot developed by Opera, integrated directly into their web browser sidebar. It acts as a virtual assistant, providing users with various features and capabilities.
 
+78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
