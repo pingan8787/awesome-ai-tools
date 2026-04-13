@@ -1983,6 +1983,8 @@ Join 2700+ creators to reach billions of people globally
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
+1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
+
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
 
 2. [AI Designer](https://imgcreator.zmo.ai/editor) 👉 Create art and images with AI for free. ImgCreator.ai can generate images, art, illustrations, anime, logos, designs from text and images. Our proprietary technology will bring your imagination to life.
