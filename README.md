@@ -1561,6 +1561,10 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 102.  [Twig](https://www.twig.so/) 👉 Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 
+103. [Overloop CLI](https://github.com/sortlist/overloop-cli) 👉 AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
+
+104. [Signals CLI](https://github.com/sortlist/signals-cli) 👉 Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
+
 
 ## 5. <a name='Video'></a>🎥 Video
 
