@@ -2125,6 +2125,8 @@ Join 2700+ creators to reach billions of people globally
 
 71. [Moire Removal](https://moireremoval.com/) 👉 AI-powered moiré pattern removal tool for screen photos, scanned prints, and projector captures. Preserves text legibility and facial details.
 
+72. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription.
+
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
