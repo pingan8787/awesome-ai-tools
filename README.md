@@ -1353,6 +1353,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 1. [CCHub](https://github.com/Moresl/cchub) 👉 Open-source desktop app (Tauri + Rust) for managing the Claude Code ecosystem — MCP marketplace, config profiles, workflow templates, security audit. Cross-platform, MIT licensed.
 
+2. [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
