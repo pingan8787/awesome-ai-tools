@@ -3386,89 +3386,91 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
 
-2. [AI Rental Cover Letter](https://sharehouse.app/ai) 👉 Stand out from the crowd with an AI-Powered Rental Cover Letter. With an AI-Powered Rental Reference, renters can quickly and easily generate cover letters that are tailored to their specific needs and situations, giving them a better chance of securing a rental property.
+2. [AI Dev Jobs](https://aidevboard.com/) 👉 Curated board of 8,400+ AI/ML engineering jobs from 480+ companies, with a free public REST API and MCP server for agents to search roles by skill, location, and salary.
 
-3. [AI Resume Editor](https://www.rezi.ai/ai-resume-editor) 👉 1-click perfect your resume content by instantly re-writing your bullet points following the best practices in the industry with ATS-friendly ai resume builder.
+3. [AI Rental Cover Letter](https://sharehouse.app/ai) 👉 Stand out from the crowd with an AI-Powered Rental Cover Letter. With an AI-Powered Rental Reference, renters can quickly and easily generate cover letters that are tailored to their specific needs and situations, giving them a better chance of securing a rental property.
 
-4. [ApplicantAI](https://www.applicantai.com/welcome) 👉 Generate Resumes and Cover Letters throught the power of AI
+4. [AI Resume Editor](https://www.rezi.ai/ai-resume-editor) 👉 1-click perfect your resume content by instantly re-writing your bullet points following the best practices in the industry with ATS-friendly ai resume builder.
 
-5. [Campbell](https://review.gobudapest.io/) 👉 Writing the effective performance review with AI
+5. [ApplicantAI](https://www.applicantai.com/welcome) 👉 Generate Resumes and Cover Letters throught the power of AI
 
-6. [Cover Letter AI](https://coverletter-ai.com/) 👉 The ultimate tool for crafting the perfect cover letter
+6. [Campbell](https://review.gobudapest.io/) 👉 Writing the effective performance review with AI
 
-7. [Coverler](https://coverler.com/) 👉 Coverler creates cover letters for job applications in seconds. The letters are based on applicant resume and vacancy details so are unique and save hours on manual writing.
+7. [Cover Letter AI](https://coverletter-ai.com/) 👉 The ultimate tool for crafting the perfect cover letter
 
-8. [coverletter.app](https://coverletter.app/) 👉 Our AI-generated cover letters offer a range of features to help you stand out from the competition and increase your chances of getting hired.
+8. [Coverler](https://coverler.com/) 👉 Coverler creates cover letters for job applications in seconds. The letters are based on applicant resume and vacancy details so are unique and save hours on manual writing.
 
-9. [Coverletterwrite](https://coverletterwrite.com/) 👉 Ask AI to write a personalized cover letter.
+9. [coverletter.app](https://coverletter.app/) 👉 Our AI-generated cover letters offer a range of features to help you stand out from the competition and increase your chances of getting hired.
 
-10. [Coverquick](https://www.coverquick.co/) 👉 Apply with confidence.
+10. [Coverletterwrite](https://coverletterwrite.com/) 👉 Ask AI to write a personalized cover letter.
 
-11. [Excuses AI](https://excuses.ai/) 👉 Generate excuses with AI for when you mess up
+11. [Coverquick](https://www.coverquick.co/) 👉 Apply with confidence.
 
-12. [Explain An Error](https://explain.whybug.com/) 👉 Explain by Whybug
+12. [Excuses AI](https://excuses.ai/) 👉 Generate excuses with AI for when you mess up
 
-13. [Geniusreview](https://geniusreview.xyz/) 👉 Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.
+13. [Explain An Error](https://explain.whybug.com/) 👉 Explain by Whybug
 
-14. [Hire Hoc](https://hirehoc.com/) 👉 Hire Hoc | The AI Powered Hiring Tool
+14. [Geniusreview](https://geniusreview.xyz/) 👉 Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.
 
-15. [Hirex.ai](https://www.hirex.ai/) 👉 Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. Conduct more than 10,000 interviews in a day using voice-based bots without human intervention at scale.
+15. [Hire Hoc](https://hirehoc.com/) 👉 Hire Hoc | The AI Powered Hiring Tool
 
-16. [HireYaY](https://hireyay.com/) 👉 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again.
+16. [Hirex.ai](https://www.hirex.ai/) 👉 Welcome to hirex.ai, a no-code AI platform to build voice-based bots that conduct and score interviews at scale. Get the complete suite of assessments tools like coding interviews, MCQ tests, hackathons, video interviews, and WhatsApp chatbots all under single dashboard. Conduct more than 10,000 interviews in a day using voice-based bots without human intervention at scale.
 
-17. [JD Generator](https://hirequotient.com/free-jd-generator) 👉 Make a stellar Job Description in minutes and make better hires with HireQuotient’s online JD Generator. Get Started for Free!
+17. [HireYaY](https://hireyay.com/) 👉 92% of job seekers do not finish their online application. With HireYaY, you will never miss a qualified candidate again.
 
-18. [JobtitlesAI](https://jobtitlesai.com/) 👉 Categorize job titles by field (sales, finance, I.T...) and position (executive, management, assistant...) so you can automate your lead qualification. Clean your CRM, prioritize LinkedIn profiles, organize job offers, and more
+18. [JD Generator](https://hirequotient.com/free-jd-generator) 👉 Make a stellar Job Description in minutes and make better hires with HireQuotient’s online JD Generator. Get Started for Free!
 
-19. [Kickresume](https://www.kickresume.com/en/) 👉 Create your best resume yet. Online resume and cover letter builder used by 2,000,000+ job seekers worldwide. Professional templates approved by recruiters.
+19. [JobtitlesAI](https://jobtitlesai.com/) 👉 Categorize job titles by field (sales, finance, I.T...) and position (executive, management, assistant...) so you can automate your lead qualification. Clean your CRM, prioritize LinkedIn profiles, organize job offers, and more
 
-20. [LazyApply](https://lazyapply.com/cover-letter-generator) 👉 Generate catchy and convincing cover letter using LazyApply AI cover letter generator tool.
+20. [Kickresume](https://www.kickresume.com/en/) 👉 Create your best resume yet. Online resume and cover letter builder used by 2,000,000+ job seekers worldwide. Professional templates approved by recruiters.
 
-21. [MajorGen](https://www.majorgen.com/) 👉 MajorGen helps you create professional resumes and cover letters in just seconds with the power of AI.
+21. [LazyApply](https://lazyapply.com/cover-letter-generator) 👉 Generate catchy and convincing cover letter using LazyApply AI cover letter generator tool.
 
-22. [Moly](https://moly.ai/) 👉 The AI Assistant for Recruiters
+22. [MajorGen](https://www.majorgen.com/) 👉 MajorGen helps you create professional resumes and cover letters in just seconds with the power of AI.
 
-23. [NetworkAI](https://www.wonsulting.com/networkai) 👉 NetworkAI shows you who to connect with and what to say. Grow your LinkedIn network with speed, quality, and ease. ????
+23. [Moly](https://moly.ai/) 👉 The AI Assistant for Recruiters
 
-24. [Paralegal AI](https://www.legalquestions.help/) 👉 AI Powered Legal Research and Summaries.
+24. [NetworkAI](https://www.wonsulting.com/networkai) 👉 NetworkAI shows you who to connect with and what to say. Grow your LinkedIn network with speed, quality, and ease. ????
 
-25. [Proposal Genie](https://chrome.google.com/webstore/detail/proposal-genie/fogoljmljcflnonheindbcbgdkijiahn) 👉 An AI-based Tool that helps freelancers to generate a proposal for a job in Upwork using minimal inputs form user.
+25. [Paralegal AI](https://www.legalquestions.help/) 👉 AI Powered Legal Research and Summaries.
 
-26. [Proposalgenie](https://www.proposalgenie.ai/) 👉 Write the Perfect Freelancing proposal in seconds
+26. [Proposal Genie](https://chrome.google.com/webstore/detail/proposal-genie/fogoljmljcflnonheindbcbgdkijiahn) 👉 An AI-based Tool that helps freelancers to generate a proposal for a job in Upwork using minimal inputs form user.
 
-27. [Recommendme](https://www.recommendme.to/) 👉 AI powered recommendation, reference and cover letter writer.
+27. [Proposalgenie](https://www.proposalgenie.ai/) 👉 Write the Perfect Freelancing proposal in seconds
 
-28. [Resign](https://www.resign.ai/) 👉 When it comes to quitting a job, the most important thing you can do is give your employer enough notice so they have time to find a replacement. One way of
+28. [Recommendme](https://www.recommendme.to/) 👉 AI powered recommendation, reference and cover letter writer.
 
-29. [ResumAI](https://www.wonsulting.com/resumai) 👉 Stop wasting time on resumes. Automatically create the perfect resume for free with ResumAI, your AI powered resume creator. Backed by career and job finding experts. ????
+29. [Resign](https://www.resign.ai/) 👉 When it comes to quitting a job, the most important thing you can do is give your employer enough notice so they have time to find a replacement. One way of
 
-30. [Resume Check](https://resumecheck.net/) 👉 Correct your Resume with GPT3 🤖 Use AI to make your Resume stand out and be without grammar mistakes.
+30. [ResumAI](https://www.wonsulting.com/resumai) 👉 Stop wasting time on resumes. Automatically create the perfect resume for free with ResumAI, your AI powered resume creator. Backed by career and job finding experts. ????
 
-31. [Resume Studio](https://resumestudio.careers/) 👉 Looking for a resume builder? Check out Resume studio - it's simple and easy to use! With our AI-powered functionalities, you can create a resume in minutes !
+31. [Resume Check](https://resumecheck.net/) 👉 Correct your Resume with GPT3 🤖 Use AI to make your Resume stand out and be without grammar mistakes.
 
-32. [Resume Worded](https://resumeworded.com/index.php) 👉 Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.
+32. [Resume Studio](https://resumestudio.careers/) 👉 Looking for a resume builder? Check out Resume studio - it's simple and easy to use! With our AI-powered functionalities, you can create a resume in minutes !
 
-33. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+33. [Resume Worded](https://resumeworded.com/index.php) 👉 Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.
 
-34. [SheetAI App](https://www.sheetai.app/) 👉 Unlock the Power of AI in your Spreadsheets
+34. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-35. [Spellbook](https://www.spellbook.legal/) 👉 Draft contracts 3x faster with AI.
+35. [SheetAI App](https://www.sheetai.app/) 👉 Unlock the Power of AI in your Spreadsheets
 
-36. [Upcat](https://upcat.app/) 👉 Use A.I. to enhance your job search on Upwork with personalized proposals and real-time alerts.
+36. [Spellbook](https://www.spellbook.legal/) 👉 Draft contracts 3x faster with AI.
 
-37. [Writemeacoverletter](https://writemeacoverletter.com/) 👉 Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.
+37. [Upcat](https://upcat.app/) 👉 Use A.I. to enhance your job search on Upwork with personalized proposals and real-time alerts.
 
-38. [Your Cover Letter](https://yourcoverletter.com/) 👉 Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.
+38. [Writemeacoverletter](https://writemeacoverletter.com/) 👉 Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.
 
-39. [SweetSpot](https://www.sweetspot.so/) 👉 Government contract bidding made easy.
+39. [Your Cover Letter](https://yourcoverletter.com/) 👉 Apply for your dream jobs using our AI Cover Letter builder. Add your Resume and the Job Description to generate a Cover Letter in seconds.
 
-40. [Mano](https://www.usemano.com/) 👉 Do more with expert agents and 1-click actions.
+40. [SweetSpot](https://www.sweetspot.so/) 👉 Government contract bidding made easy.
 
-41. [Extend](https://www.extend.app/) 👉 AI-Powered workflows for unstructured data.
+41. [Mano](https://www.usemano.com/) 👉 Do more with expert agents and 1-click actions.
 
-42. [Resume Screener AI](https://www.extend.app/) 👉 a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders.
+42. [Extend](https://www.extend.app/) 👉 AI-Powered workflows for unstructured data.
 
-43. [VisaCanvas](https://visacanvas.com/) 👉 AI-powered EB1A and NIW visa eligibility assessment tool that evaluates your profile against all 10 USCIS extraordinary ability criteria with detailed scoring and guidance.
+43. [Resume Screener AI](https://www.extend.app/) 👉 a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders.
+
+44. [VisaCanvas](https://visacanvas.com/) 👉 AI-powered EB1A and NIW visa eligibility assessment tool that evaluates your profile against all 10 USCIS extraordinary ability criteria with detailed scoring and guidance.
 
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
