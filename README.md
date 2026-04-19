@@ -1357,6 +1357,11 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 2. [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
 
+
+3. [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) 👉 Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+
+4. [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) 👉 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline with visual dashboard and one-click install.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
