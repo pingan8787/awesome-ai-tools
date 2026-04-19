@@ -4071,3 +4071,6 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 14. [AI Dating Simulator](https://boredhumans.com/dating.php) 👉 Practice going on dates. Free, no signup needed.
 
 15. [DatingAI.pro](https://datingai.pro/) 👉 DatingAI.pro is an AI Dating assistant to help you up your dating game by helping you write an AI-generated impressive bio, impress your dates with amazing pickup lines, and get smart replies to their messages.
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT.
