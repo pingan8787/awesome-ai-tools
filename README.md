@@ -4040,6 +4040,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 14. [AI Creator Circle](https://aicreatorcircle.com/) 👉 A community for AI & ChatGPT creatives with 95,000+ members
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ## 30. <a name='DatingRelationships'></a>💌 Dating & Relationships
 
 1. [AI Pickup Lines Generator](https://www.aipickuplines.com/) 👉 Generate the most clever, funny, and smooth pickup lines that are guaranteed to make anyone swoon. Say goodbye to awkward silences and hello to a successful dating life with the AI-powered pickup lines generator!
