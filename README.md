@@ -1357,6 +1357,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 2. [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
 
+117.  [poorcoder](https://github.com/vgrichina/poorcoder) 👉 Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
