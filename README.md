@@ -3482,61 +3482,63 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 5. [ChatMind](https://www.chatmind.tech/) 👉 Generating and Modifying Mind Maps through AI Dialogue
 
-6. [DetangleAI](https://detangle.ai/) 👉 Summarize any video, audio or text using AI
+6. [MindMap AI](https://mindmapai.app/text-summarizer) 👉 Convert PDFs, videos, text into structured mind maps with AI Copilot
 
-7. [Gimme Summary AI](https://gimmesummary.ai/) 👉 Free chrome extension to summarize articles on the web using ChatGPT AI
+7. [DetangleAI](https://detangle.ai/) 👉 Summarize any video, audio or text using AI
 
-8. [Glasp](https://glasp.co/ai-writing) 👉 Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
+8. [Gimme Summary AI](https://gimmesummary.ai/) 👉 Free chrome extension to summarize articles on the web using ChatGPT AI
 
-9. [Headline-ai](https://headline-ai.com/) 👉 Using advanced AI to quickly and accurately summarize news content, academic articles and more
+9. [Glasp](https://glasp.co/ai-writing) 👉 Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning.
 
-10. [HookShot](https://hookshot.ironwill.ai/) 👉 Ironwill
+10. [Headline-ai](https://headline-ai.com/) 👉 Using advanced AI to quickly and accurately summarize news content, academic articles and more
 
-11. [Intelligent paraphraser](https://aiseo.ai/tools/paraphrasing-tool.html) 👉 AISEO Free paraphrasing tool. It allows you to paraphrase and change tone of your content with as high as 70-100% uniqueness with one click.
+11. [HookShot](https://hookshot.ironwill.ai/) 👉 Ironwill
 
-12. [MagicSlides](https://www.magicslides.app/) 👉 MagicSlides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
+12. [Intelligent paraphraser](https://aiseo.ai/tools/paraphrasing-tool.html) 👉 AISEO Free paraphrasing tool. It allows you to paraphrase and change tone of your content with as high as 70-100% uniqueness with one click.
 
-13. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
+13. [MagicSlides](https://www.magicslides.app/) 👉 MagicSlides is a Google Slide add-on is AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
 
-14. [Motionit](https://www.motionit.ai/) 👉 MotionIt.ai is a cutting-edge platform that uses artificial intelligence to generate stunning slides and videos for a wide range of purposes, including startup pitch decks, conference presentations, and more. With MotionIt.ai, it's easy to create professional-quality content in just a few simple steps. Plus, you can export your slides to Google Slides or download them as a PowerPoint (PPTX) or PDF file, giving you complete flexibility and control over your presentations.
+14. [Mental Models with AI](https://learnmentalmodels.co/) 👉 Easily understand mental models with AI Navigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.
 
-15. [Notion AI](https://www.notion.so/product/ai) 👉 Leverage the power of AI in any Notion page. Now in private alpha.
+15. [Motionit](https://www.motionit.ai/) 👉 MotionIt.ai is a cutting-edge platform that uses artificial intelligence to generate stunning slides and videos for a wide range of purposes, including startup pitch decks, conference presentations, and more. With MotionIt.ai, it's easy to create professional-quality content in just a few simple steps. Plus, you can export your slides to Google Slides or download them as a PowerPoint (PPTX) or PDF file, giving you complete flexibility and control over your presentations.
 
-16. [Paraphraser AI](https://app.yaara.ai/paraphraser) 👉 With a total of 49 different tools and categories to choose from, you can easily customize your writing to fit any style or tone
+16. [Notion AI](https://www.notion.so/product/ai) 👉 Leverage the power of AI in any Notion page. Now in private alpha.
 
-17. [PowerPen](https://play.google.com/store/apps/details) 👉 Grammar checker/spelling checker, paraphrasing tool, summarizer.
+17. [Paraphraser AI](https://app.yaara.ai/paraphraser) 👉 With a total of 49 different tools and categories to choose from, you can easily customize your writing to fit any style or tone
 
-18. [Prezo](https://www.prezo.ai/) 👉 Prezo
+18. [PowerPen](https://play.google.com/store/apps/details) 👉 Grammar checker/spelling checker, paraphrasing tool, summarizer.
 
-19. [Reflect AI](https://reflect.app/) 👉 Reflect keeps track of your thoughts, books, and meetings.
+19. [Prezo](https://www.prezo.ai/) 👉 Prezo
 
-20. [Rephrasely](https://rephrasely.com/) 👉 Rephrasely Offers 12 FREE Modes that Will Paraphrase, Rewrite, And Change The Content Of Your Text While Retaining The Meaning.
+20. [Reflect AI](https://reflect.app/) 👉 Reflect keeps track of your thoughts, books, and meetings.
 
-21. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+21. [Rephrasely](https://rephrasely.com/) 👉 Rephrasely Offers 12 FREE Modes that Will Paraphrase, Rewrite, And Change The Content Of Your Text While Retaining The Meaning.
 
-22. [Scott AI](https://getscott.io/) 👉 AI generated conversation summaries & replies
+22. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-23. [SkimIt](https://www.skimit.ai/) 👉 Email your article to our SkimIt.ai app, and we'll send you back an ai-generated summary of your article.
+23. [Scott AI](https://getscott.io/) 👉 AI generated conversation summaries & replies
 
-24. [Slidesai](https://www.slidesai.io/) 👉 SlidesAI is an AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
+24. [SkimIt](https://www.skimit.ai/) 👉 Email your article to our SkimIt.ai app, and we'll send you back an ai-generated summary of your article.
 
-25. [Squish](https://chrome.google.com/webstore/detail/squish/iinmigjlcpeckfihbbfajpkiilfmakff) 👉 Summarize any article in just five seconds using AI
+25. [Slidesai](https://www.slidesai.io/) 👉 SlidesAI is an AI-Powered Text To Presentation Tool that summarizes and creates presentation slides from any piece of text.
 
-26. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
+26. [Squish](https://chrome.google.com/webstore/detail/squish/iinmigjlcpeckfihbbfajpkiilfmakff) 👉 Summarize any article in just five seconds using AI
 
-27. [Summate](https://summate.it/) 👉 Summarize web articles.
+27. [SumlyAI](http://www.sumly.ai/) 👉 AI-generated podcast summaries delivered straight to your inbox.
 
-28. [SummerEyes](https://summereyes.ai/) 👉 Summarise any text on the internet. Instantly.
+28. [Summate](https://summate.it/) 👉 Summarize web articles.
 
-29. [Supernormal](https://supernormal.com/) 👉 Supernormal AI automatically transcribes and writes the meeting notes for Google Meet. Save five to ten minutes every meeting. Instantly shareable to Google Drive, Notion, Quip, Slack, Hubspot, Salesforce and more.
+29. [SummerEyes](https://summereyes.ai/) 👉 Summarise any text on the internet. Instantly.
 
-30. [TLDR This](https://tldrthis.com/) 👉 TLDR This is a Free online text summarizing tool that automatically condenses long articles, documents, essays, or papers into key summary paragraphs using state-of-the-art AI.
+30. [Supernormal](https://supernormal.com/) 👉 Supernormal AI automatically transcribes and writes the meeting notes for Google Meet. Save five to ten minutes every meeting. Instantly shareable to Google Drive, Notion, Quip, Slack, Hubspot, Salesforce and more.
 
-31. [Upword](https://www.upword.ai/) 👉 Capture the key takeaways with Upword’s AI, create personalized summary docs and manage your knowledge. Upword transforms content into knowledge.
+31. [TLDR This](https://tldrthis.com/) 👉 TLDR This is a Free online text summarizing tool that automatically condenses long articles, documents, essays, or papers into key summary paragraphs using state-of-the-art AI.
 
-32. [Wordfixerbot](https://www.wordfixerbot.com/) 👉 WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!
+32. [Upword](https://www.upword.ai/) 👉 Capture the key takeaways with Upword’s AI, create personalized summary docs and manage your knowledge. Upword transforms content into knowledge.
 
-33. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
+33. [Wordfixerbot](https://www.wordfixerbot.com/) 👉 WordfixerBot's Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!
+
+34. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
 
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
