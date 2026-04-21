@@ -3608,6 +3608,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 32. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
 
+33. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
+
 ## 20. <a name='Emails'></a>📥 Emails
 
 1. [BaruaAI](https://baruaai.com/) 👉 Save time and effort with AI email sequence generation
