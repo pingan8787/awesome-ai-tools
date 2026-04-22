@@ -1569,6 +1569,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 104. [Signals CLI](https://github.com/sortlist/signals-cli) 👉 Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
 
+105. [AI Agent Readiness Checker](https://ai-agent-readiness.pages.dev/) 👉 Free tool that scans any website for AI agent readiness — checks llms.txt, robots.txt AI crawler rules, structured data, and meta tags. Get an actionable score in seconds. Open-source on GitHub.
 
 ## 5. <a name='Video'></a>🎥 Video
 
