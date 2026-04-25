@@ -594,6 +594,8 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 276. [Image2Prompts](https://image2prompts.com) 👉 Free image-to-prompt generator optimized for Nano Banana.
 
+277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
+
 ## 2. <a name='Writing'></a>✍️ Writing
 
 1. [AI Cowriter](https://ai-cowriter.com/) 👉 Write 10x faster with AI-generated autocomplete text suggestions
@@ -1347,6 +1349,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 120. [claude-dash](https://github.com/krabat-l/claude-dash) 👉 Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status. Zero dependencies.
 
 121. [aicost](https://github.com/dwylq/aicost) 👉 Universal AI coding cost analyzer CLI — scan Claude Code and Cursor for token usage and costs in one pass. Cache-aware pricing, HTML dashboard, no API key. MIT licensed.
+
+122. [Unslop](https://github.com/MohamedAbdallah-14/unslop) 👉 CLI and MCP server that removes AI writing patterns from text — tricolons, em-dash overuse, sycophancy openers, and overused vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five intensity levels and a lint-only audit mode.
 
 119. [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
 
