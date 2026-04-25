@@ -2799,6 +2799,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 62. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrument tracks using AI for music production and audio content creation.
 
+63. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
+
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
 1. [AI Lawyer](https://ailawyer.pro/) 👉 Say goodbye to expensive consultations, long waits for appointments, and confusing legal texts. With the AI-lawyer platform, you can get expert legal advice and document creation/summarizing/comparison tools anytime, anywhere. Our user-friendly interface speaks plain language, so you don't have to be a legal expert to understand your rights and obligations.
