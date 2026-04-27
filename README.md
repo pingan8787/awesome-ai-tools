@@ -1357,6 +1357,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 2. [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) 👉 Windows system tray app for monitoring Claude Code token usage in real time. Reads local JSONL session files to display per-session token counts, costs, context window usage, and tool call breakdowns. Fetches rate-limit data from the Anthropic API.
 
+3. [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
