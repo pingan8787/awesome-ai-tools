@@ -3608,7 +3608,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 26. [Songtell](https://www.songtell.com/) 👉 Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
 
-27. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
+27. [Suede](https://suedeai.ai) 👉 AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
+28. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
 
 28. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
 
