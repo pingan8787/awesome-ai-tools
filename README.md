@@ -4090,3 +4090,4 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 14. [AI Dating Simulator](https://boredhumans.com/dating.php) 👉 Practice going on dates. Free, no signup needed.
 
 15. [DatingAI.pro](https://datingai.pro/) 👉 DatingAI.pro is an AI Dating assistant to help you up your dating game by helping you write an AI-generated impressive bio, impress your dates with amazing pickup lines, and get smart replies to their messages.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
