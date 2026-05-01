@@ -934,137 +934,139 @@ Simply hit Cmd+M or Ctrl+M and start chatting with her. Or let Monica help you c
 
 165. [Quizgecko](https://quizgecko.com/) 👉 Generate quiz questions using AI
 
-166. [Redacta.me](https://www.redacta.me/) 👉 redacta.me te permite crear texto con inteligencia artificial de manera, rápida y sencilla. Pruébala gratis
+166. [RapidTextAI](https://app.rapidtextai.com/) 👉 Advanced AI article generator powered by GPT-4, Grok, Gemini, Deepseek and more. Create comprehensive, SEO-optimized content from 3,000+ word blog posts to converting ad copy in minutes. Features built-in AI detection bypass and humanization tools to ensure your content remains undetectable and authentic
 
-167. [Regie](https://www.regie.ai/) 👉 Regie helps sales, marketing, and success teams write engaging content faster using AI
+167. [Redacta.me](https://www.redacta.me/) 👉 redacta.me te permite crear texto con inteligencia artificial de manera, rápida y sencilla. Pruébala gratis
 
-168. [Rephrasee](https://rephrasee.com/) 👉 Increase your productivity with the help of Artificial Intelligence. Improve your business writing, simplify your text or rephrase anything.
+168. [Regie](https://www.regie.ai/) 👉 Regie helps sales, marketing, and success teams write engaging content faster using AI
 
-169. [Replit](https://replit.com/) 👉 Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter.
+169. [Rephrasee](https://rephrasee.com/) 👉 Increase your productivity with the help of Artificial Intelligence. Improve your business writing, simplify your text or rephrase anything.
 
-170. [Revspot](https://www.revspot.co/) 👉 A platform built for a new way of writing. It's like having a team of 10 expert copywriters in your corner 24/7 helping you across ads, sales, marketing, product and more.
+170. [Replit](https://replit.com/) 👉 Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter.
 
-171. [Riku](https://riku.ai/creators) 👉 Unlock the true potential of AI by creating relevant prompts and datasets for your business instead of generic-by-design writing assistant tools.
+171. [Revspot](https://www.revspot.co/) 👉 A platform built for a new way of writing. It's like having a team of 10 expert copywriters in your corner 24/7 helping you across ads, sales, marketing, product and more.
 
-172. [RiteBoost](https://riteboost.com/) 👉 Auto-generate social posts with image, hashtags, emojis and convert URLs to short links that advertise for you and your clients!
+172. [Riku](https://riku.ai/creators) 👉 Unlock the true potential of AI by creating relevant prompts and datasets for your business instead of generic-by-design writing assistant tools.
 
-173. [Rizz!](https://rizzai.com/) 👉 Rizz! puts world’s most powerful AI model into your iPhone keyboard to let you generate a customized, creative response.
+173. [RiteBoost](https://riteboost.com/) 👉 Auto-generate social posts with image, hashtags, emojis and convert URLs to short links that advertise for you and your clients!
 
-174. [Rytr](https://rytr.me/) 👉 Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
+174. [Rizz!](https://rizzai.com/) 👉 Rizz! puts world’s most powerful AI model into your iPhone keyboard to let you generate a customized, creative response.
 
 175. [Rytr](https://rytr.me/) 👉 Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
-176. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
+176. [Rytr](https://rytr.me/) 👉 Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
-177. [SaaS Prompts](https://saasprompts.com/) 👉 500+ ChatGPT prompts for your SaaS product
+177. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
-178. [SafeSpelling](https://safespelling.com/) 👉 Eliminate spelling mistakes in your writing with our AI powered tool. Using the advanced GPT-3 language model, simply paste your text into our website to catch and correct typos. Improve the quality of your documents in an instant.
+178. [SaaS Prompts](https://saasprompts.com/) 👉 500+ ChatGPT prompts for your SaaS product
 
-179. [Sapling](https://sapling.ai/) 👉 AI messaging assistant for customer-facing teams. Respond twice as fast.
+179. [SafeSpelling](https://safespelling.com/) 👉 Eliminate spelling mistakes in your writing with our AI powered tool. Using the advanced GPT-3 language model, simply paste your text into our website to catch and correct typos. Improve the quality of your documents in an instant.
 
-180. [Sassbook AI Writer](https://sassbook.com/ai-writer) 👉 Powerful AI Text Generator For Original Content
+180. [Sapling](https://sapling.ai/) 👉 AI messaging assistant for customer-facing teams. Respond twice as fast.
 
-181. [Scalenut](https://www.scalenut.com/features/ai-copywriter) 👉 Supercharge your copywriting with the world's best AI copywriter by Scalenut
+181. [Sassbook AI Writer](https://sassbook.com/ai-writer) 👉 Powerful AI Text Generator For Original Content
 
-182. [Scene One](https://sceneone.app/) 👉 Write more stories with our intuitive writing app and spend less time learning complicated features.
+182. [Scalenut](https://www.scalenut.com/features/ai-copywriter) 👉 Supercharge your copywriting with the world's best AI copywriter by Scalenut
 
-183. [Scene One](https://sceneone.app/) 👉 Free online novel writing software. SceneOne.app works in your browser and on every device, including your phone! Write your first story for free with an app created by writers for writers. Write the way you want and not be constrained by someone else's style. Write smarter with our tools, and always have up-to-date software.
+183. [Scene One](https://sceneone.app/) 👉 Write more stories with our intuitive writing app and spend less time learning complicated features.
 
-184. [SchoolAI](https://www.schoolai.co/) 👉 Save hours writing emails, reports, plans, lessons, ideas, advice, brainstorm, newsletters and more using powerful AI.
+184. [Scene One](https://sceneone.app/) 👉 Free online novel writing software. SceneOne.app works in your browser and on every device, including your phone! Write your first story for free with an app created by writers for writers. Write the way you want and not be constrained by someone else's style. Write smarter with our tools, and always have up-to-date software.
 
-185. [Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) 👉 Automatic text generator powered by OpenAI's GPT-3 Language Model. With Scribble AI, you can easily create a wide range of content in a matter of seconds.
+185. [SchoolAI](https://www.schoolai.co/) 👉 Save hours writing emails, reports, plans, lessons, ideas, advice, brainstorm, newsletters and more using powerful AI.
 
-186. [Scribbly](https://www.scribbly.ai/) 👉 Scribbly is a free AI-powered email assistant for busy professionals. Write emails 10x faster with AI-powered content suggestions on Gmail that are context-specific, professionally written, and sound just like you. Try the free Scribbly Chrome Extension today!
+186. [Scribble AI](https://apps.apple.com/us/app/scribble-ai/id1662081018) 👉 Automatic text generator powered by OpenAI's GPT-3 Language Model. With Scribble AI, you can easily create a wide range of content in a matter of seconds.
 
-187. [SEO GPT](https://seovendor.co/seo-gpt/) 👉 Create custom SEO titles and descriptions that passes AI detection by analyzing your target keyword and URL.
+187. [Scribbly](https://www.scribbly.ai/) 👉 Scribbly is a free AI-powered email assistant for busy professionals. Write emails 10x faster with AI-powered content suggestions on Gmail that are context-specific, professionally written, and sound just like you. Try the free Scribbly Chrome Extension today!
 
-188. [Shakespeare](https://www.shakespeare.ai/) 👉 Get the world’s best AI copywriting software and unleash world-class copy for your website, social media, reports, blog, ad copy, emails and more
+188. [SEO GPT](https://seovendor.co/seo-gpt/) 👉 Create custom SEO titles and descriptions that passes AI detection by analyzing your target keyword and URL.
 
-189. [Simplified](https://simplified.com/ai-writer/) 👉 Generate 50+ types of copy in seconds with the AI Writer.
+189. [Shakespeare](https://www.shakespeare.ai/) 👉 Get the world’s best AI copywriting software and unleash world-class copy for your website, social media, reports, blog, ad copy, emails and more
 
-190. [Simplified](https://simplified.com/) 👉 Simplified is the time saving, all in one app that your modern marketing team can use for collaboration. Millions of free images, videos, and audio clips. Thousands of designer templates. Long and short-form content writing in 30+ languages. Content Calendar to schedule and publish posts to social media. Free Forever!
+190. [Simplified](https://simplified.com/ai-writer/) 👉 Generate 50+ types of copy in seconds with the AI Writer.
 
-191. [Simplified AI Writer](https://simplified.com/ai-writer/) 👉 Scale your marketing copy with the power of AI
+191. [Simplified](https://simplified.com/) 👉 Simplified is the time saving, all in one app that your modern marketing team can use for collaboration. Millions of free images, videos, and audio clips. Thousands of designer templates. Long and short-form content writing in 30+ languages. Content Calendar to schedule and publish posts to social media. Free Forever!
 
-192. [Smart Copy Everywhere](https://unbounce.com/smart-copy-everywhere/) 👉 No more writer’s block. Create dazzling on-brand copy in minutes using Unbounce’s AI copy generator. Sign up for Smart Copy for free today.
+192. [Simplified AI Writer](https://simplified.com/ai-writer/) 👉 Scale your marketing copy with the power of AI
 
-193. [SmartScribe](https://www.smartscribe.app/) 👉 SmartScribe helps solve the complexities of reading and writing through the use of Artificial Intelligence.
+193. [Smart Copy Everywhere](https://unbounce.com/smart-copy-everywhere/) 👉 No more writer’s block. Create dazzling on-brand copy in minutes using Unbounce’s AI copy generator. Sign up for Smart Copy for free today.
 
-194. [SmartScribe](https://www.smartscribe.app/) 👉 AI-powered. Overcome writer's block. Generate creative ideas. Add clarity to your work. Optimised for students and content creators. 7-day free trial. Get started today!
+194. [SmartScribe](https://www.smartscribe.app/) 👉 SmartScribe helps solve the complexities of reading and writing through the use of Artificial Intelligence.
 
-195. [Smartwriter](https://www.smartwriter.ai/) 👉 Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers.
+195. [SmartScribe](https://www.smartscribe.app/) 👉 AI-powered. Overcome writer's block. Generate creative ideas. Add clarity to your work. Optimised for students and content creators. 7-day free trial. Get started today!
 
-196. [SoundBetter](https://soundbetter.cc/) 👉 Struggle with words at work? Let SoundBetter rephrase it professionally for you. Speak up while maintain good impression.
+196. [Smartwriter](https://www.smartwriter.ai/) 👉 Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers.
 
-197. [Spellbook](https://www.spellbook.legal/) 👉 Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
+197. [SoundBetter](https://soundbetter.cc/) 👉 Struggle with words at work? Let SoundBetter rephrase it professionally for you. Speak up while maintain good impression.
 
-198. [Sprinkle](https://getsprinkle.ch/) 👉 Say goodbye to generic stories, and hello to a new world of personalized adventure with our AI-powered storybooks - where your child becomes the star of their own unique tale!
+198. [Spellbook](https://www.spellbook.legal/) 👉 Spellbook uses GPT-3 to review and suggest language for your contracts, right in Microsoft Word.
 
-199. [StoriesForKids.ai: Personalized Kid's Books using AI](https://www.storiesforkids.ai/) 👉 Create personalized children's books with AI
+199. [Sprinkle](https://getsprinkle.ch/) 👉 Say goodbye to generic stories, and hello to a new world of personalized adventure with our AI-powered storybooks - where your child becomes the star of their own unique tale!
 
-200. [Story Path](https://storypath.app/) 👉 Plan your story or cure your writer's block in minutes.
+200. [StoriesForKids.ai: Personalized Kid's Books using AI](https://www.storiesforkids.ai/) 👉 Create personalized children's books with AI
 
-201. [Subtxt](https://subtxt.app/) 👉 Subtxt is the only intelligent outliner that works with your writer's intuition, not against it.
+201. [Story Path](https://storypath.app/) 👉 Plan your story or cure your writer's block in minutes.
 
-202. [Sudo](https://www.sudowrite.com/) 👉 Bust writer’s block with our magical writing AI.
+202. [Subtxt](https://subtxt.app/) 👉 Subtxt is the only intelligent outliner that works with your writer's intuition, not against it.
 
-203. [Sudowrite](https://www.sudowrite.com/) 👉 Bust writer’s block with magical writing AI. Your always-available brainstorm buddy.
+203. [Sudo](https://www.sudowrite.com/) 👉 Bust writer’s block with our magical writing AI.
 
-204. [Sudowrite](https://www.sudowrite.com/) 👉 Bust writer's block and be more creative with our magical writing AI.
+204. [Sudowrite](https://www.sudowrite.com/) 👉 Bust writer’s block with magical writing AI. Your always-available brainstorm buddy.
 
-205. [Text Assistant](https://goodsnooze.gumroad.com/l/textassistant) 👉 Text Assistant uses the power of AI to generate useful pieces of text for a variety of different use cases. With Text Assistant, you can easily create your own prompts for your favorite use cases and quickly access them to turn your input into specific, targeted output. Whether you need to write a sales pitch, a blog post, or a letter to a loved one, Text Assistant has you covered.
+205. [Sudowrite](https://www.sudowrite.com/) 👉 Bust writer's block and be more creative with our magical writing AI.
 
-206. [TextAiFy](https://discord.com/invite/aepz3E4VES) 👉 Check out the AiFy community on Discord - hang out with 256 other members and enjoy free voice and text chat.
+206. [Text Assistant](https://goodsnooze.gumroad.com/l/textassistant) 👉 Text Assistant uses the power of AI to generate useful pieces of text for a variety of different use cases. With Text Assistant, you can easily create your own prompts for your favorite use cases and quickly access them to turn your input into specific, targeted output. Whether you need to write a sales pitch, a blog post, or a letter to a loved one, Text Assistant has you covered.
 
-207. [TextCortex](https://textcortex.com/) 👉 Marketing, sales and website copy written in seconds.
+207. [TextAiFy](https://discord.com/invite/aepz3E4VES) 👉 Check out the AiFy community on Discord - hang out with 256 other members and enjoy free voice and text chat.
 
-208. [TextCortex](https://textcortex.com/) 👉 Create the highest quality content 7x faster, using TextCortex AI - the best copywriting tool for all your content. Get started for free, no credit card required.
+208. [TextCortex](https://textcortex.com/) 👉 Marketing, sales and website copy written in seconds.
 
-209. [Thekeys](https://www.thekeys.ai/) 👉 Say things the right way without changing your intent, or sounding like a bot.
+209. [TextCortex](https://textcortex.com/) 👉 Create the highest quality content 7x faster, using TextCortex AI - the best copywriting tool for all your content. Get started for free, no credit card required.
 
-210. [Thundercontent](https://thundercontent.com/) 👉 Thundercontent uses artificial intelligence to help you write articles unique articles at the speed of light. ⚡️Spend less money and time, for a better result.
+210. [Thekeys](https://www.thekeys.ai/) 👉 Say things the right way without changing your intent, or sounding like a bot.
 
-211. [Tome](https://beta.tome.app/) 👉 Unlock your best work with Tome's AI-powered storytelling format. Type in a prompt and generate entire narratives from scratch within seconds, supported by GPT-3 and AI-generated images from DALL·E 2.
+211. [Thundercontent](https://thundercontent.com/) 👉 Thundercontent uses artificial intelligence to help you write articles unique articles at the speed of light. ⚡️Spend less money and time, for a better result.
 
-212. [Trinka](https://www.trinka.ai/) 👉 Grammar and Writing Done Right
+212. [Tome](https://beta.tome.app/) 👉 Unlock your best work with Tome's AI-powered storytelling format. Type in a prompt and generate entire narratives from scratch within seconds, supported by GPT-3 and AI-generated images from DALL·E 2.
 
-213. [Tweetmonk](https://tweetmonk.com/) 👉 Create rich Twitter content using AI models & schedule tweets and threads.
+213. [Trinka](https://www.trinka.ai/) 👉 Grammar and Writing Done Right
 
-214. [TypeDroid](https://typedroid.com/) 👉 TypeDroid is a free AI text generator that helps you to create unique and engaging content for your business. It uses the newest Open AI processing algorithms to generate unique text from your prompt. Get creative with TypeDroid and create content that stands out from the crowd.
+214. [Tweetmonk](https://tweetmonk.com/) 👉 Create rich Twitter content using AI models & schedule tweets and threads.
 
-215. [Typli.ai](https://www.typli.ai/) 👉 The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.
+215. [TypeDroid](https://typedroid.com/) 👉 TypeDroid is a free AI text generator that helps you to create unique and engaging content for your business. It uses the newest Open AI processing algorithms to generate unique text from your prompt. Get creative with TypeDroid and create content that stands out from the crowd.
 
-216. [Typli.ai](https://typli.ai/) 👉 Typli.AI is an AI writing and SEO assistant that helps you create high-quality content. Generate unique text content with the AI content generator! Start your Free Trial Today. Create Long Form Content.
+216. [Typli.ai](https://www.typli.ai/) 👉 The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.
 
-217. [Unbounce](https://unbounce.com/product/smart-copy/) 👉 Generate better marketing content that converts with our AI copywriting software. Get Started with Smart Copy for FREE to automate your content writing tasks!
+217. [Typli.ai](https://typli.ai/) 👉 Typli.AI is an AI writing and SEO assistant that helps you create high-quality content. Generate unique text content with the AI content generator! Start your Free Trial Today. Create Long Form Content.
 
-218. [UpCat](https://upcat.app/) 👉 AI-powered Upwork assistant. Personalize your proposals and get real-time alerts.
+218. [Unbounce](https://unbounce.com/product/smart-copy/) 👉 Generate better marketing content that converts with our AI copywriting software. Get Started with Smart Copy for FREE to automate your content writing tasks!
 
-219. [useBert](https://usebert.com/) 👉 useBert has a range of content writing tools, but focusses on simplifying user experience to write complex and high quality content.
+219. [UpCat](https://upcat.app/) 👉 AI-powered Upwork assistant. Personalize your proposals and get real-time alerts.
 
-220. [Virtlly](https://www.virtlly.com/) 👉 Generate Advertisement copies for your product using AI.
+220. [useBert](https://usebert.com/) 👉 useBert has a range of content writing tools, but focusses on simplifying user experience to write complex and high quality content.
 
-221. [Warmer.ai](https://warmer.ai/) 👉 Skyrocket your cold emails with unique personalizations generated by AI.
+221. [Virtlly](https://www.virtlly.com/) 👉 Generate Advertisement copies for your product using AI.
 
-222. [WebCopilot](https://www.webcopilot.co/) 👉 Write your Notion pages with AI. Just start and let the AI write for you.
+222. [Warmer.ai](https://warmer.ai/) 👉 Skyrocket your cold emails with unique personalizations generated by AI.
 
-223. [WebCopilot](https://www.webcopilot.co/) 👉 write your Notion pages with AI. Just start and let the AI write for you.
+223. [WebCopilot](https://www.webcopilot.co/) 👉 Write your Notion pages with AI. Just start and let the AI write for you.
 
-224. [WordAi](https://wordai.com/) 👉 10x Your Content Output With AI.
+224. [WebCopilot](https://www.webcopilot.co/) 👉 write your Notion pages with AI. Just start and let the AI write for you.
 
-225. [WordHero](https://wordhero.co/) 👉 WordHero is the #1 AI writing software tool for business owners, marketers, and writers. Our AI-powered writer & assistant helps you write better, faster.
+225. [WordAi](https://wordai.com/) 👉 10x Your Content Output With AI.
 
-226. [Wordplay](https://wordplay.ai/) 👉 Looking for the best AI article writer? Wordplay has you covered. With one of the easiest user interfaces, creating SEO content is easy!
+226. [WordHero](https://wordhero.co/) 👉 WordHero is the #1 AI writing software tool for business owners, marketers, and writers. Our AI-powered writer & assistant helps you write better, faster.
 
-227. [Wordtune](https://www.wordtune.com/) 👉 Say exactly what you mean through clear, compelling and authentic writing.
+227. [Wordplay](https://wordplay.ai/) 👉 Looking for the best AI article writer? Wordplay has you covered. With one of the easiest user interfaces, creating SEO content is easy!
 
-228. [Wordtune](https://www.wordtune.com/) 👉 AI writing tool that rewrites and rephrases your writing! Get AI-powered suggestions to instantly improve everything you write.
+228. [Wordtune](https://www.wordtune.com/) 👉 Say exactly what you mean through clear, compelling and authentic writing.
 
-229. [Write A Thank You](https://thankyounote.app/) 👉 Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for
+229. [Wordtune](https://www.wordtune.com/) 👉 AI writing tool that rewrites and rephrases your writing! Get AI-powered suggestions to instantly improve everything you write.
 
-230. [Writelyai](https://www.writelyai.com/) 👉 Making the art of writing accessible to all
+230. [Write A Thank You](https://thankyounote.app/) 👉 Write the perfect thank you note for any occasion! Whether you need to thank a friend, family member, or business associate, we have the perfect words for
 
-231. [WriteMyPrd](https://writemyprd.com/) 👉 Make Writing PRDs a Breeze with GPT-3
+231. [Writelyai](https://www.writelyai.com/) 👉 Making the art of writing accessible to all
+
+232. [WriteMyPrd](https://writemyprd.com/) 👉 Make Writing PRDs a Breeze with GPT-3
 
 Describe the problem your product/service solves. Help the bot with top level information, and let it give you something you can build on.
 
