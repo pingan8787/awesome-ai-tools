@@ -1363,6 +1363,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 3. [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
+117.  [poorcoder](https://github.com/vgrichina/poorcoder) 👉 Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
