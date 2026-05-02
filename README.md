@@ -3097,7 +3097,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 ## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
 
-1. [Ai Note - Ai Writing Tool](https://ainote.com.au/) 👉 AiNote is a remarkable AI writing platform that stands out as the finest worldwide. It excels at crafting content that is not only pleasing to the eye but also optimised for search engines like Google.
+1. [AI Hotlist](https://aihot.bt199.com/) 👉 Chinese AI tools, models, agents and AI news hotlist, refreshed every 6 hours.
+2. [Ai Note - Ai Writing Tool](https://ainote.com.au/) 👉 AiNote is a remarkable AI writing platform that stands out as the finest worldwide. It excels at crafting content that is not only pleasing to the eye but also optimised for search engines like Google.
 2. [Swiftbrief](https://www.swiftbrief.com/) 👉 Our tool combines Keyword Clustering, Keyword Data and AI to help your writers create articles that rank. Your writers don't need to know SEO, just follow instructions from your AI-generated briefs!
 3. [SEOBox.ai](https://www.seobox.ai/) 👉 SEOBox monitors the internet to find backlink & digital PR opportunities & sends you personalized relevant ones as per the keywords you give or what the AI thinks could be relevant to you. Save your time in daily email checks for free marketing.
 4. [EtsyGenerator](https://etsygenerator.com/) 👉 Skyrocket your etsy sales by leveraging machine learning to create product listings.This AI tool helps you find the right keywords to rank your etsy contents and automatically inserts them in your shop listing.
