@@ -4090,3 +4090,5 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 14. [AI Dating Simulator](https://boredhumans.com/dating.php) 👉 Practice going on dates. Free, no signup needed.
 
 15. [DatingAI.pro](https://datingai.pro/) 👉 DatingAI.pro is an AI Dating assistant to help you up your dating game by helping you write an AI-generated impressive bio, impress your dates with amazing pickup lines, and get smart replies to their messages.
+
+16. [Kissable](https://kissable.app) 👉 AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
