@@ -880,6 +880,8 @@ Simply hit Cmd+M or Ctrl+M and start chatting with her. Or let Monica help you c
 
 138. [Moonbeam](https://www.gomoonbeam.com/) 👉 Kickstart your next great blog with Moonbeam: your long-form writing AI assistant.
 
+139. [MIRA AI] (https://www.cosmoquick.com/mira) 👉 AI Recruiter, that does end to end hiring on your behalf.
+
 139. [My Instant Writer](https://www.myinstantwriter.com/) 👉 My Instant Writer
 
 140. [Myess](https://myess.ai/) 👉 Supercharge your writing with instant, highly detailed feedback from our AI tutor. Real, actionable feedback - not just another Grammarly.
