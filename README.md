@@ -3972,6 +3972,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 17. [REimagine Home](https://www.reimaginehome.ai/) 👉 Generative AI to redesign any space in seconds.
 
+18. [LandscapioAI](https://www.landscapioai.com/) 👉 AI landscape design generator that turns yard photos and prompts into outdoor design concepts, cost estimates, and material guidance.
+
 ## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
 1. [Ai Pencil](https://apps.apple.com/us/app/ai-pencil/id6444737491) 👉 Create stunning art with the help of state-of-the-art AI Features - Sketch your drawings with powerful tools - Import and export your favorite drawings - Transform your art into any medium or style.
