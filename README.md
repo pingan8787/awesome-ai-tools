@@ -743,6 +743,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 66. [Easy-Peasy.AI](https://easy-peasy.ai/) 👉 Easy-Peasy.AI will save you time and help you produce polished content quickly and easily.
 
 67. [EffortlessEmail](https://www.effortless-email.com/) 👉 Turn your bullet points into a fully-formulated email - in any language.
+100. [PostMTA](https://postmta.com) 👉 Enterprise email delivery platform built on KumoMTA. 71+ REST APIs, AI deployment, DKIM/DMARC/BIMI, 10B+ emails/month.
 
 68. [Eilla AI](https://eilla.ai/) 👉 AI-powered assistant that generates SEO-friendly content for blogs, Facebook/Google ads, emails and realistic images or art.
 
@@ -1437,6 +1438,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 29. [EddyAI](https://eddyai.com/) 👉 Start generating sales on autopilot and provide a seamless customer support experience with the Eddy AI assistant.
 
 30. [EffortlessEmail](https://www.effortless-email.com/) 👉 Turn your bullet points into a fully-formulated email - in any language.
+100. [PostMTA](https://postmta.com) 👉 Enterprise email delivery platform built on KumoMTA. 71+ REST APIs, AI deployment, DKIM/DMARC/BIMI, 10B+ emails/month.
 
 31. [Eilla](https://eilla.ai/) 👉 Write blog posts, ads, emails or reports in seconds. Create realistic images or art with the power of AI.
 
