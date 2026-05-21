@@ -3394,6 +3394,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 263. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
      
 
+264. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based toolkit with AI utilities: SEO meta tag generator, AI robots.txt generator, OG image generator, favicon generator, AI background remover (runs entirely in-browser via WASM — no server upload), AI cost calculator, and domain name generator. No signup, all client-side. Open source.
+
+
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
 1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
