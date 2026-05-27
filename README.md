@@ -387,6 +387,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 167. [PhotoAI](https://photoai.me/) 👉 Create AI photos of yourself. Generate 30 photos of yourself in our best artistic styles.
 
 168. [Photoroom](https://www.photoroom.com/) 👉 Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+169. [PhotoRestore.ai](https://photorestore.ai) 👉 AI-powered old photo restoration — automatically repairs scratches, fading, tears, and colorizes black-and-white photos.
 
 169. [Photoshot](https://photoshot.app/) 👉 Your AI avatars Studio
 
