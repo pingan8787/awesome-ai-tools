@@ -2459,6 +2459,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [Korra](https://korra.finance/groups) 👉 AI markets analyst that lives in your Telegram group as a member, not a tool. Multi-domain takes (macro, on-chain, news, sentiment) with per-group personality dials. Built by an ex-eToro Senior Market Analyst (CySEC Advanced). Free during early access.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
