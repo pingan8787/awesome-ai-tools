@@ -3502,6 +3502,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 43. [Resume Screener AI](https://www.extend.app/) 👉 a cutting-edge resume screening tool tailored for small business owners, startup HR teams, and independent headhunters. Powered by advanced AI technology, it offers an efficient and accurate solution for batch resume screening, significantly reducing the workload for recruiters and founders.
 
 44. [VisaCanvas](https://visacanvas.com/) 👉 AI-powered EB1A and NIW visa eligibility assessment tool that evaluates your profile against all 10 USCIS extraordinary ability criteria with detailed scoring and guidance.
+45. [FoundRole](https://www.foundrole.com/ai-search-mcp) 👉 Free AI job search platform with an open-source MCP server for Claude, ChatGPT, Cursor, and other AI assistants to search live job listings and manage a Kanban application tracker from chat.
 
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
