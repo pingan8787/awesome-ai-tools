@@ -8,6 +8,10 @@
 A local-first AI assistant for learning and knowledge management. Import & analyze documents, manage notes and cards, create AI exams, and save web content efficiently.  
 🔗 [https://wisemindai.app](https://wisemindai.app)
 
+💡 **Remio**  
+Local-first AI memory and knowledge base desktop app that indexes notes, files, webpages, recordings, emails, messages, images, and other personal knowledge sources for semantic retrieval by users and agents.  
+🔗 [https://remio.ai/](https://remio.ai/)
+
 💡 **ChatTOC**  
 Add table-of-contents, search, bookmarks, and export to long AI chats. Browse and jump through conversations like a document outline.  
 🔗 [https://chattoc.aichris.cc/](https://chattoc.aichris.cc/)
