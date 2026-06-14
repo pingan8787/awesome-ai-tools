@@ -3413,6 +3413,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
 
+266. [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_ai_tools_pingan8787) 👉 AI-assisted public news discovery for spotting coverage gaps, framing differences, and missed global stories.
+
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
 1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
