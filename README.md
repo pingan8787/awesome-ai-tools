@@ -146,6 +146,8 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
 
 49. [AutoRetouch](https://www.autoretouch.com/) 👉 The AI powered image editing platform
 
+50. [igly.ai](https://igly.ai) 👉 AI image editor for background removal, inpainting, upscaling, generative fill, and product-photo workflows.
+
 50. [Avatar Al](https://avatarai.me/) 👉 Create your own Al-generated avatars
 
 51. [AVCLabs Photo Enhancer AI Online](https://avc.ai/) 👉 Get A Better Photo Quality with the Power of AI
@@ -3895,6 +3897,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 11. [LeadScripts](https://leadscripts.co/) 👉 Only LeadScripts has Ask OSCAR™ - get any type of copy written for you instantly - blogs, ads, emails, funnel copy... you name, he writes it!
 
 12. [Mokker](https://mokker.ai/) 👉 AI-Powered Photo Generation for E-Commerce
+
+13. [igly.ai](https://igly.ai) 👉 AI image editing for product photos, including background removal, generative fill, inpainting, and upscaling.
 
 13. [Plink](https://www.plink.ai/) 👉 AI powered transactions
 
