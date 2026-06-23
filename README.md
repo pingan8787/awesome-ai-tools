@@ -2016,6 +2016,7 @@ Join 2700+ creators to reach billions of people globally
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
+- [ClearCrowds](https://clearcrowds.com/) 👉 AI photo cleanup editor for removing crowds, objects, clutter, and other distractions with presets and natural-language prompts.
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
