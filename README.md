@@ -1608,6 +1608,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 7. [Chapterme](https://chapterme.co/) 👉 The easiest and fastest way to generate chapters for your videos ????
 
+8. [ImagineClip](https://imagineclip.com) 👉 AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content made from prompts, images, and effects.
+
 8. [ClipMaker](https://www.clipmaker.ai/) 👉 We use AI to generate short clips from your YouTube video and then schedule them on your TikTok and Instagram channels.
 
 9. [Clips AI](https://www.clipsai.com/) 👉 Clips AI helps you grow your platform by repurposing your content at scale
