@@ -12,6 +12,10 @@ A local-first AI assistant for learning and knowledge management. Import & analy
 Add table-of-contents, search, bookmarks, and export to long AI chats. Browse and jump through conversations like a document outline.  
 🔗 [https://chattoc.aichris.cc/](https://chattoc.aichris.cc/)
 
+💡 **Vynly**  
+AI art & video social network where every post carries verified provenance (C2PA, SynthID, generator metadata). Includes a free AI image detector at vynly.co/check and an agent-first MCP server (@vynly/mcp) so autonomous agents can publish directly.  
+🔗 [https://vynly.co](https://vynly.co)
+
 <hr />
 
 - [Awesome AI Tools](#awesome-ai-tools)
