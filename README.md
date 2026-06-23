@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [ViralMint](https://viralmint.net/) 👉 Open-source desktop app for short-form video: scouts trending videos across YouTube/TikTok/Reddit, downloads and clips long-form sources with local Whisper, and generates AI originals (script, voiceover, word-by-word captions, music). AGPL-3.0.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
