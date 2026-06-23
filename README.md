@@ -3948,6 +3948,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 18. [TextureLab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
 
+19. [Auferet](https://auferet.com/) 👉 An AI game master for solo text adventures and tabletop-style RPGs, with persistent memory of your story and your own uploaded lore.
+
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
