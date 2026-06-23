@@ -3413,6 +3413,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
 
+264. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based toolkit with AI utilities: SEO meta tag generator, AI robots.txt generator, OG image generator, favicon generator, AI background remover (runs entirely in-browser via WASM — no server upload), AI cost calculator, and domain name generator. No signup, all client-side. Open source.
+
+
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
 1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
