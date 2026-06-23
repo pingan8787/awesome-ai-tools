@@ -2831,6 +2831,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 64. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
+*   [Ano.chat](https://ano.chat) - Team chat with Claude Code built in. The #1 Slack alternative for AI-native teams.
 
 1. [AI Lawyer](https://ailawyer.pro/) 👉 Say goodbye to expensive consultations, long waits for appointments, and confusing legal texts. With the AI-lawyer platform, you can get expert legal advice and document creation/summarizing/comparison tools anytime, anywhere. Our user-friendly interface speaks plain language, so you don't have to be a legal expert to understand your rights and obligations.
 
