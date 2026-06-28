@@ -3910,6 +3910,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 19. [Zevi](https://www.zevi.ai/) 👉 Zevi is an neural search engine for ecommerce brands. It enables website's search and merchandising functionality, improving user experience, and sales performance.
 
+20. [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) 👉 Open-source MCP server for real-time e-commerce product search and price comparison. 15+ Singapore merchants, 11M+ products. Works with Claude, Cursor, Codex.
+
 ## 25. <a name='Gaming'></a>🕹 Gaming
 
 1. [AI Dungeon](https://play.aidungeon.io/) 👉 AI Dungeon, an infinitely generated text adventure powered by deep learning
