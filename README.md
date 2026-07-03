@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [agent-qa](https://github.com/vostride/agent-qa) 👉 Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
