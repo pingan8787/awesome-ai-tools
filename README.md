@@ -1,5 +1,7 @@
 # Awesome AI Tools
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 🤖 Finding the AI tools you need!
 
 ---
