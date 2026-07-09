@@ -2032,7 +2032,7 @@ Join 2700+ creators to reach billions of people globally
 
 1. [Artbreeder](https://www.artbreeder.com/) 👉 Artbreeder
 
-1. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 Online AI tool to restore, colorize and enhance old or damaged photos; free preview, $4.99 per download
+1. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 Online AI tool to restore, colorize and enhance old or damaged photos; $4.99 one-time, no subscription
 
 1. [Astria.ai](https://www.astria.ai/) 👉 Create custom images using AI
 
