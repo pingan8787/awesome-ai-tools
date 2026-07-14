@@ -1320,6 +1320,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 99. [Text2SQL.AI](https://www.text2sql.ai/) 👉 Generate SQL queries with AI in seconds!
 
+100. [VibeKit.bot](https://vibekit.bot) 👉 Describe an app in chat and a persistent AI agent builds it, hosts it at its own domain, and keeps improving it with every message. Works from the iOS app or web; bring-your-own-key or free tier.
+
 100.  [Vivid](https://www.vivid.lol/) 👉 Make CSS styling a breeze with Vivid's in-browser visual editor that automatically updates your code.
 
 101.  [WhatTheDiff](https://whatthediff.ai/) 👉 Your AI-powered code review assistant. Save costly developer time by automating pull request summaries.
