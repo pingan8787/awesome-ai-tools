@@ -3503,6 +3503,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 44. [VisaCanvas](https://visacanvas.com/) 👉 AI-powered EB1A and NIW visa eligibility assessment tool that evaluates your profile against all 10 USCIS extraordinary ability criteria with detailed scoring and guidance.
 
+45. [Aural](https://github.com/1146345502/aural-oss) 👉 Open-source, self-hostable AI interview platform for voice, chat, and video, with adaptive follow-ups, automated scoring, practice, and detailed reports.
+
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
