@@ -4050,6 +4050,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 15. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
 
+16. [DDScore](https://www.ddscore.ai/) 👉 Playful Pixels Oy's DDScore turns private-company materials into a structured 0–100 Due Diligence Score and full written report.
+
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
 1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 AweMyFace — is a skincare app and your only guide on the way to the perfect skin.
