@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [AgentGrid](https://agentgrid.sh) 👉 Infinite zoomable desktop canvas for orchestrating multiple AI coding agents. A master orchestrator spawns role-based worker agents (builder, QA, reviewer) in their own git worktrees, alongside integrated terminals and Playwright browser panes. Runs the Claude Agent SDK and OpenAI Codex SDK behind a shared worker protocol.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
