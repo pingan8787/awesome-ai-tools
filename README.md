@@ -1542,7 +1542,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 81. [SocialBu](https://socialbu.com/) 👉 Publish, Respond, Analyze, and Automate - all from within SocialBu.
 
-82. [SocialBu](https://socialbu.com/) 👉 SocialBu is the perfect solution to improve your social media presence and maximize your results. Publish, Respond, Analyze, and Automate - all from within SocialBu
+82. [Xquik](https://xquik.com/) 👉 Hosted X data platform with REST API, MCP, webhooks, SDKs, monitoring, and approval-gated actions. Independent of X Corp.
 
 83. [Somi AI](https://www.asksomi.app/) 👉 Answer all of your workplace questions. Summarize an entire Slack channel or answer a specific question!
 
