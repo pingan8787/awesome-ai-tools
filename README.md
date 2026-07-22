@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio) 👉 Open-source, self-hostable AI ad studio for turning products, reference ads, or short briefs into testable e-commerce video creatives, including UGC ads, remakes, skits, and short drama ads.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
