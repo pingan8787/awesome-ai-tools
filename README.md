@@ -4049,6 +4049,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 14. [TradeUI](https://tradeui.com/) 👉 Options Flow and Stock Market trading tools - TradeUI
 
 15. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
+16. [FN2](https://fn2.ai/) 👉 AI market analyst for investors: daily briefings, stock research, and scheduled agents that watch your tickers. Free tier.
 
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
