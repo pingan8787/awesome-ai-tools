@@ -4079,6 +4079,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 13. [Wardrobe](https://wardrobe-ai.com/) 👉 Personalised fashion advice with the power of AI
 
 14. [AI Creator Circle](https://aicreatorcircle.com/) 👉 A community for AI & ChatGPT creatives with 95,000+ members
+15. [STIL.AI](https://stil.gracestack.se) 👉 AI-powered fashion design — describe any clothing item in text and get a professional AI-generated design. Free generator, print-on-demand ready.
 
 ## 30. <a name='DatingRelationships'></a>💌 Dating & Relationships
 
