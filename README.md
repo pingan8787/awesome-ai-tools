@@ -2583,6 +2583,8 @@ Join 2700+ creators to reach billions of people globally
 
 61. [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) 👉 搜索科学论文，从全文研究中提取结构化实验数据。支持 SSE 和 Streamable HTTP。
 
+62. [Vedic Astrology Chart](https://vedicastrologychart.net) 👉 Generate Vedic birth charts and explore chart interpretations online.
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
