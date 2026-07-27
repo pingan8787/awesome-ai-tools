@@ -14,6 +14,7 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
 
 <hr />
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Awesome AI Tools](#awesome-ai-tools)
   - [1. 📷 Image \& Art Generation](#1--image--art-generation)
   - [2. ✍️ Writing](#2-️-writing)
