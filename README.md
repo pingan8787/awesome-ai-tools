@@ -3113,6 +3113,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 43. [We Write Cards](https://wewritecards.com/) 👉 Personalized messages, lovingly crafted. Custom written messages for any occasion delivered in 30 seconds! Get Started. It's FREE! Occasions Birthdays The perfect words for that special someone on their birthday. Holidays Share the magic of Christmas and other special days. Life Events Lifes
 
 44. [Yoodli](https://app.yoodli.ai/) 👉 Improve your confidence with personalized communication coaching from Yoodli.
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
 
