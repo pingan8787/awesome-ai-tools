@@ -2302,6 +2302,8 @@ Join 2700+ creators to reach billions of people globally
 
 68. [Vocova](https://vocova.app) 👉 AI transcription tool supporting 100+ languages with speaker diarization, URL import from 1000+ platforms, and bilingual side-by-side export.
 
+69. [AI Dictation](https://aidictation.com) 👉 Open-source voice typing for macOS, Windows, iPhone, iPad, and Android, with offline recognition on supported devices plus optional cloud transcription and text cleanup. [Source](https://github.com/writingmate/aidictation).
+
 ## 9. <a name='Chatbots'></a>💬 Chatbots
 
 1. [AI Answers by Cohere](https://cohere.io/) 👉 AI-powered support assistance that finds answers from previous tickets
