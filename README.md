@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Faceless Reels](https://facelessreels.video/) 👉 Faceless video generator that turns one topic into a finished vertical video. Writes the hook and script, generates the AI voiceover, captions, visuals and background music, then renders a 9:16 video for TikTok, Instagram Reels and YouTube Shorts. Workflows include storytelling, doodle explainer, stickman animation and open-source project shorts.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
