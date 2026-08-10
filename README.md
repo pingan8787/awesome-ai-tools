@@ -2014,6 +2014,8 @@ Join 2700+ creators to reach billions of people globally
 
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
 
+127. [flow-chart.io](https://flow-chart.io) 👉 AI diagram generator that produces fully editable diagrams (C4, BPMN, network, cloud architecture, UML) from plain English. Free: 8 AI credits/month, no credit card required.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
