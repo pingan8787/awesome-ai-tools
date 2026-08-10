@@ -1378,7 +1378,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
-100. [Agent Island](https://agent-island.dev) 👉 开源免费的 AI 编程状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏
+100. [Agent Island](https://agent-island.dev) 👉 开源免费的 AI 编程状态伴侣，把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏
 
 ## 4. <a name='Business'></a>👔 Business
 
