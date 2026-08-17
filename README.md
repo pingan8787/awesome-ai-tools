@@ -2930,6 +2930,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [Xenition](https://xenition.com) 👉 One AI workspace that replaces a stack of separate subscriptions: 23 editing surfaces covering documents, spreadsheets, slides, design, code, research and automation, all driven from a single chat. Every surface shares the same memory and asset library, so a research answer can flow into a deck and a spreadsheet into a working app without re-uploading files or re-explaining context. Free tier with 25,000 credits every month and no credit card.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
