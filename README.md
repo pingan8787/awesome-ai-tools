@@ -3896,7 +3896,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 12. [Mokker](https://mokker.ai/) 👉 AI-Powered Photo Generation for E-Commerce
 
-13. [Plink](https://www.plink.ai/) 👉 AI powered transactions
+13. [PixGT](https://pixgt.cn) 👉 AI visual engine for e-commerce and cross-border sellers. Turns a white-background product photo into commercial-style scene images, and also handles clothing try-on, model swapping, jewelry and accessory try-on, and pose variations. Free credits on signup.
+
+14. [Plink](https://www.plink.ai/) 👉 AI powered transactions
 
 14. [RegisAI](https://regisai.com/) 👉 Start your 7-day free trial
 
