@@ -1118,6 +1118,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 ## 3. <a name='Dev'></a>💻 Dev
 
+1. [Codex Theme Builder](https://codextheme.tools/) 👉 Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
 
 2. [Adrenaline](https://useadrenaline.com/) 👉 Adrenaline
@@ -1379,6 +1381,10 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
 ## 4. <a name='Business'></a>👔 Business
+
+1. [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) 👉 Free embroidery job pricing from stitches, fabric, and labor.
+
+1. [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) 👉 Free calculator for lawn mowing cost estimates by area, rate, and extras.
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
 
@@ -3912,6 +3918,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 ## 25. <a name='Gaming'></a>🕹 Gaming
 
+1. [SkyCOTL Tools](https://skycotl.tools/) 👉 Free guides and calculators for Sky: Children of the Light.
+
 1. [AI Dungeon](https://play.aidungeon.io/) 👉 AI Dungeon, an infinitely generated text adventure powered by deep learning
 
 2. [AIDungeon](https://play.aidungeon.io/) 👉 Play and create AI-generated adventures with infinite possibilities.
@@ -3950,6 +3958,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
+1. [Pressure Washer Fix](https://pressurewasherfix.com/) 👉 Free troubleshooting guides for common pressure washer problems.
+
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
 
 2. [AITwo - interior, exterior and fashion design with AI](https://aitwo.co/) 👉 An AI-powered design tool that can be used to design interiors for rooms such as bedrooms, living rooms, kitchens, bathrooms, and dining rooms. It can also be used to design exteriors for homes and buildings.
@@ -3986,6 +3996,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 ## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
+1. [Image to Crochet Pattern](https://imagetocrochetpattern.com/) 👉 Free tool that converts images into crochet patterns.
+
 1. [Ai Pencil](https://apps.apple.com/us/app/ai-pencil/id6444737491) 👉 Create stunning art with the help of state-of-the-art AI Features - Sketch your drawings with powerful tools - Import and export your favorite drawings - Transform your art into any medium or style.
 
 2. [AYAYA - Cartoon Photo Editor](https://apps.apple.com/us/app/ayaya-cartoon-photo-editor/id1642465101) 👉 AYAYA is your easy-to-use cartoon photo editor powered by AI for amazing results. Create stunning cartoon profile pic, wallpaper, lock screens, collages, widgets and more.
@@ -4019,6 +4031,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 16. [Catoon](https://catoon.xyz) 👉 AI serial comic studio that turns novels and long stories into reusable characters, storyboards, speech bubbles, rendered panels, and export-ready comic chapters.
 
 ## 28. <a name='Finance'></a>💳 Finance
+
+1. [WattsCalc](https://wattscalc.com/) 👉 Free wattage and electricity cost calculator for appliances and devices.
 
 1. [AlphaResearch](https://alpharesearch.io/) 👉 AlphaResearch helps investors extract information from unstructured texts, filings, earnings call transcripts, and much more.
 
