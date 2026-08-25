@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [CreateForge AI](https://createforgeai.com/) 👉 Multi-model AI image and video workspace with Seedance 2.5, Veo 3.1, GPT Image 2, parameter-aware credit quotes, reference workflows, and saved results.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
