@@ -2930,6 +2930,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [Screenpipe](https://screenpi.pe/) 👉 Local screen and audio history that gives AI assistants searchable work context and powers recurring agent workflows.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
