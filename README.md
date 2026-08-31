@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [HelloGen](https://hellogen.ai/) 👉 A studio that puts a dozen image and video models behind one assistant. Images are unlimited and watermark-free on a free account; video spends credits, and the exact price is shown before each clip renders.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
