@@ -3481,6 +3481,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 33. [Resume Worded](https://resumeworded.com/index.php) 👉 Our online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback on how to get more opportunities and interviews.
 
+34. [ResumeAI](https://withresumeai.com/) 👉 Free AI resume builder and ATS checker (3/day anonymous, 10/day free account). Publishes State of ATS 2026 — 738 large employers, 704 portal-verified; Workday 37.9%.
+
 34. [SaaS GPTers](https://saasgpters.com/) 👉 The largest ChatGPT directory with 500+ resources
 
 35. [SheetAI App](https://www.sheetai.app/) 👉 Unlock the Power of AI in your Spreadsheets
