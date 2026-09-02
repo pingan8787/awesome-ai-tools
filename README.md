@@ -2998,6 +2998,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 33. [TweePT3](https://tweept3.com/) 👉 TweePT3 is the first Twitter-integrated, GPT3 powered tweet writer! Generate engaging, exciting tweets in seconds with the click of a button.
 
+34. [BulkPublish](https://app.bulkpublish.com/docs) 👉 AI-agent social media content platform for creating, adapting, scheduling, publishing, and analyzing content across connected channels through API and MCP access.
+
 34. [Tweet Assist App](https://tweetassist.ai/) 👉 Tweet Assist App
 
 35. [TweetAI](https://tweetai.com/) 👉 Stuck what to tweet? No more. We will help you get inspired and super charge your tweets.
