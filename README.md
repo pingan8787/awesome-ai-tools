@@ -2339,6 +2339,7 @@ Join 2700+ creators to reach billions of people globally
 17. [ChatBCG](https://www.chatbcg.com/) 👉 Instantly create slide decks using ChatBA
 
 18. [ChatFAI](https://chatfai.com/) 👉 An AI powered experience that allows you to chat with your favorite characters from movies, TV shows, books, history, and more.
+18a. [WSUP AI](https://wsupai.app/) 👉 Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 
 19. [ChatGPT](https://chat.openai.com/chat) 👉 Please turn JavaScript on and reload the page.
 
