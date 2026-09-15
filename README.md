@@ -2829,6 +2829,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 63. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrument tracks using AI for music production and audio content creation.
 
 64. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
+65. [Ruanjiange](https://ruanjiange.com/instagram-transcript/) 👉 Transcribe video and audio files to text and .srt in the browser; Whisper base (ONNX) runs on the client, so the file is never uploaded.
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
