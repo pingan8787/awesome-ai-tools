@@ -2128,6 +2128,8 @@ Join 2700+ creators to reach billions of people globally
 
 1. [Rentoor](https://rentoor.vercel.app/) 👉 Enhance Your Photos face photos and keep the memories alive.
 
+1. [RestorePhoto](https://restorephoto.org/) 👉 Browser-based AI tool for improving facial clarity in old portraits and blurry family photos.
+
 1. [RestorePhotos](https://www.restorephotos.io/) 👉 Restore your old face photos and keep the memories alive.
 
 1. [SceneryAI](https://sceneryai.com/) 👉 Generate or update existing images with our AI image editing tool.
