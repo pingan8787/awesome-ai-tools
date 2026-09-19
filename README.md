@@ -3712,6 +3712,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [Onesta](https://www.onesta.ai/) 👉 Find the best financial advisor based on client reviews and more. Search by fee-only, fiduciary, robo advisor, cfa, cpa, retirement planning, and more.
 
+35. [Stripo](https://stripo.email) 👉 Email design platform with an AI assistant for email copy, subject lines and alt text
+
 ## 21. <a name='QA'></a>❓ Q & A
 
 1. [AI Office Bot](https://aiofficebot.com/) 👉 Generate & Explain formulas with AI on Airtable, Google Sheets, or Excel. Also support AI How Tos for Microsoft Office and Creative Suite
