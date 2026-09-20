@@ -3024,6 +3024,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 46. [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots. Our platform offers configurable API, giving you the flexibility to tailor the AI widgets to your specific needs. You can easily integrate these widgets with your own API keys or use shared keys for added convenience. Additionally, our direct payment system via Stripe allows you to monetize your AI widgets and earn money from sharing them with your audience.
 
+47. [Jev Social](https://github.com/socai-io/jev-social) 👉 Open-source social research agent where Jev chooses operations and socai captures real-browser evidence from Instagram, TikTok, and LinkedIn.
+
 ## 15. <a name='FunGiftsCards'></a>🤹‍♀️ Fun, Gifts & Cards
 
 1. [AI Cards](https://designstripe.com/ai-cards/) 👉 undefined
