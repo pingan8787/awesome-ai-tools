@@ -2930,6 +2930,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [GTD Brain](https://gtdbrain.com/connect?source=awesome-ai-tools-pingan8787) 👉 Getting Things Done task manager with a remote MCP server so ChatGPT, Claude, Gemini CLI, Codex and Cursor can run your GTD system.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
