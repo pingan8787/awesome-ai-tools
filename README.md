@@ -17,6 +17,7 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
 - [Awesome AI Tools](#awesome-ai-tools)
   - [1. 📷 Image \& Art Generation](#1--image--art-generation)
   - [2. ✍️ Writing](#2-️-writing)
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
   - [3. 💻 Dev](#3--dev)
   - [4. 👔 Business](#4--business)
   - [5. 🎥 Video](#5--video)
