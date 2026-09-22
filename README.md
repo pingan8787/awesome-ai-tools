@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [shortshort](https://www.shortshort.io/) 👉 Turns one long video, a talk, a podcast or a webinar, into vertical 9:16 shorts: passages end on a complete sentence, the crop follows the speaker, and every word is captioned. Exports MP4 1080x1920.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
