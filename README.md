@@ -2832,6 +2832,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
+1. [Prezto](https://prezto.cn/) 👉 AI workspace that turns documents, PDFs, spreadsheets, and drafts into editable presentations, webpages, reports, and social content.
+
 1. [AI Lawyer](https://ailawyer.pro/) 👉 Say goodbye to expensive consultations, long waits for appointments, and confusing legal texts. With the AI-lawyer platform, you can get expert legal advice and document creation/summarizing/comparison tools anytime, anywhere. Our user-friendly interface speaks plain language, so you don't have to be a legal expert to understand your rights and obligations.
 
 2. [Anya (law) by Astria](https://law.withastria.com/) 👉 Discover Anya, the advanced AI designed for law practices by Astria AI. Improve efficiency, reduce costs, & make better decisions with legal document analysis & expert advice.
