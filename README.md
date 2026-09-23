@@ -1790,6 +1790,18 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Video to Transcript](https://videotext.io/video-to-transcript) 👉 Free AI video transcription with 98.5% word accuracy using Whisper large-v3; upload MP4/MOV/WebM/MKV and get a transcript, SRT/VTT, AI summary, and chapters in one pass.
+
+98. [Video to Subtitles](https://videotext.io/video-to-subtitles) 👉 Full caption generation hub: upload a video for timed SRT/VTT output, then fix, translate, or burn captions in the same workflow.
+
+99. [Translate Subtitles](https://videotext.io/translate-subtitles) 👉 Free online SRT/VTT subtitle translator supporting 70+ languages with every cue timestamp preserved on download.
+
+100. [Fix Subtitles](https://videotext.io/fix-subtitles) 👉 Auto-corrects overlapping timestamps, long lines, CPS/reading-speed issues, and SRT/VTT formatting errors with instant download.
+
+101. [Burn Subtitles](https://videotext.io/burn-subtitles) 👉 Hardcodes SRT/VTT captions permanently into MP4 video — ideal for Instagram, TikTok, and players without native caption support.
+
+102. [Compress Video](https://videotext.io/compress-video) 👉 Free online video compressor with light, medium, and heavy settings to shrink file size for faster sharing and uploads.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
@@ -2829,6 +2841,10 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 63. [voicetoinstrument.com](https://voicetoinstrument.com) 👉 Convert voice to instrument tracks using AI for music production and audio content creation.
 
 64. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
+
+65. [Guideline Format](https://videotext.io/guideline-format) 👉 Auto-formats raw transcripts to Rev, GoTranscript, TranscribeMe, or Scribie style guides — verbatim rules, speaker labels, punctuation, and QA compliance scoring, exported client-ready.
+
+66. [Voice Recorder](https://videotext.io/voice-recorder) 👉 In-browser voice-to-text recorder — speak and get text instantly with no video upload required, privacy-first with files deleted after processing.
 
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
