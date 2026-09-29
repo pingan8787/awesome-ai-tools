@@ -2474,6 +2474,8 @@ Join 2700+ creators to reach billions of people globally
 6. [BusterAI](https://busterai.com/) 👉 Detect whether text was written by a human or AI.
 
 7. [ChatMind](https://www.chatmind.tech/) 👉 Generating and Modifying Mind Maps through AI Dialogue
+19. [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) 👉 Base mainnet x402 AI research API with free discovery, $2 USDC reports, and $0.001 chat.
+
 
 8. [Checklist.gg](https://checklist.gg/) 👉 Create checklists using AI in seconds.
 
