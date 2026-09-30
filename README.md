@@ -2459,6 +2459,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [Hellomatik](https://hellomatik.com) 👉 AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
