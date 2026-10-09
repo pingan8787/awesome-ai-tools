@@ -1377,6 +1377,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 127.  [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
+129.  [Massvai](https://massvai.com) 👉 AI agent that builds full-stack Next.js apps from a prompt, with live preview, Supabase setup, GitHub sync and one-click Vercel deploy.
 
 ## 4. <a name='Business'></a>👔 Business
 
