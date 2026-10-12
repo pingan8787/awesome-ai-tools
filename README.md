@@ -3573,6 +3573,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
 
+35. [SummarizAI](https://summarizai.ink) 👉 Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free plan for students).
+
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
 1. [AI Lyrics Generator](https://theselyricsdonotexist.com/) 👉 Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood
