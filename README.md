@@ -2830,6 +2830,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 64. [AnveVoice](https://anvevoice.app) 👉 Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier available.
 
+65. [Vocal Separator](https://vocalseparator.com/) 👉 Separate vocals or four stems, download WAV tracks and practise with loops, tempo and pitch controls. Anonymous free tier with usage limits; optional paid minute packs.
+
 ## 13. <a name='TeamWork'></a>🤝 Team & Work
 
 1. [AI Lawyer](https://ailawyer.pro/) 👉 Say goodbye to expensive consultations, long waits for appointments, and confusing legal texts. With the AI-lawyer platform, you can get expert legal advice and document creation/summarizing/comparison tools anytime, anywhere. Our user-friendly interface speaks plain language, so you don't have to be a legal expert to understand your rights and obligations.
