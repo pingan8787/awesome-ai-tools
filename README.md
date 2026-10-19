@@ -2459,6 +2459,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [CatCatCode](https://catcatcode.com/) 👉 Beginner-friendly GPT & Claude API access without VPN / overseas billing hassle. Sign up, get a key, follow a short setup for Claude Code / Codex. Monthly plans from ¥99.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
