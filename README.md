@@ -3948,6 +3948,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 18. [TextureLab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
 
+19. [SteamDownload AI Recommender](https://www.steamdownload.cn/ai?lang=en) 👉 Describe what you feel like playing in plain words and the AI searches a live library of 9,000+ PC, Switch and mobile games, explains each pick and links to the game page. Free, no sign-up.
+
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
