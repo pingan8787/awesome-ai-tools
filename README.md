@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [IntroVideo](https://introvideo.io/) 👉 AI logo intro video generator: upload a logo, pick one of 8 styles and get a unique 8-second cinematic intro in about 3 minutes, in 16:9 or 9:16. One free generation, paid plans from $5.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
