@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Window Peeper AI](https://windowpeeperai.pro/) 👉 Turn one adult portrait into a Window Peeper meme video: the camera approaches a lit window, the person eating a burger stares back and closes the curtains. 14-second 9:16 MP4 at 480p or 720p, paid with one-time credit packs; the guide and prompt are free.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
