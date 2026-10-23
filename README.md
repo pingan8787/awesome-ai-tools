@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Effect Video](https://effect.video) 👉 Turn a single photo into a short AI video using viral effect templates such as AI dance, hotel lobby, anime transformation, lip sync, and Halloween zombie, pumpkin, and ghost effects. Free welcome credits, paid plans available.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
