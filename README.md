@@ -607,6 +607,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
+279. [PromptImage](https://promptimage.cloud) 👉 Free AI image gallery and AI image/video generator with a curated prompt library. Core use free; signup credits, no card required.
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
@@ -1789,6 +1790,14 @@ Join 2700+ creators to reach billions of people globally
 95. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
+97. [GrokVideo Studio](https://grokvideogenerator.dev) 👉 Independent text/image-to-video AI studio (not affiliated with xAI or X). Free trial available.
+98. [Alors On Danse Video Maker](https://alorsondansevideo.com) 👉 Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
+99. [Bad Times AI](https://badtimesai.dev) 👉 Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
+100. [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) 👉 Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
+101. [KDA Firestarter AI Dance](https://kdafirestarterai.dev) 👉 Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video. Paid from $7.99 one-time. Not affiliated with Riot Games or K/DA.
+102. [A2O LITE NEON AI Dance](https://a2oliteai.org) 👉 Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack. Paid from $7.99 one-time. Unofficial.
+103. [dime dime baby ai](https://dimedimebabyai.dev) 👉 Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove). Paid from $7.99 one-time.
+
 
 ## 6. <a name='Design'></a>🎨 Design
 
@@ -2013,6 +2022,7 @@ Join 2700+ creators to reach billions of people globally
 125. [Icon Craft AI](https://iconcraftai.com/) 👉 Accelerate Your Icon Creation Process: Harness the Power of Our AI Digital Icon Generator for Your Business Website, Applications, and Brand.
 
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
+127. [TeslaWraps](https://teslawraps.design) 👉 Design Tesla Paint Shop-style wraps in the browser. Core editor free without an account; paid AI credits optional.
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
