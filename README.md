@@ -607,6 +607,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
+- [Photoshoot](https://photoshoot.app) - Turn product and fashion reference photos into studio-grade product shots and model imagery for e-commerce. Free trial with 30 credits.
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
