@@ -607,6 +607,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
+- [Photoshoot](https://photoshoot.app) - Turn product and fashion reference photos into studio-grade product shots and model imagery for e-commerce. Free trial with 30 credits.
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
@@ -2016,7 +2017,8 @@ Join 2700+ creators to reach billions of people globally
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
-1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
+1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce
+1. [Photoshoot](https://photoshoot.app/?utm_source=github_pingan8787&utm_medium=backlink&utm_campaign=202609_w7_backlinks) 👉 AI commercial photography studio for e-commerce. Turn one product photo into studio-grade listing images, model try-on shots and ad creatives and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
 
 1. [AI Background Generator by PhotoRoom](https://www.photoroom.com/backgrounds/) 👉 Describe the image you want, and it will magically generate an infinite number of unique backgrounds using stable diffusion that match your exact request
 
