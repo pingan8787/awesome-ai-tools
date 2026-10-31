@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [SoloPup Memory](https://github.com/OakcoderX/solopup-memory/blob/main/README.en.md) 👉 Native DeepSeek Harness text-memory plugin with original-source references, project scope, conditions and correction history. MIT public beta; requires compatible DSH and Node 24.9+. Lexical recall and model review may fail; configured model APIs may charge.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
