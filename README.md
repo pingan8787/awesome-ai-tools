@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Wizmade](https://wizmade.si/) 👉 All-in-one AI video and image creation platform featuring Kling, Veo 3.1, Seedance, FLUX, and viral video effects (such as Hotel Lobby AI). Freemium with 60 free credits upon registration, paid plans start from 12 USD/month.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
