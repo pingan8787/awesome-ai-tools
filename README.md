@@ -3412,6 +3412,9 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 264. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
+266. [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) 👉 Instant zero-signup technical SEO, Core Web Vitals, and AI search crawler diagnostic engine.
+267. [SEOAudit](https://seoaudit.com.ua/) 👉 Enterprise technical SEO audit platform for website crawlability, internal link structure, and indexation analysis.
+268. [ListAIHub](https://listaihub.com/) 👉 Curated directory of autonomous AI agents, developer tools, and OpenAPI specifications for agent discovery and tool calling.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
