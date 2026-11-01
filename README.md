@@ -2013,6 +2013,7 @@ Join 2700+ creators to reach billions of people globally
 125. [Icon Craft AI](https://iconcraftai.com/) 👉 Accelerate Your Icon Creation Process: Harness the Power of Our AI Digital Icon Generator for Your Business Website, Applications, and Brand.
 
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
+127. [Breatic](https://github.com/orime-org/breatic) 👉 Collaborative documents and AI media canvas with project-aware agent proposals reviewed by people. Source-available; internal/private deployment permitted under its license.
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
