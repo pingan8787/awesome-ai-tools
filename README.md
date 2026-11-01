@@ -2014,6 +2014,8 @@ Join 2700+ creators to reach billions of people globally
 
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
 
+127. [AdVariq](https://advariq.com/) 👉 AI ad creative and visual generation platform to clone winning ads, edit product photos, and generate high-converting promotional assets. Freemium with free trial available, paid plans start from 29 USD/month.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
