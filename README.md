@@ -3114,6 +3114,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 44. [Yoodli](https://app.yoodli.ai/) 👉 Improve your confidence with personalized communication coaching from Yoodli.
 
+45. [Santa Cam](https://santacam.org/) 👉 Santa Cam turns a photo of your front door, Christmas tree or house into a short AI video of Santa caught on a home camera. Santa can say up to three first names and one personal line. HD, no watermark, no app needed.
+
 ## 16. <a name='SEOSearching'></a>🔎 SEO & Searching
 
 1. [Ai Note - Ai Writing Tool](https://ainote.com.au/) 👉 AiNote is a remarkable AI writing platform that stands out as the finest worldwide. It excels at crafting content that is not only pleasing to the eye but also optimised for search engines like Google.
