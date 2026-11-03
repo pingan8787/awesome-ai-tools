@@ -1790,6 +1790,10 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Cyanvid](https://cyanvid.com/?utm_source=pingan8787-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) 👉 Create AI videos from text or images. Compare specs and see exact credit quotes before you generate. Built for creators and marketers.
+
+98. [Barz Studio](https://barzvideo.com/?utm_source=pingan8787-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) 👉 Make a beat-reactive rap lyric video from your track in the browser. Sync lyrics, pick a mood, export 9:16 WebM. Free without an account.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
