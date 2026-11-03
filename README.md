@@ -1790,6 +1790,8 @@ Join 2700+ creators to reach billions of people globally
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
+97. [Seedance Now](https://seedancenow.com/) 👉 Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s 1080p. Independent, not affiliated with ByteDance.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
