@@ -2459,7 +2459,7 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
-79. [T-Social](https://t.me/TSocialAppBot) 👉 TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+.
+79. [Flirt Social](https://t.me/TSocialAppBot) 👉 TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters. 18+.
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
