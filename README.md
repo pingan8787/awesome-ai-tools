@@ -1116,6 +1116,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 249. [AnySlide](https://anyslide.app) 👉 AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
 
+250. [Humanize Ink](https://humanizeink.com/) 👉 Free AI humanizer that rewrites an English draft in natural, professional or casual tones and shows the original next to the result.
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
@@ -1789,6 +1791,10 @@ Join 2700+ creators to reach billions of people globally
 95. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
 
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
+
+97. [ReelBoop](https://reelboop.com/) 👉 AI video templates that turn a photo into dance, outfit-change, duet and product videos, with private preview and MP4 download.
+
+98. [Skeleton AI](https://skeletonai.org/) 👉 Skeleton explainer shorts from a topic, with ready-made prompts and vertical previews.
 
 ## 6. <a name='Design'></a>🎨 Design
 
@@ -4017,6 +4023,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 15. [Draw3D](https://draw3d.online/) 👉 Transform your sketch into a photorealistic image.
 
 16. [Catoon](https://catoon.xyz) 👉 AI serial comic studio that turns novels and long stories into reusable characters, storyboards, speech bubbles, rendered panels, and export-ready comic chapters.
+
+17. [StylMorph](https://stylmorph.com/) 👉 Free image-to-image tool that restyles a photo into a comic, cartoon or game-art look with a side-by-side comparison and no signup.
 
 ## 28. <a name='Finance'></a>💳 Finance
 
