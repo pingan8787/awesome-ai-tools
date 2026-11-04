@@ -95,6 +95,9 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
 23. [AI2image](https://www.ai2image.com/) 👉 Generate the best images online with Free AI Image Generator by AI2image. Use AI to generate high-quality images of any size and style you want!
 
 24. [AiBERT](http://aibert.co/) 👉 Generate ChatGPT & MidJourney images directly via WhatsApp
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 25. [Aiblocks](https://aiblocks.app/) 👉 AiBlocks
 
