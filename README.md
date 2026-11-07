@@ -2936,6 +2936,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [Meetini](https://meetini.net/) 👉 Meeting and interview assistant for Apple Silicon Macs with local live captions and transcripts, meeting notes, interview preparation, and cloud AI answer suggestions and follow-up. Paid plans start at $20/month or $45/quarter.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
