@@ -1364,6 +1364,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 121.  [aicost](https://github.com/dwylq/aicost) 👉 Universal AI coding cost analyzer CLI — scan Claude Code and Cursor for token usage and costs in one pass. Cache-aware pricing, HTML dashboard, no API key. MIT licensed.
 
+122.  [NextReset](https://nextreset.ai/) 👉 Free Codex companion with source-linked public reset history, official AI-service incident updates, and a browser-local personal timer.
+
 122.  [Unslop](https://github.com/MohamedAbdallah-14/unslop) 👉 CLI and MCP server that removes AI writing patterns from text — tricolons, em-dash overuse, sycophancy openers, and overused vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor. Five intensity levels and a lint-only audit mode.
 
 123.  [Nex.ai](https://nex.ai) 👉 Context engineering platform that gives AI agents real-time organizational context from CRM, email, Slack, and data warehouses. REST API with SSE streaming.
