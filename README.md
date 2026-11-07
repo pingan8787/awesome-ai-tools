@@ -1594,7 +1594,9 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 ## 5. <a name='Video'></a>🎥 Video
 
-1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
+1. [AlphaDrama](https://www.getalphadrama.com/) 👉 AI web studio that turns stories into vertical drama series, and product photos into ready-to-post video ads. Consistent characters, natural voices, burned-in captions, and 9:16 MP4 export.
+
+2. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
 
 2. [AIArt](https://aiart.dev/) 👉 aiart.dev
 
