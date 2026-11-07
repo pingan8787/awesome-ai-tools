@@ -3419,6 +3419,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
 
+266. [Keenable](https://keenable.ai/) 👉 Web search and knowledge access for AI agents: an independent 100B+ document index with search and clean page fetch over API, CLI and a hosted MCP server. 100K free requests/month.
+
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
 1. [Ada](https://app.adaptiv.me/app/ask-ada) 👉 Adaptiv Academy
