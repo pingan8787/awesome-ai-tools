@@ -272,6 +272,8 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
 
 112. [Hotpot](https://hotpot.ai/) 👉 Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.
 
+113. [Imagera](https://imagera.ai) 👉 AI studio to create and edit images, video, voice and music, with Character IDs that keep the same face or product across every shot
+
 113. [I Wear Art](https://iwear.art/) 👉 Create unique art with AI, and wear it on your apparel.
 
 114. [Iillustrate](https://iillustrate.ai/) 👉 I, illustrate
