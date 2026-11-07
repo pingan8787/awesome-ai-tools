@@ -2936,6 +2936,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [Enhanciar](https://enhanciar.in/?utm_source=directory&utm_medium=listing&utm_campaign=pingan8787-awesome-ai-tools) 👉 A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
