@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [GenOps Framework](https://github.com/neerazz/genops-framework) 👉 Open-source (MIT) governance and operations framework for LLM/agent pipelines — adds policy enforcement, cost controls, and observability hooks so generative-AI workloads run with auditable guardrails in CI/CD.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
