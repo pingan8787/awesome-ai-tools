@@ -3579,6 +3579,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
 
+35. [ORANO](https://oranoai.com) 👉 Turn saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans (iOS, Android, web; freemium).
+
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
 1. [AI Lyrics Generator](https://theselyricsdonotexist.com/) 👉 Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood
