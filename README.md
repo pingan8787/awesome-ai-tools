@@ -2018,6 +2018,8 @@ Join 2700+ creators to reach billions of people globally
 
 127. [Spaceora](https://spaceora.app) 👉 AI-powered interior, exterior, virtual staging, and garden design platform plus a free Before & After Photo Maker. Upload a photo of any room or backyard to generate realistic redesigns in seconds.
 
+128. [iGen3D](https://igen3d.com/) 👉 Convert 2D images and text prompts into production-ready 3D models and watertight STL files for 3D printing in under 60 seconds.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
