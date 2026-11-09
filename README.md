@@ -2166,6 +2166,8 @@ Join 2700+ creators to reach billions of people globally
 
 1. [ArtImageHub](https://artimagehub.com/old-photo-restoration) 👉 AI-powered old photo restoration. Fixes scratches, fading, blur, and water damage on old family photos. One-time $4.99, no subscription.
 
+1. [Cutout.Free](https://cutout.free/) 👉 Free online background remover: upload a JPG, PNG or WebP photo (up to 20 MB) and download a transparent PNG or a JPG with a white, blue, red or custom background. No account, credits or daily limit.
+
 
 73. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based AI background remover that runs fully on-device via WebAssembly — no upload, no signup. Also includes OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and AI robots.txt generator. Open source.
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
