@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [RemakeThat](https://remakethat.com/) 👉 Links a proven TikTok or Facebook video as the creative brief, writes an original script, and renders a faceless UGC-style remake starring your AI creator; series mode produces affiliate seller clips on autopilot.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
