@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [AI Video Expand](https://aivideoexpand.com/) 👉 AI video expander: upload an MP4 or MOV clip (up to 60 seconds) and reshape it to 16:9, 9:16, 1:1, 4:5 or 5:4. The AI keeps your original frame and generates the missing picture around it, with original sound and no watermark. Paid per clip (from $4.99), no sign-up.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
