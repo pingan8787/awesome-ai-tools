@@ -2086,6 +2086,8 @@ Join 2700+ creators to reach billions of people globally
 
 1. [Kive](https://www.kive.ai/) 👉 Kive – all your inspiration in one place
 
+1. [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) 👉 Desktop AI image editor (IOPaint-based, LaMa) for watermark and object removal, cutout, upscaling; runs fully offline, one-time purchase, Windows & macOS
+
 1. [Krisp](https://krisp.ai/) 👉 Krisp cancels background noise and reduces echo during your calls. Get started with Krisp today and enjoy effective online meetings.
 
 1. [Lensto](https://apps.apple.com/us/app/lensto-background-changer/id1574844033) 👉 Lensto is a photo editor app that lets you edit images including background remover. We use artificial intelligence to cut out, which work as background remover. And overlay your subject over an awesome background.
