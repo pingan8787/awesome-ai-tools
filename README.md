@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [Vidney](https://vidney.ai/)：AI 视频与图像工作台，支持文字和照片生成，以及宠物视频、情侣合照等任务。按积分使用，提供一次性新用户赠额和付费方案。
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
