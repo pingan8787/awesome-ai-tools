@@ -2116,6 +2116,8 @@ Join 2700+ creators to reach billions of people globally
 
 1. [Photospells](https://photospells.com/) 👉 Professional Photo Edition with AI.
 
+1. [PicOnTap](https://picontap.com/) 👉 Free AI image editor, no sign-up needed to start. Describe an edit in a text prompt to remove objects, replace backgrounds, recolor details or restore old photos (paid plans add monthly credits)
+
 1. [PixAI](https://apps.apple.com/cn/app/pixai/id6443815029) 👉 AI Image Super-resolution for iOS
 
 1. [Pixian](https://pixian.ai/) 👉 Remove Image Backgrounds, Free HD, No Signup - Pixian.AI
