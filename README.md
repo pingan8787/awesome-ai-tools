@@ -2589,6 +2589,8 @@ Join 2700+ creators to reach billions of people globally
 
 62. [Slashspace](https://www.slashspace.ai/) 👉 Local-first desktop AI canvas for research: branch chats, add PDFs and web pages as context, and compare models side by side.
 
+63. [ModelBenchmark](https://modelbenchmark.io/) 👉 Independent rankings for 202 AI models, with prices and specs for 2,406 models.
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
