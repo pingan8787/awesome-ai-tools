@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129. [Atlas Cloud](https://www.atlascloud.ai/) 👉 Unified API platform for developers: an OpenAI-compatible endpoint for 120+ LLMs plus image, video and audio generation models behind one API key, with a model catalog, docs and an MCP server for AI coding tools.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
