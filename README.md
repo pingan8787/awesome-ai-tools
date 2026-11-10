@@ -1592,6 +1592,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 105. [Sistava](https://sistava.com) 👉 AI agent orchestration platform for deploying and operating multiple AI agents that run sales, marketing, finance, and customer support. Reach agents through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks, with full computer use on your own OS.
 
+106. [Revenue Scout](https://revenuescout.ai/) 👉 Finds public social posts from potential buyers, explains why they match, and prepares replies you can review and post yourself.
+
 ## 5. <a name='Video'></a>🎥 Video
 
 1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
@@ -3418,6 +3420,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 264. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
+
+266. [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) 👉 Free MIT-licensed Claude Code plugin for site audits, broken-link checks, content planning, and structured data.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
