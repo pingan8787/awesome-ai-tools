@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129. [ChatOutline Pro](https://samlu574.github.io/chatoutline-pro/) 👉 Floating table of contents, 1-click Markdown exporter (Obsidian/Notion), and centralized Code Hub for ChatGPT, Claude, Gemini, and DeepSeek. 100% local & privacy-first.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
