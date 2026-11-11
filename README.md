@@ -3418,6 +3418,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 264. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
 
 265. [Parse](https://parse.gl/) 👉 AI brand visibility analytics that tracks how your brand appears in ChatGPT and Google AI Overviews. Parse Score benchmarks, citation diagnostics, and 577,000+ brands tracked.
+266. [FlashData Google and YouTube data tools](https://flashdata.dev/mcp) 👉 Google Search and YouTube research APIs with an MIT MCP/CLI client and fifteen task Skills; API key and paid credits required.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
