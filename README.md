@@ -3954,6 +3954,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 18. [TextureLab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
 
+19. [PlayDrop](https://www.playdrop.ai/create) 👉 Make a browser game by describing it, or publish one your AI app made, and share it with a link.
+
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
