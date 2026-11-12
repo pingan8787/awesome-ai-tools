@@ -1592,7 +1592,7 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 105. [Sistava](https://sistava.com) 👉 AI agent orchestration platform for deploying and operating multiple AI agents that run sales, marketing, finance, and customer support. Reach agents through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks, with full computer use on your own OS.
 
-106. [Revenue Scout](https://revenuescout.ai/) 👉 Finds public social posts from potential buyers, explains why they match, and prepares replies you can review and post yourself.
+106. [Revenue Scout](https://revenuescout.ai/) 👉 Sales Prospecting Assistant that finds public social posts from potential buyers, explains why they match, and prepares replies you can review and post yourself.
 
 ## 5. <a name='Video'></a>🎥 Video
 
