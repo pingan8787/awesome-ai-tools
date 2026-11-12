@@ -1748,6 +1748,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 77. [Translate video](https://www.translate.video/) 👉 Translate.video helps in videos translation, captioning, subtitle translation, dubbing, AI voice-over, recording, and transcript generation using AI to 75+ languages with just 1-click.
 
+78. [Pavo AI](https://pavoai.app/) 👉 An AI video generator and image-to-video maker for short drama and social clips: write a scene, generate the shots, and reuse the same cast so characters stay consistent across clips. Free tier to start.
+
 Compared to any manual process, this is 100x faster.
 
 Join 2700+ creators to reach billions of people globally
