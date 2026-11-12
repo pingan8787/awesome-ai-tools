@@ -3579,6 +3579,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [Wordtune Read](https://www.wordtune.com/read) 👉 Wordtune Read is an AI reader that summarizes long documents so you can understand more, faster.
 
+35. [UtilifyAI](https://utilifyai.com/) 👉 Suite of 26 free, no-signup AI and student productivity tools including an AI PDF-to-Quiz Generator (with printable PDF/DOCX answer keys), Free AI Text Humanizer, YouTube Lecture Summarizer, and lossless PDF toolkit.
+
 ## 19. <a name='MusicLyrics'></a>🎹 Music & Lyrics
 
 1. [AI Lyrics Generator](https://theselyricsdonotexist.com/) 👉 Generate your own song lyrics for any topic, also choose lyrics genre and lyrics mood
