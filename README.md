@@ -2588,6 +2588,7 @@ Join 2700+ creators to reach billions of people globally
 61. [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) 👉 搜索科学论文，从全文研究中提取结构化实验数据。支持 SSE 和 Streamable HTTP。
 
 62. [Slashspace](https://www.slashspace.ai/) 👉 Local-first desktop AI canvas for research: branch chats, add PDFs and web pages as context, and compare models side by side.
+63. [AutoResearch](https://autoresearch.me/en/) 👉 From a research direction to an evidence-backed paper: connects literature exploration, testable ideas, model implementation, GPU experiments and manuscript drafting. Private beta; access requires administrator approval.
 
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
