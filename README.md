@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [HiAPI](https://hiapi.ai) 👉 Pay-as-you-go API for image, video, audio and text models (GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok, Qwen) behind one key: OpenAI-compatible Responses and Chat Completions for text, async task APIs for media, published per-model pricing, and automatic refunds on failed tasks.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
