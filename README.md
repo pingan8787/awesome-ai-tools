@@ -2138,6 +2138,8 @@ Join 2700+ creators to reach billions of people globally
 
 1. [Slazzer 3.0](https://www.slazzer.com/) 👉 Remove background from image automatically in 5 seconds. Don't waste time manually selecting pixels. Just upload photo & get instant cutout.
 
+1. [SparkPix](https://sparkpix.ai/) 👉 Prompt-based AI photo editor that makes AI-generated photos look more real by fixing plastic skin and uncanny faces.
+
 1. [Stillgram](https://stillgram.io/) 👉 Stillgram is an A.I. point & shoot camera app that magically removes background crowds from your urban/travel photos. FREE & PRO versions. GET IT NOW!!
 
 1. [Synthesys](https://synthesys.io/x/) 👉 Start Turning Your Online Inspiration Into Your Own Unique Creations!
