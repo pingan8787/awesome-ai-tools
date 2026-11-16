@@ -1116,6 +1116,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 249. [AnySlide](https://anyslide.app) 👉 AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
 
+250. [HumanPen](https://humanpen.net) 👉 HumanPen rewrites AI-drafted text into natural, human-sounding prose while preserving meaning. Freemium web humanizer for students and writers.
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
