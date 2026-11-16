@@ -2707,6 +2707,8 @@ Join 2700+ creators to reach billions of people globally
 
 58. [Unrealme](https://unrealme.io/) 👉 Unreal me
 
+59. [Narkis.ai](https://narkis.ai/) 👉 Upload 15-20 selfies, get your own AI model, then make headshots, LinkedIn photos and dating photos (Tinder, Hinge, Bumble) that look like you. From $27 one-time for up to 200 photos.
+
 ## 12. <a name='AudioVoice'></a>🎙 Audio & Voice
 
 1. [Adobe Podcast](https://www.magictools.online/audio/adobepodcast) 👉 AI-powered audio recording and editing, all in the web
