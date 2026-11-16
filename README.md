@@ -1622,6 +1622,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 14. [Creatus.AI](https://creatus.ai/) 👉 Creatus.AI is an AI-driven text-to-video app that leverages natural language processing, lip sync, and machine learning to efficiently produce versatile, high-quality content.
 
+15. [Cutora AI](https://usecutora.com/) 👉 AI video editor for talking-head videos: it makes a first cut by removing long pauses, false starts and repeated takes, adds captions, and you review the edit on a timeline.
+
 15. [D-ID Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
 
 16. [D-ID's Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
