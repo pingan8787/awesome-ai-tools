@@ -608,6 +608,8 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
 
+279. [Sheru Bhai Photo Generator](https://sherubhaiphotogenerator.com) 👉 Upload one selfie and get a photo of yourself standing next to Sheru Bhai, a cartoon white lion in a white suit. The lion's reference picture is fixed, so the character looks the same in every image. Six preset scenes or write your own; first photo free, then about $0.20–0.30 per image.
+
 ## 2. <a name='Writing'></a>✍️ Writing
 
 1. [AI Cowriter](https://ai-cowriter.com/) 👉 Write 10x faster with AI-generated autocomplete text suggestions
