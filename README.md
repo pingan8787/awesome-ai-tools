@@ -2463,6 +2463,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [Off Grid AI](https://getoffgridai.co) 👉 Private AI on your own computer for chat, image generation and voice with open models, with no account or cloud
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
