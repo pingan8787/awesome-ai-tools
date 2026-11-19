@@ -608,6 +608,8 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
 
+279. [Raphael AI](https://raphael.app/) 👉 Free browser-based AI image and video generator unifying Nano Banana, GPT Image, Seedream, Veo, and Kling across 32 languages, with no sign-up required to start.
+
 ## 2. <a name='Writing'></a>✍️ Writing
 
 1. [AI Cowriter](https://ai-cowriter.com/) 👉 Write 10x faster with AI-generated autocomplete text suggestions
