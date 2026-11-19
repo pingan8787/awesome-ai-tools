@@ -1604,193 +1604,195 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 5. [Azure Video Indexer](https://vi.microsoft.com/) 👉 Azure Video Indexer is Microsoft’s Applied AI service for media AI. The service enables its users to unlock insights from their videos using artificial intelligence technologies. The unlocked insights can be used to make videos libraries more searchable, improve consumer engagement, increase the monetizable value for videos, and make video and audio content more accessible. The service provide APIs, portal experience and widgets that can seamlessly integrate with existing video infrastructure.
 
-6. [bigmp4](https://bigmp4.com/) 👉 Using 2022 cutting edged AI model to lossless enlarge video, enhance video, AI interpolation make video vivid while supporting b&w video colorization and smooth slow motion
+6. [BeatMV](https://beatmv.ai/) 👉 AI music video generator that turns any song into a music video that moves with the beat.
 
-7. [Chapterme](https://chapterme.co/) 👉 The easiest and fastest way to generate chapters for your videos ????
+7. [bigmp4](https://bigmp4.com/) 👉 Using 2022 cutting edged AI model to lossless enlarge video, enhance video, AI interpolation make video vivid while supporting b&w video colorization and smooth slow motion
 
-8. [ClipMaker](https://www.clipmaker.ai/) 👉 We use AI to generate short clips from your YouTube video and then schedule them on your TikTok and Instagram channels.
+8. [Chapterme](https://chapterme.co/) 👉 The easiest and fastest way to generate chapters for your videos ????
 
-9. [Clips AI](https://www.clipsai.com/) 👉 Clips AI helps you grow your platform by repurposing your content at scale
+9. [ClipMaker](https://www.clipmaker.ai/) 👉 We use AI to generate short clips from your YouTube video and then schedule them on your TikTok and Instagram channels.
 
-10. [CognitiveMill](https://cognitivemill.com/) 👉 Cognitive Mill is the first Cognitive Computing Cloud for the Media and Entertainment industry. The power of augmented intelligence to understand any video content.
+10. [Clips AI](https://www.clipsai.com/) 👉 Clips AI helps you grow your platform by repurposing your content at scale
 
-11. [Colossyan](https://www.colossyan.com/) 👉 AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
+11. [CognitiveMill](https://cognitivemill.com/) 👉 Cognitive Mill is the first Cognitive Computing Cloud for the Media and Entertainment industry. The power of augmented intelligence to understand any video content.
 
-12. [Colossyan](https://www.colossyan.com/) 👉 Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
+12. [Colossyan](https://www.colossyan.com/) 👉 AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
 
-13. [Creative Reality Studio](https://studio.d-id.com/) 👉 Generate videos using just an image and text. Choose from several different avatars and voices.
+13. [Colossyan](https://www.colossyan.com/) 👉 Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
 
-14. [Creatus.AI](https://creatus.ai/) 👉 Creatus.AI is an AI-driven text-to-video app that leverages natural language processing, lip sync, and machine learning to efficiently produce versatile, high-quality content.
+14. [Creative Reality Studio](https://studio.d-id.com/) 👉 Generate videos using just an image and text. Choose from several different avatars and voices.
 
-15. [D-ID Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
+15. [Creatus.AI](https://creatus.ai/) 👉 Creatus.AI is an AI-driven text-to-video app that leverages natural language processing, lip sync, and machine learning to efficiently produce versatile, high-quality content.
 
-16. [D-ID's Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
+16. [D-ID Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
 
-17. [Designs.AI](https://designs.ai/) 👉 Create logos, videos, banners, mockups with A.I. in 2 minutes.
+17. [D-ID's Creative Reality Studio](https://studio.d-id.com/) 👉 Create professional videos using just a still image with text or audio powered by AI.
 
-18. [Dubverse.ai](https://dubverse.ai/) 👉 Dubverse is an online video dubbing platform. Dubverse uses artificial intelligence to dub video across 30 languages at a lightning fast speed
+18. [Designs.AI](https://designs.ai/) 👉 Create logos, videos, banners, mockups with A.I. in 2 minutes.
 
-19. [EasySub - Auto Subtitle Generator](https://easyssub.com/) 👉 Simply upload videos and automatically get the most accurate transcription subtitles and support 150+ free language translations. Easy Video Editing Online.Free video clips, add watermark, modify background color, resolution, video export and download.
+19. [Dubverse.ai](https://dubverse.ai/) 👉 Dubverse is an online video dubbing platform. Dubverse uses artificial intelligence to dub video across 30 languages at a lightning fast speed
 
-20. [Eightify](https://www.eightify.app/) 👉 Generate summaries of YouTube videos quickly and easily with Eightify AI ChatGPT. Our Chrome extension lets you access a summary of YouTube videos and quickly find main points. Try it now and get the most out of your YouTube videos.
+20. [EasySub - Auto Subtitle Generator](https://easyssub.com/) 👉 Simply upload videos and automatically get the most accurate transcription subtitles and support 150+ free language translations. Easy Video Editing Online.Free video clips, add watermark, modify background color, resolution, video export and download.
 
-21. [Elai](https://elai.io/) 👉 Create personalized AI videos with diverse digital avatars from text. Use Elai to make videos in a matter of minutes without a camera, studio, and greenscreen.
+21. [Eightify](https://www.eightify.app/) 👉 Generate summaries of YouTube videos quickly and easily with Eightify AI ChatGPT. Our Chrome extension lets you access a summary of YouTube videos and quickly find main points. Try it now and get the most out of your YouTube videos.
 
-22. [Elai.io](https://elai.io/) 👉 Create personalized AI videos with diverse digital avatars from text.
+22. [Elai](https://elai.io/) 👉 Create personalized AI videos with diverse digital avatars from text. Use Elai to make videos in a matter of minutes without a camera, studio, and greenscreen.
 
-23. [Explore AI](https://exploreai.vercel.app/) 👉 Explore AI
+23. [Elai.io](https://elai.io/) 👉 Create personalized AI videos with diverse digital avatars from text.
 
-24. [FilmForge](https://filmforge.uwu.ai/) 👉 Instantly generate engaging videos. Captions, voiceover, and graphics included.
+24. [Explore AI](https://exploreai.vercel.app/) 👉 Explore AI
 
-25. [Flawlessai](https://www.flawlessai.com/) 👉 Flawless is pioneering the generative AI revolution in filmmaking. Empowering the world’s greatest storytellers with magical new tools and emerging technologies.
+25. [FilmForge](https://filmforge.uwu.ai/) 👉 Instantly generate engaging videos. Captions, voiceover, and graphics included.
 
-26. [Fliki](https://fliki.ai/) 👉 Create videos from scripts or blog posts using realistic voices in 2 minutes!
+26. [Flawlessai](https://www.flawlessai.com/) 👉 Flawless is pioneering the generative AI revolution in filmmaking. Empowering the world’s greatest storytellers with magical new tools and emerging technologies.
 
-27. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
+27. [Fliki](https://fliki.ai/) 👉 Create videos from scripts or blog posts using realistic voices in 2 minutes!
 
-28. [Gling](https://www.gling.ai/) 👉 Gling saves YouTubers time in editing by automatically identifying and cutting out silences and bad takes.
+28. [Flowjin](https://www.flowjin.com/) 👉 Flowjin turns long audio files into short video clips to share on Youtube and TikTok
 
-29. [Gling](https://www.gling.ai/) 👉 Creator, get your time back. Our AI will cut silences and bad takes for you so you can focus on your YouTube videos
+29. [Gling](https://www.gling.ai/) 👉 Gling saves YouTubers time in editing by automatically identifying and cutting out silences and bad takes.
 
-30. [Hify](https://hify.io/) 👉 Create Bulk videos in Google sheet
+30. [Gling](https://www.gling.ai/) 👉 Creator, get your time back. Our AI will cut silences and bad takes for you so you can focus on your YouTube videos
 
-31. [Hour One](https://hourone.ai/) 👉 Welcome to Hour One, the world's fastest-growing AI video maker. We turn text into video to make learning & development more fun & effective. Try now!
+31. [Hify](https://hify.io/) 👉 Create Bulk videos in Google sheet
 
-32. [Hourone](https://hourone.ai/) 👉 Turn text to video to make learning & development more fun & effective.
+32. [Hour One](https://hourone.ai/) 👉 Welcome to Hour One, the world's fastest-growing AI video maker. We turn text into video to make learning & development more fun & effective. Try now!
 
-33. [Instable Story](https://instable-story.theodorhillmann.de/) 👉 Create cringe movies with AI generated storyboards
+33. [Hourone](https://hourone.ai/) 👉 Turn text to video to make learning & development more fun & effective.
 
-34. [Lumen5](https://lumen5.com/) 👉 Lumen5 is a video creation platform designed for brands and businesses to produce social video content for driving audience engagements online. The platform is powered by artificial intelligence and enables anyone without training or experience to easily create engaging video content within minutes.
+34. [Instable Story](https://instable-story.theodorhillmann.de/) 👉 Create cringe movies with AI generated storyboards
 
-35. [Magic Thumbnails](https://magicthumbnails.com/) 👉 Generate YouTube Thumbnails with AI! Pick your preferred style, or train your own model to match your style
+35. [Lumen5](https://lumen5.com/) 👉 Lumen5 is a video creation platform designed for brands and businesses to produce social video content for driving audience engagements online. The platform is powered by artificial intelligence and enables anyone without training or experience to easily create engaging video content within minutes.
 
-36. [Make a Video](https://makeavideo.studio/) 👉 A state-of-the-art AI system generates high-quality videos from text prompts
+36. [Magic Thumbnails](https://magicthumbnails.com/) 👉 Generate YouTube Thumbnails with AI! Pick your preferred style, or train your own model to match your style
 
-37. [Maverick](https://www.trymaverick.com/) 👉 Boost revenue and LTV for Ecommerce by sending customers personalized videos at scale. Maverick helps ecommerce businesses, online retailers and other brands leverage the power of AI generated video. Connect with us!
+37. [Make a Video](https://makeavideo.studio/) 👉 A state-of-the-art AI system generates high-quality videos from text prompts
 
-38. [Move](https://www.move.ai/) 👉 FREE YOUR MOTION. CAPTURE YOUR IMAGINATION. No more suits, no more restrictions. High fidelity motion capture made easy
+38. [Maverick](https://www.trymaverick.com/) 👉 Boost revenue and LTV for Ecommerce by sending customers personalized videos at scale. Maverick helps ecommerce businesses, online retailers and other brands leverage the power of AI generated video. Connect with us!
 
-39. [Movio](https://www.movio.la/) 👉 Synthetic media that can turn your text to video.
+39. [Move](https://www.move.ai/) 👉 FREE YOUR MOTION. CAPTURE YOUR IMAGINATION. No more suits, no more restrictions. High fidelity motion capture made easy
 
-40. [Movio](https://www.movio.la/) 👉 Why pay a spokesperson when you can use an AI video editor to create one? MOVIO is a top-shelf synthetic media that can turn your text to video.
+40. [Movio](https://www.movio.la/) 👉 Synthetic media that can turn your text to video.
 
-41. [Neuralframes](https://www.neuralframes.com/) 👉 Create your own video clips from text prompts with generative AI
+41. [Movio](https://www.movio.la/) 👉 Why pay a spokesperson when you can use an AI video editor to create one? MOVIO is a top-shelf synthetic media that can turn your text to video.
 
-42. [Not A Person](https://neuralactors.com/) 👉 Neural Actors
+42. [Neuralframes](https://www.neuralframes.com/) 👉 Create your own video clips from text prompts with generative AI
 
-43. [Nuro.video](https://nuro.video/en/) 👉 Nuro edits your video content for you. With a single click.
+43. [Not A Person](https://neuralactors.com/) 👉 Neural Actors
 
-44. [Opus Clip](https://www.opus.pro/clip) 👉 Opus Clip is an AI-powered video repurposing tool that turns long videos into high-quality viral clips for you to share on Tiktok, YouTube Shorts, and Reels to increase social media reach.
+44. [Nuro.video](https://nuro.video/en/) 👉 Nuro edits your video content for you. With a single click.
 
-45. [Papercup](https://www.papercup.com/) 👉 Next-gen AI Dubbing service that automates video translation. Now you can localize your videos into multiple languages with a human-sounding voiceover at scale.
+45. [Opus Clip](https://www.opus.pro/clip) 👉 Opus Clip is an AI-powered video repurposing tool that turns long videos into high-quality viral clips for you to share on Tiktok, YouTube Shorts, and Reels to increase social media reach.
 
-46. [PEECH](https://www.peech-ai.com/) 👉 Smart Automatic Video Editing Platform
+46. [Papercup](https://www.papercup.com/) 👉 Next-gen AI Dubbing service that automates video translation. Now you can localize your videos into multiple languages with a human-sounding voiceover at scale.
 
-47. [PEECH](https://www.peech-ai.com/) 👉 Peech, a personalized and automatic video editing and management platform, allows you to automatically create, transcribe, collaborate, optimize, and publish content - all in one place.
+47. [PEECH](https://www.peech-ai.com/) 👉 Smart Automatic Video Editing Platform
 
-48. [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) 👉 Instant, automatic photo corrections & video enhancement.
+48. [PEECH](https://www.peech-ai.com/) 👉 Peech, a personalized and automatic video editing and management platform, allows you to automatically create, transcribe, collaborate, optimize, and publish content - all in one place.
 
-49. [Personalized Videos at Scale](https://www.trymaverick.com/) 👉 Utilize Personalized Videos at Scale to introduce your business processes. You can address customers and engage them with your brand with personalized video messages. This personalization is beneficial in various ways, including improving sales conversions, enhancing trust and credibility, brand awareness, improving engagement rates, attracting old and cold customers, and much more. So, don't wait and engage your targeted customers now.
+49. [Perfectly Clear Video](https://eyeq.photos/automatic-ai-video-enhancement/) 👉 Instant, automatic photo corrections & video enhancement.
 
-50. [Picsart](https://picsart.com/) 👉 NEWHOMEDATA_PICSART_IS_THE_LARGEST_ALL-IN-ONE
+50. [Personalized Videos at Scale](https://www.trymaverick.com/) 👉 Utilize Personalized Videos at Scale to introduce your business processes. You can address customers and engage them with your brand with personalized video messages. This personalization is beneficial in various ways, including improving sales conversions, enhancing trust and credibility, brand awareness, improving engagement rates, attracting old and cold customers, and much more. So, don't wait and engage your targeted customers now.
 
-51. [Project Blink](https://labs.adobe.com/projects/blink/) 👉 A place for us to share some of our explorations into the future of creativity, expression, and communication
+51. [Picsart](https://picsart.com/) 👉 NEWHOMEDATA_PICSART_IS_THE_LARGEST_ALL-IN-ONE
 
-52. [QuickVid](https://www.quickvid.ai/) 👉 Generate youtube shorts 10x faster
+52. [Project Blink](https://labs.adobe.com/projects/blink/) 👉 A place for us to share some of our explorations into the future of creativity, expression, and communication
 
-53. [Rephrase](https://www.rephrase.ai/) 👉 Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
+53. [QuickVid](https://www.quickvid.ai/) 👉 Generate youtube shorts 10x faster
 
-54. [Runwayml](https://runwayml.com/) 👉 Discover advanced video editing capabilities to take your creations to the next level.
+54. [Rephrase](https://www.rephrase.ai/) 👉 Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 
-55. [Shortzoo](https://www.shortzoo.com/) 👉 Shortzoo allows subtitling and adding bottom videos to short videos with a few clicks using AI transcription tools. It is a forever free service!
+55. [Runwayml](https://runwayml.com/) 👉 Discover advanced video editing capabilities to take your creations to the next level.
 
-56. [Shuffll](https://shuffll.com/) 👉 Shuffll is a cutting-edge video production platform that uses AI technology to streamline the video production process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods. If you are asking: "How can I create video content for my businesses?" - You arrived at the right place
+56. [Shortzoo](https://www.shortzoo.com/) 👉 Shortzoo allows subtitling and adding bottom videos to short videos with a few clicks using AI transcription tools. It is a forever free service!
 
-57. [Snackable AI](https://snackable.ai/) 👉 Snackable
+57. [Shuffll](https://shuffll.com/) 👉 Shuffll is a cutting-edge video production platform that uses AI technology to streamline the video production process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods. If you are asking: "How can I create video content for my businesses?" - You arrived at the right place
 
-58. [Solidpoint](https://www.solidpoint.ai/) 👉 SolidPoint helps you save time by quickly condensing long videos into concise and informative summaries. With the click of a button, you can extract the key ideas and stay focused on the most important points
+58. [Snackable AI](https://snackable.ai/) 👉 Snackable
 
-59. [Steve AI](https://www.steve.ai/) 👉 Steve.AI is an online Video making software that helps anyone to create Videos and animations in seconds.
+59. [Solidpoint](https://www.solidpoint.ai/) 👉 SolidPoint helps you save time by quickly condensing long videos into concise and informative summaries. With the click of a button, you can extract the key ideas and stay focused on the most important points
 
-60. [Story Bard](https://www.storybard.co/) 👉 Video stories generated by AI
+60. [Steve AI](https://www.steve.ai/) 👉 Steve.AI is an online Video making software that helps anyone to create Videos and animations in seconds.
 
-61. [Summarize Tech](https://www.summarize.tech/) 👉 AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting.
+61. [Story Bard](https://www.storybard.co/) 👉 Video stories generated by AI
 
-62. [Summarize Tech](https://www.summarize.tech/) 👉 summarize.tech: AI-powered video summaries
+62. [Summarize Tech](https://www.summarize.tech/) 👉 AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting.
 
-63. [SummarizeIt](https://summarizeit.io/) 👉 Generate Accurate and Concise Video Summaries in Seconds with AI.
+63. [Summarize Tech](https://www.summarize.tech/) 👉 summarize.tech: AI-powered video summaries
 
-64. [Supercreator AI](https://www.supercreator.ai/) 👉 Supercreator is a mobile app that uses artificial intelligence to make it easy and quick to create original short videos fast for TikTok, Reels, Shorts, and more.
+64. [SummarizeIt](https://summarizeit.io/) 👉 Generate Accurate and Concise Video Summaries in Seconds with AI.
 
-65. [Supertranslate](https://www.supertranslate.ai/) 👉 Superblog is a fast blogging platform that is light-weight, and beautiful. You can focus on writing content instead of managing your server, design, and optimizations.
+65. [Supercreator AI](https://www.supercreator.ai/) 👉 Supercreator is a mobile app that uses artificial intelligence to make it easy and quick to create original short videos fast for TikTok, Reels, Shorts, and more.
 
-66. [Synthesia](https://www.synthesia.io/) 👉 Create AI videos by simply typing in text. Easy to use, cheap and scalable.
+66. [Supertranslate](https://www.supertranslate.ai/) 👉 Superblog is a fast blogging platform that is light-weight, and beautiful. You can focus on writing content instead of managing your server, design, and optimizations.
 
-67. [Synthesia](https://www.synthesia.io/) 👉 Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.
+67. [Synthesia](https://www.synthesia.io/) 👉 Create AI videos by simply typing in text. Easy to use, cheap and scalable.
 
-68. [TalkingPhoto by Movio](https://app.movio.la/templates) 👉 Make videos as simply as making PowerPoints. Movio is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process. With Movio, you can create an AI spokesperson video in minutes for corporate training, online learning, explainer videos, e-commerce campaign and much more!
+68. [Synthesia](https://www.synthesia.io/) 👉 Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.
 
-69. [Taption](https://www.taption.com/en-US) 👉 Feature-rich platform that gives you high-quality transcriptions and subtitles for videos
+69. [TalkingPhoto by Movio](https://app.movio.la/templates) 👉 Make videos as simply as making PowerPoints. Movio is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process. With Movio, you can create an AI spokesperson video in minutes for corporate training, online learning, explainer videos, e-commerce campaign and much more!
 
-70. [Targum Video](https://targum.video/) 👉 Targum Video is an AI-based, super fast video translation service. With Targum Video, you can easily translate your videos into multiple languages in just a few minutes.
+70. [Taption](https://www.taption.com/en-US) 👉 Feature-rich platform that gives you high-quality transcriptions and subtitles for videos
 
-71. [Tavus](https://www.tavus.io/) 👉 Record once and discover the power of Tavus as our AI automatically generates personalized videos for audiences large and small.
+71. [Targum Video](https://targum.video/) 👉 Targum Video is an AI-based, super fast video translation service. With Targum Video, you can easily translate your videos into multiple languages in just a few minutes.
 
-72. [Tavus](https://www.tavus.io/) 👉 Tavus is an AI video generation platform that personalizes videos of you to each audience member, automatically. Customize videos with unique voice variables, and drive repeat conversions long after you hit send.
+72. [Tavus](https://www.tavus.io/) 👉 Record once and discover the power of Tavus as our AI automatically generates personalized videos for audiences large and small.
 
-73. [Theoasis](https://theoasis.com/) 👉 Create Video With Your Voice, Powered by Generative AI
+73. [Tavus](https://www.tavus.io/) 👉 Tavus is an AI video generation platform that personalizes videos of you to each audience member, automatically. Customize videos with unique voice variables, and drive repeat conversions long after you hit send.
 
-74. [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) 👉 Production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization - all optimized for your local workstation.
+74. [Theoasis](https://theoasis.com/) 👉 Create Video With Your Voice, Powered by Generative AI
 
-75. [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) 👉 World-class video quality enhancement on your desktop. Use temporal information to naturally upscale, deinterlace, restore, and increase frame rate on videos.
+75. [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) 👉 Production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization - all optimized for your local workstation.
 
-76. [ToWords](https://www.towords.io/) 👉 ToWords: Youtube to words
+76. [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) 👉 World-class video quality enhancement on your desktop. Use temporal information to naturally upscale, deinterlace, restore, and increase frame rate on videos.
 
-77. [Translate video](https://www.translate.video/) 👉 Translate.video helps in videos translation, captioning, subtitle translation, dubbing, AI voice-over, recording, and transcript generation using AI to 75+ languages with just 1-click.
+77. [ToWords](https://www.towords.io/) 👉 ToWords: Youtube to words
+
+78. [Translate video](https://www.translate.video/) 👉 Translate.video helps in videos translation, captioning, subtitle translation, dubbing, AI voice-over, recording, and transcript generation using AI to 75+ languages with just 1-click.
 
 Compared to any manual process, this is 100x faster.
 
 Join 2700+ creators to reach billions of people globally
 
-78. [TranslateVideo](https://www.translate.video/) 👉 Translate videos with just 1-Click
+79. [TranslateVideo](https://www.translate.video/) 👉 Translate videos with just 1-Click
 
-79. [Twelve Labs](https://twelvelabs.io/) 👉 Twelve Labs helps developers make programs that can see, listen, and understand the world as we do by giving them the most powerful video search API
+80. [Twelve Labs](https://twelvelabs.io/) 👉 Twelve Labs helps developers make programs that can see, listen, and understand the world as we do by giving them the most powerful video search API
 
-80. [Typestudio](https://www.typestudio.co/tool/video-to-text) 👉 Transform your video into written text automatically. Type Studio helps you to transcribe your video into text with one click. Everything online.
+81. [Typestudio](https://www.typestudio.co/tool/video-to-text) 👉 Transform your video into written text automatically. Type Studio helps you to transcribe your video into text with one click. Everything online.
 
-81. [Unscreen.com](https://www.unscreen.com/) 👉 Remove Video Background, 100% Automatically and Free. With Unscreen you can record your footage anywhere, then simply get rid of the background.
+82. [Unscreen.com](https://www.unscreen.com/) 👉 Remove Video Background, 100% Automatically and Free. With Unscreen you can record your footage anywhere, then simply get rid of the background.
 
-82. [Vidboard AI](https://vidboard.ai/) 👉 Create AI presenter-led videos on the fly
+83. [Vidboard AI](https://vidboard.ai/) 👉 Create AI presenter-led videos on the fly
 
-83. [Videomakerai](https://www.videomakerai.com/) 👉 Stylize your videos using the power of AI, with different available styles to choose from!
+84. [Videomakerai](https://www.videomakerai.com/) 👉 Stylize your videos using the power of AI, with different available styles to choose from!
 
-84. [Vidyo](https://vidyo.ai/) 👉 Our AI platform helps you convert long form podcasts and videos automatically into shorter shareable clips for TikTok, Reels and Shorts. No CC Required.
+85. [Vidyo](https://vidyo.ai/) 👉 Our AI platform helps you convert long form podcasts and videos automatically into shorter shareable clips for TikTok, Reels and Shorts. No CC Required.
 
-85. [Waymark](https://waymark.com/) 👉 Create compelling sample commercials that you can walk into any and every prospect meeting with spec creative.
+86. [Waymark](https://waymark.com/) 👉 Create compelling sample commercials that you can walk into any and every prospect meeting with spec creative.
 
-86. [Waymark](https://waymark.com/) 👉 Waymark’s AI video creator makes it so fast and easy to create compelling sample commercials that you can walk into any and every prospect meeting with spec creative.
+87. [Waymark](https://waymark.com/) 👉 Waymark’s AI video creator makes it so fast and easy to create compelling sample commercials that you can walk into any and every prospect meeting with spec creative.
 
-87. [Wisecut](https://www.wisecut.video/) 👉 Wisecut is an automatic video editor based on voice recognition
+88. [Wisecut](https://www.wisecut.video/) 👉 Wisecut is an automatic video editor based on voice recognition
 
-88. [WowTo](https://wowto.ai/) 👉 Build a professional video help center for your company, product, or service with just a few clicks.
+89. [WowTo](https://wowto.ai/) 👉 Build a professional video help center for your company, product, or service with just a few clicks.
 
-89. [xpression camera](https://xpressioncamera.com/) 👉 The only real-time generative AI app for video chatting and live streaming
+90. [xpression camera](https://xpressioncamera.com/) 👉 The only real-time generative AI app for video chatting and live streaming
 
-90. [xpression camera 2.0](https://xpressioncamera.com/) 👉 Become anyone on Zoom, Twitch, or any streaming video
+91. [xpression camera 2.0](https://xpressioncamera.com/) 👉 Become anyone on Zoom, Twitch, or any streaming video
 
-91. [Yepic AI](https://www.yepic.ai/royalinvite) 👉 Send your employees, friends and family a royal invite for afternoon tea or one of the many events happening globally to Celebrate the Queen's Platinum Jubilee. Simply update the fields below and we'll generate a personalised video from Her Royal
+92. [Yepic AI](https://www.yepic.ai/royalinvite) 👉 Send your employees, friends and family a royal invite for afternoon tea or one of the many events happening globally to Celebrate the Queen's Platinum Jubilee. Simply update the fields below and we'll generate a personalised video from Her Royal
 
-92. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
+93. [YouWhisper](https://huggingface.co/spaces/sensahin/YouWhisper) 👉 Discover amazing ML apps made by the community
 
-93. [MaxVideoAI](https://maxvideoai.com/models) 👉 Multi-engine AI video model catalog with specs, pricing, examples, and engine comparisons across Sora, Veo, Kling, Seedance, Wan, LTX, and Pika.
+94. [MaxVideoAI](https://maxvideoai.com/models) 👉 Multi-engine AI video model catalog with specs, pricing, examples, and engine comparisons across Sora, Veo, Kling, Seedance, Wan, LTX, and Pika.
 
-94. [PVID](http://pvid.app/) 👉 Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits.
+95. [PVID](http://pvid.app/) 👉 Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits.
 
-95. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
+96. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
 
-96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
+97. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
-97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
+98. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
 ## 6. <a name='Design'></a>🎨 Design
 
@@ -3591,62 +3593,64 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 5. [Artistator](https://artistator.com/) 👉 Generate artist names of your favourite music genres.
 
-6. [Boomy](https://boomy.com/) 👉 Boomy - Make Generative Music with Artificial Intelligence
+6. [BeatMusic](https://beatmusic.ai/) 👉 AI music generator that turns a text idea or your lyrics into full songs with vocals.
 
-7. [Clip audio](https://www.clip.audio/) 👉 Discover, generate & remix audio using text.
+7. [Boomy](https://boomy.com/) 👉 Boomy - Make Generative Music with Artificial Intelligence
 
-8. [Cyanite](https://cyanite.ai/) 👉 Cyanite is an effective music search and tagging engine. Unlock the value of your music catalog.
+8. [Clip audio](https://www.clip.audio/) 👉 Discover, generate & remix audio using text.
 
-9. [Dadabots](https://dadabots.com/) 👉 Neural networks
+9. [Cyanite](https://cyanite.ai/) 👉 Cyanite is an effective music search and tagging engine. Unlock the value of your music catalog.
 
-10. [Daft Art](https://www.daftart.ai/) 👉 Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI.
+10. [Dadabots](https://dadabots.com/) 👉 Neural networks
 
-11. [Ecrett Music](https://ecrettmusic.com/) 👉 Easy way to create royalty free music.
+11. [Daft Art](https://www.daftart.ai/) 👉 Daft allows you to create an amazing, high quality artwork for your album cover within a few minutes, powered by AI.
 
-12. [Emergent Drums](https://audialab.com/) 👉 Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI
+12. [Ecrett Music](https://ecrettmusic.com/) 👉 Easy way to create royalty free music.
 
-13. [Evoke Music](https://evokemusic.ai/) 👉 Evoke Music is a royalty-free music library made with AI.
+13. [Emergent Drums](https://audialab.com/) 👉 Emergent Drums by Audialab - Generate infinite, royalty-free drum samples with AI
 
-14. [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) 👉 The Infinite Drum Machine
+14. [Evoke Music](https://evokemusic.ai/) 👉 Evoke Music is a royalty-free music library made with AI.
 
-15. [LALAL.AI Voice Cleaner](https://www.lalal.ai/) 👉 Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
+15. [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) 👉 The Infinite Drum Machine
 
-16. [Moises App](https://moises.ai/) 👉 The best app for practicing music. Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI. Try it today!
+16. [LALAL.AI Voice Cleaner](https://www.lalal.ai/) 👉 Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
 
-17. [Mubert](https://mubert.com/) 👉 Mubert - The new royalty-free music ecosystem for content creators, brands and developers Come See How Our High-Quality Music Can Elevate Your Content ⏩
+17. [Moises App](https://moises.ai/) 👉 The best app for practicing music. Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI. Try it today!
 
-18. [Musenet](https://openai.com/blog/musenet/) 👉 We’ve created Musenet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments and can combine styles from country to Mozart to the Beatles.
+18. [Mubert](https://mubert.com/) 👉 Mubert - The new royalty-free music ecosystem for content creators, brands and developers Come See How Our High-Quality Music Can Elevate Your Content ⏩
 
-19. [Musico](https://www.musi-co.com/) 👉 Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
+19. [Musenet](https://openai.com/blog/musenet/) 👉 We’ve created Musenet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments and can combine styles from country to Mozart to the Beatles.
 
-20. [Natural Language Playlist](https://www.naturallanguageplaylist.com/) 👉 Natural Language Playlist
+20. [Musico](https://www.musi-co.com/) 👉 Musico is an AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
 
-21. [Orb Producer](https://www.orbplugins.com/orb-producer-suite/) 👉 Orb Producer Suite is a set of 4 unique AI music plugins, computing infinite patterns, chord progressions, melodies , basslines and arpeggios
+21. [Natural Language Playlist](https://www.naturallanguageplaylist.com/) 👉 Natural Language Playlist
 
-22. [PlaylistAI](https://www.playlistai.app/) 👉 The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most-listened-to music.
+22. [Orb Producer](https://www.orbplugins.com/orb-producer-suite/) 👉 Orb Producer Suite is a set of 4 unique AI music plugins, computing infinite patterns, chord progressions, melodies , basslines and arpeggios
 
-23. [Raplyrics](https://raplyrics.eu/) 👉 AI generated rap music lyrics, compose in the styles of your preferred artists.
+23. [PlaylistAI](https://www.playlistai.app/) 👉 The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most-listened-to music.
 
-24. [Riffusion](https://www.riffusion.com/) 👉 Stable diffusion for real-time music generation
+24. [Raplyrics](https://raplyrics.eu/) 👉 AI generated rap music lyrics, compose in the styles of your preferred artists.
 
-25. [Songmastr](https://www.songmastr.com/) 👉 Master your song to a commercial reference track automatically using AI. FREE (7/week) & no registration.
+25. [Riffusion](https://www.riffusion.com/) 👉 Stable diffusion for real-time music generation
 
-26. [Songtell](https://www.songtell.com/) 👉 Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
+26. [Songmastr](https://www.songmastr.com/) 👉 Master your song to a commercial reference track automatically using AI. FREE (7/week) & no registration.
 
-27. [Suede](https://suedeai.ai) 👉 AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
-28. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
+27. [Songtell](https://www.songtell.com/) 👉 Unlock the hidden depths of your favorite songs with the help of AI. Discover the true meaning behind the lyrics you love with Songtell.
 
-29. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
+28. [Suede](https://suedeai.ai) 👉 AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
+29. [Soundful](https://soundful.com/) 👉 Soundful is an AI Music Generator platform that enables content creators and music artists to create unlimited tracks and monetize music.
 
-30. [Splash](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
+30. [Soundraw](https://soundraw.io/) 👉 Your personal AI music generator.
 
-31. [Staccato](https://staccato.ai/) 👉 Generative AI for musicians & lyricists.
+31. [Splash](https://www.splashmusic.com/) 👉 Bringing the joy of music making to everyone
 
-32. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) 👉 Synthesizer V | Dreamtonics 株式会社
+32. [Staccato](https://staccato.ai/) 👉 Generative AI for musicians & lyricists.
 
-33. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
+33. [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) 👉 Synthesizer V | Dreamtonics 株式会社
 
-34. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
+34. [Tunes For Tales](https://tunesfortales.fun/) 👉 Recommends songs that vibe with your story and emotions.
+
+35. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
 
 ## 20. <a name='Emails'></a>📥 Emails
 
