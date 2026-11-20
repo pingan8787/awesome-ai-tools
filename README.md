@@ -524,6 +524,8 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 236. [Synth Run](https://app.synth.run/#/home) 👉 Synth
 
+237. [TattooTryOn](https://tattootryon.app/) 👉 Upload a photo of the spot, place a design and see it as a healed tattoo. Also: AI tattoo generator, photo to tattoo, cover-up preview, 49 tattoo fonts.
+
 237. [Text To Book Cover](https://stockimg.ai/text-to-book-cover) 👉 This Book Covers Designed By AI
 
 238. [Text to Image API](https://deepai.org/machine-learning-model/text2img) 👉 It creates an image from scratch from a text description
