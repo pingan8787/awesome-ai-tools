@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [i2v.ai](https://i2v.ai) 👉 Image and video generation API for developers: 12 image models and 16 video models behind one endpoint, covering text-to-image, text-to-video and image-to-video. Every paid task returns a USD quote before submission and accepts a per-task spending cap, and the same API is exposed as an MCP server so coding agents can call it directly.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
