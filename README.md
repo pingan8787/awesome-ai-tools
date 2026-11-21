@@ -1377,6 +1377,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 127.  [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
+129.  [Latchkey](https://latchkey.dev) 👉 CI your coding agents can run, read and fix: self-healing GitHub Actions runners plus a CLI and MCP server.
 
 ## 4. <a name='Business'></a>👔 Business
 
