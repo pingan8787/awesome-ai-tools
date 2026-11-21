@@ -3962,33 +3962,35 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 3. [Architechtures](https://architechtures.com/en/) 👉 AI-Powered Building Design Web tool for the residential sector to help you improve decision making and reduce design time from months to minutes.
 
-4. [Coolaiid](https://coolaiid.com/) 👉 Interior design ideas and virtual staging using AI
+4. [ArchitecturesAI](https://architecturesai.com/) 👉 Turn a prompt, sketch, floor plan or photo into a photorealistic architectural render, with interior, exterior, landscape and virtual staging tools. Freemium.
 
-5. [DecorAI](https://decorai.io/) 👉 DecorAI
+5. [Coolaiid](https://coolaiid.com/) 👉 Interior design ideas and virtual staging using AI
 
-6. [Decorous: AI Home Makeovers](https://apps.apple.com/us/app/decorous-ai-home-makeovers/id1664988827) 👉 Transform your home with the power of AI. Decorous is the ultimate tool for interior design enthusiasts, giving you the power to create the home of your dreams with just a few taps.
+6. [DecorAI](https://decorai.io/) 👉 DecorAI
 
-7. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
+7. [Decorous: AI Home Makeovers](https://apps.apple.com/us/app/decorous-ai-home-makeovers/id1664988827) 👉 Transform your home with the power of AI. Decorous is the ultimate tool for interior design enthusiasts, giving you the power to create the home of your dreams with just a few taps.
 
-8. [Getfloorplan](https://getfloorplan.com/) 👉 Download a 2d floor plan to get great 3d renderings with furniture and a virtual tour
+8. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
 
-9. [Image Computer](https://image.computer/) 👉 Image Computer
+9. [Getfloorplan](https://getfloorplan.com/) 👉 Download a 2d floor plan to get great 3d renderings with furniture and a virtual tour
 
-10. [Interior AI](https://interiorai.com/) 👉 Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
+10. [Image Computer](https://image.computer/) 👉 Image Computer
 
-11. [Interior Computer](https://image.computer/interior-design) 👉 Re-imagine your interior with AI
+11. [Interior AI](https://interiorai.com/) 👉 Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.
 
-12. [Makeit.ai](https://www.maket.ai/) 👉 Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.
+12. [Interior Computer](https://image.computer/interior-design) 👉 Re-imagine your interior with AI
 
-13. [Mobel](https://mobel.app/) 👉 Create customized interior design variations and transform your room with artificial intelligence.
+13. [Makeit.ai](https://www.maket.ai/) 👉 Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.
 
-14. [Oda Studio](https://stager.odastudio.ai/) 👉 Pick your style and color to customize your home in seconds with AI
+14. [Mobel](https://mobel.app/) 👉 Create customized interior design variations and transform your room with artificial intelligence.
 
-15. [Pipers](https://www.pipers.ai/) 👉 Pipers
+15. [Oda Studio](https://stager.odastudio.ai/) 👉 Pick your style and color to customize your home in seconds with AI
 
-16. [PropertyPen](https://try.magictools.ai/) 👉 Create professional real estate listings in no time with our advanced AI technology.
+16. [Pipers](https://www.pipers.ai/) 👉 Pipers
 
-17. [REimagine Home](https://www.reimaginehome.ai/) 👉 Generative AI to redesign any space in seconds.
+17. [PropertyPen](https://try.magictools.ai/) 👉 Create professional real estate listings in no time with our advanced AI technology.
+
+18. [REimagine Home](https://www.reimaginehome.ai/) 👉 Generative AI to redesign any space in seconds.
 
 ## 27. <a name='DrawingCartoons'></a>✏️ Drawing & Cartoons
 
