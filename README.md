@@ -2463,6 +2463,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [unbottled.ai](https://unbottled.ai) 👉 Chat with 130 mainstream, open and uncensored models in one account, with the filter level set by you. Free monthly credits, open source, paid plans from $8/month.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
