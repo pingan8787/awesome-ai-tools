@@ -3648,6 +3648,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 34. [AceTagGen](https://acetaggen.com) 👉 Structured prompt builder for Suno AI. 12-step tag picker with a few thousand tested tags and an open-source scorer on npm. Free core, no signup.
 
+35. [GrooveSheet](https://www.groovesheet.net/) 👉 Turns any song into sheet music for drums, piano, guitar and bass, a chord chart, isolated stems and MIDI. Export PDF, MusicXML or Guitar Pro. Free 30-second preview of any song.
+
 ## 20. <a name='Emails'></a>📥 Emails
 
 1. [BaruaAI](https://baruaai.com/) 👉 Save time and effort with AI email sequence generation
