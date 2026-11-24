@@ -45,6 +45,7 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
   - [28. 💳 Finance](#28--finance)
   - [29. 👜 Fashion \& Style](#29--fashion--style)
   - [30. 💌 Dating \& Relationships](#30--dating--relationships)
+  - [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
