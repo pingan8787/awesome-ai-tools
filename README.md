@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [Recut](https://tryrecut.com) 👉 AI video agent: resize for TikTok/Reels/Shorts, captions, music and long-to-short, from one prompt.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
@@ -3030,6 +3032,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 46. [WidgetsAI](https://widgetsai.com/) 👉 WidgetsAI is a no-Code white-label platform that offers monetizable and embeddable AI Widgets. With WidgetsAI, you get access to a diverse range of AI widgets, including blog posts and Twitter tweet generators, as well as customizable chatbots. Our platform offers configurable API, giving you the flexibility to tailor the AI widgets to your specific needs. You can easily integrate these widgets with your own API keys or use shared keys for added convenience. Additionally, our direct payment system via Stripe allows you to monetize your AI widgets and earn money from sharing them with your audience.
 
+47. [Postnod](https://usepostnod.com) 👉 AI agent that plans and schedules posts across Instagram, TikTok, YouTube, X, LinkedIn, Facebook and Threads.
+
 ## 15. <a name='FunGiftsCards'></a>🤹‍♀️ Fun, Gifts & Cards
 
 1. [AI Cards](https://designstripe.com/ai-cards/) 👉 undefined
@@ -3831,6 +3835,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 25. [We Made a Story](https://www.wemadeastory.com/) 👉 'We Made a Story' uses AI to create stories for children with stunning illustrations
 
 26. [What on earth?](https://www.whatonearth.xyz/) 👉 Search the internet on WhatOnEarth!
+
+27. [AISP](https://tryaisp.com) 👉 Turns a story idea into episodes with consistent characters.
 
 ## 23. <a name='IdeaGeneration'></a>💡 Idea Generation
 
