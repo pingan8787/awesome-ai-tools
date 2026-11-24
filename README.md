@@ -3509,6 +3509,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 44. [VisaCanvas](https://visacanvas.com/) 👉 AI-powered EB1A and NIW visa eligibility assessment tool that evaluates your profile against all 10 USCIS extraordinary ability criteria with detailed scoring and guidance.
 
+45. [CareerBldr](https://careerbldr.com/) 👉 AI resume builder that tailors your resume to each job post, checks ATS fit and writes cover letters.
+
 ## 18. <a name='NotesStudying'></a>🎓 Notes & Studying
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
