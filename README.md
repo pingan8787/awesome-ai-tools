@@ -307,6 +307,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 127. [iSee](https://apps.apple.com/us/app/isee-ai-art-image-editor/id1643731633) 👉 Create unique AI Avatars using your own words and images with no limits or additional costs. iSee allows users to create unique AI avatars based on their own selfies.
 
 128. [Kaedim](https://www.kaedim3d.com/) 👉 Kaedim is your own personal 3D artist. Use any basic image to create a textured, production-ready 3D model.
+129. [Luphra](https://www.luphra.com/) 👉 Prompt-to-matter: AI that turns prompts and sketches into editable 3D and manufactured physical products.
 
 129. [Kiri.art](https://kiri.art/) 👉 Diffusion Image Generation
 
