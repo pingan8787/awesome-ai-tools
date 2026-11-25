@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [LoopTroop](https://github.com/looptroop-ai/LoopTroop) 👉 Local-first open-source GUI app that orchestrates an LLM Council through Ralph Loops and Context Engineering to autonomously run full-lifecycle coding tickets. Multiple models plan via anonymous voting, work splits into atomic Beads in isolated git worktrees, and Ralph Loops retry failures with fresh context.
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
