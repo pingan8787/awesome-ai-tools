@@ -45,6 +45,7 @@ Add table-of-contents, search, bookmarks, and export to long AI chats. Browse an
   - [28. 💳 Finance](#28--finance)
   - [29. 👜 Fashion \& Style](#29--fashion--style)
   - [30. 💌 Dating \& Relationships](#30--dating--relationships)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ## 1. <a name='ImageArtGeneration'></a>📷 Image & Art Generation
 
