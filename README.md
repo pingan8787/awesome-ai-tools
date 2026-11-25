@@ -606,7 +606,9 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 277. [Prompt to Asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) 👉 MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run.
 
-278. [Punch Needle Generator](https://www.punchneedle.co.il/en) 👉 AI-powered punch needle embroidery pattern generator with color-coded yarn maps. Generates patterns from text prompts or image uploads, exports PDF/PNG/SVG.
+278. [Punch Needle Generator](https://www.punchneedle.co.il/en)
+
+279. [Emu](https://image.tinchak0207.xyz) 👉 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key，生成完直接下载。
 
 ## 2. <a name='Writing'></a>✍️ Writing
 
