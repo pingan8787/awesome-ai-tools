@@ -4056,6 +4056,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 15. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
 
+16. [AlphaSift](https://github.com/ZhuLinsen/alphasift) 👉 Open-source (Apache-2.0) multi-market AI quantitative stock screening CLI, zero-dependency Web UI workbench, STDIO MCP server (14 tools & 4 resources), and public T+1/T+5/T+10 purged walk-forward empirical radar across 7 equity markets.
+
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
 1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 AweMyFace — is a skincare app and your only guide on the way to the perfect skin.
