@@ -1116,6 +1116,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 249. [AnySlide](https://anyslide.app) 👉 AI slide deck generator with two engines: HTML inline-editable web slides and gpt-image-2 full-image rendering with native Chinese, Japanese, and Korean text support. 38 templates, 8 niche presets, 60 free credits at signup.
 
+250. [IELTS Writing Checker](https://ieltswritingchecker.org/) 👉 Reviews IELTS Academic Task 1, General Training Task 1, and Task 2 writing with criterion-specific feedback and revision guidance. [Freemium]
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
