@@ -3954,6 +3954,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 18. [TextureLab](https://www.texturelab.xyz/) 👉 Generate 3D textures for your game in seconds thanks to AI.
 
+19. [RBXGFX](https://rbxgfx.com/) 👉 AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons producing multiple distinct compositions per request, plus free browser-based Roblox image sizing and safe-zone preview utilities.
+
 ## 26. <a name='HomeArchitecture'></a>🏠 Home & Architecture
 
 1. [AI Room Planner](https://airoomplanner.com/interiorai/design) 👉 AI Room Planner - Interior Design By AI
