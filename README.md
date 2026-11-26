@@ -1592,6 +1592,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 105. [Sistava](https://sistava.com) 👉 AI agent orchestration platform for deploying and operating multiple AI agents that run sales, marketing, finance, and customer support. Reach agents through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks, with full computer use on your own OS.
 
+106. [Improvado](https://improvado.io) 👉 Commercial marketing data platform with an AI agent for marketing analytics. It pulls data from ad platforms, web analytics and CRM tools, harmonizes it, and loads it into a data warehouse or BI tool; paid product.
+
 ## 5. <a name='Video'></a>🎥 Video
 
 1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
