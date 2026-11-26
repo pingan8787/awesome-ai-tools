@@ -1377,6 +1377,7 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 127.  [KubeStellar Console](https://github.com/kubestellar/console) 👉 Multi-cluster Kubernetes dashboard with AI-powered operations via MCP. Includes kc-agent for bridging AI coding agents (Claude, Copilot, Codex) to the Kubernetes API for natural-language cluster management, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
+129.  [RevHive](https://github.com/jovian-zhibai/RevHive) 👉 Runs nine specialised reviewers over one diff (security, performance, logic, tests, style, refactor, docs, repo context, fix suggestions), then a coordinator merges duplicates and arbitrates conflicting verdicts. The model endpoint is yours, so a self-hosted gateway or Ollama keeps the diff on your network. Source-available under BSL 1.1.
 
 ## 4. <a name='Business'></a>👔 Business
 
