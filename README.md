@@ -2168,6 +2168,9 @@ Join 2700+ creators to reach billions of people globally
 
 
 73. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based AI background remover that runs fully on-device via WebAssembly — no upload, no signup. Also includes OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and AI robots.txt generator. Open source.
+
+74. [dojotool Background Remover](https://dojotool.com/image/remove-bg) 👉 Free AI background remover that runs in the browser with BiRefNet-lite on WebGPU or the CPU. The photo is not uploaded, there is no sign-up or watermark, and the PNG keeps the original size.
+
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
