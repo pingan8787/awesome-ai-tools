@@ -2465,6 +2465,7 @@ Join 2700+ creators to reach billions of people globally
 
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
+1. [AshuTeacher](https://ashuteacher.vercel.app) 👉 Interactive AI Voice Blackboard, 195-country syllabus academy, exam paper solver & Project/Thesis Research Studio with live AI Viva Defense in 100+ languages.
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
 
 2. [Andi](https://andisearch.com/) 👉 Instead of just links, Andi gives you answers - like talking with a smart friend.
