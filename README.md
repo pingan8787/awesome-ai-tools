@@ -374,6 +374,7 @@ Image AI App is a tool that utilizes artificial intelligence (AI) to generate va
 
 161. [OpenArt Photo Booth](https://openart.ai/photobooth) 👉 Create personalized photos with ease
 
+162. [PalaPili](https://palapili.com) 👉 AI image & video generator: photo enhancement, 4K upscaling, background/object removal, inpainting, and multi-model image & video generation. Free/Paid.
 162. [Palette](https://palette.fm/) 👉 Colorize Black and White Pictures Automatic, no sign-up, and Free!
 
 163. [Patience](https://patience.ai/create) 👉 Create art with 30+ AI models & styles on Patience.ai
