@@ -2168,6 +2168,8 @@ Join 2700+ creators to reach billions of people globally
 
 
 73. [TinyTools](https://tinytools-smoky.vercel.app/) 👉 Free browser-based AI background remover that runs fully on-device via WebAssembly — no upload, no signup. Also includes OG image generator, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, and AI robots.txt generator. Open source.
+
+74. [TinyMast](https://tinymast.com/image-compress/) 👉 Free image compressor that hits a target KB size per file (20/50/100 KB or any value), up to 100 JPG/PNG/WebP/GIF images per batch with ZIP download; the same site compresses, merges, splits and OCRs PDFs. No signup, and uploaded files are deleted within 24 hours.
 ## 8. <a name='TextSpeech'></a>🗣️ Text & Speech
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
