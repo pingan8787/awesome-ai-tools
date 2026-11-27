@@ -2589,6 +2589,8 @@ Join 2700+ creators to reach billions of people globally
 
 62. [Slashspace](https://www.slashspace.ai/) 👉 Local-first desktop AI canvas for research: branch chats, add PDFs and web pages as context, and compare models side by side.
 
+63. [PaperFlow](https://paperflow.one/) 👉 Turn research PDFs with selectable text into a translated reading view, method and limitation summaries, and Markdown notes for source checking.
+
 ## 11. <a name='AvatarsProfilePics'></a>🧑 Avatars & Profile Pics
 
 1. [AI Photos](https://aiphotos.ai/) 👉 Get 150+ AI generated photos in 50+ styles for her, him, and couples.
