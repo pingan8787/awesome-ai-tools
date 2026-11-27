@@ -2463,6 +2463,8 @@ Join 2700+ creators to reach billions of people globally
 
 78. [RemoteOpenClaw](https://remoteopenclaw.com) 👉 Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent skills and personas.
 
+79. [Whizi](https://whizi.io/) 👉 One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research. Web, iOS and Android.
+
 ## 10. <a name='ResearchEducation'></a>📚 Research & Education
 
 1. [AI Alfred](https://www.theaialfred.com/) 👉 Summarize what you want in 1 single click, using AI
