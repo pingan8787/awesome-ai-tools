@@ -1792,6 +1792,8 @@ Join 2700+ creators to reach billions of people globally
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
 
+98. [SurgeShorts](https://surgeshorts.com) 👉 Paste a past YouTube live, Twitch VOD or Kick broadcast and SurgeShorts reads the chat across the whole stream, ranks the moments chat reacted to most and plays each one on the page. Any part exports as a 9:16 short for TikTok, YouTube Shorts and Reels, or as a 16:9 MP4. Finding where chat reacted is free with no sign-up; free plan with daily exports, Pro $19/month.
+
 ## 6. <a name='Design'></a>🎨 Design
 
 1. [Adobe Sensei](https://www.adobe.com/sensei.html) 👉 Power incredible experiences with AI.
