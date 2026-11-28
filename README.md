@@ -2018,6 +2018,8 @@ Join 2700+ creators to reach billions of people globally
 
 127. [Spaceora](https://spaceora.app) 👉 AI-powered interior, exterior, virtual staging, and garden design platform plus a free Before & After Photo Maker. Upload a photo of any room or backyard to generate realistic redesigns in seconds.
 
+128. [DepthCarve](https://depthcarve.com/photo-to-bas-relief) 👉 Turn photos into 16-bit grayscale depth maps and watertight STL bas-reliefs for CNC carving, 3D printing, and MOPA laser engraving, plus 85 free browser CNC and laser shop calculators.
+
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
 1. [Igly](https://igly.ai/) 👉 Free AI image editor for e-commerce and content teams with background removal, image generation, upscale, restore, inpaint, and canvas editing
