@@ -1592,6 +1592,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 105. [Sistava](https://sistava.com) 👉 AI agent orchestration platform for deploying and operating multiple AI agents that run sales, marketing, finance, and customer support. Reach agents through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks, with full computer use on your own OS.
 
+1. [AI Order Entry](https://aiorderentry.com/) 👉 Extract SKUs, quantities, and line items from emailed PDF purchase orders into clean CSV and ERP-ready data.
+
 ## 5. <a name='Video'></a>🎥 Video
 
 1. [AI Screenwriter](https://aiscreenwriter.com/) 👉 AIScreenwriter is a state-of-the-art tool designed to streamline the screenwriting process, allowing writers to create compelling stories with ease. Our tool uses cutting-edge AI technology to analyze your writing and suggest improvements to make your script more engaging and entertaining.
@@ -1791,6 +1793,8 @@ Join 2700+ creators to reach billions of people globally
 96. [HeyVid](https://heyvid.ai) 👉 All-in-one AI video and image generator with text-to-image and text-to-video in a single workspace.
 
 97. [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) 👉 Self-hosted, open-source (AGPL-3.0) studio for AI vertical short dramas: script, characters, scenes, props, storyboard, voice and edit, with versioned reference-image assets reused across shots. Video/image via paid Seedance/Seedream APIs or your own ComfyUI.
+
+1. [YouTube Thumbnail Tester](https://youtubethumbnailtester.com/) 👉 Preview and compare YouTube thumbnails and video titles in real desktop and mobile feeds before publishing.
 
 ## 6. <a name='Design'></a>🎨 Design
 
@@ -2017,6 +2021,8 @@ Join 2700+ creators to reach billions of people globally
 126. [Image3D](https://image3d.io/) 👉 Convert images into 3D assets with GLB, OBJ, STL, and PLY exports.
 
 127. [Spaceora](https://spaceora.app) 👉 AI-powered interior, exterior, virtual staging, and garden design platform plus a free Before & After Photo Maker. Upload a photo of any room or backyard to generate realistic redesigns in seconds.
+
+1. [Architectural Rendering AI](https://architecturalrenderingai.com/) 👉 Turn architectural sketches, floor plans, and CAD elevations into photorealistic interior and exterior renders online.
 
 ## 7. <a name='ImageEditing'></a>📷 Image Editing
 
