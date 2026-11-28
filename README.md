@@ -2306,6 +2306,8 @@ Join 2700+ creators to reach billions of people globally
 
 68. [Vocova](https://vocova.app) 👉 AI transcription tool supporting 100+ languages with speaker diarization, URL import from 1000+ platforms, and bilingual side-by-side export.
 
+69. [Keyvo](https://keyvo.needslab.ai/en/) 👉 Cross-platform AI voice dictation app (macOS, Windows, iOS, Android) with hold-to-stream live typing, tap-to-clean editing, custom terms, and 36 languages.
+
 ## 9. <a name='Chatbots'></a>💬 Chatbots
 
 1. [AI Answers by Cohere](https://cohere.io/) 👉 AI-powered support assistance that finds answers from previous tickets
